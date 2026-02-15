@@ -1,0 +1,3 @@
+Soñé que volvía a ver a Bárbara. Estaba yo en casa de foráneo de Aguascalientes cuando Bárbara me iba a a visitar de nuevo. Pasabamos el tiempo igual, por algún motivo yo estaba en el Tecnológico de Monterrey, y por algún motivo yo juraba que si había estudiado ahí. Es un sueño recurrente el estudar en el Tecnológico de Monterrey y no sé por qué. Después regresaba a casa y me abrazaba con ella y no quería que se fuera. Ella quería irse. Se va, y me vuelve a romper el corazón.
+
+Interesante sueño, el subconciente todavía piensa en ella. No estoy seguro qué es lo que debo de hacer para que ya no pasé, o si pasará. Tal vez simplemente debo de aceptar que fue un personaje importante.

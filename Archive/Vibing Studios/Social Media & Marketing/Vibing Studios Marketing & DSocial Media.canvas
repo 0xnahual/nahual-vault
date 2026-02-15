@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"c99e9587caa1169a","type":"text","text":"Vibing Studios Marketing & Social Media ","x":-246,"y":-162,"width":250,"height":58},
+		{"id":"54dd2728235c7c29","type":"text","text":"[[Kiwii Pocket Marketing.canvas|Kiwii Pocket]]","x":67,"y":-162,"width":250,"height":60},
+		{"id":"f5c62faf0eabe439","type":"text","text":"Vibing Studios Social Media Channels","x":-246,"y":-294,"width":250,"height":60},
+		{"id":"edc2a6eb5782dfc5","type":"text","text":"Instagram","x":140,"y":-413,"width":140,"height":55},
+		{"id":"44a400bda261d2a1","type":"text","text":"TikTok","x":-20,"y":-409,"width":115,"height":50},
+		{"id":"d47c9e96d92da5ea","type":"text","text":"Twitter","x":-480,"y":-409,"width":117,"height":53},
+		{"id":"fffe0b5515d4325d","type":"text","text":"Youtube","x":-336,"y":-411,"width":120,"height":56},
+		{"id":"1e6b4daf9fc356dc","type":"text","text":"Drip Haus","x":-189,"y":-409,"width":136,"height":50},
+		{"id":"23921770d2a71993","type":"text","text":"[[Digital Collectibles.canvas|Digital Collectibles]]","x":-590,"y":-162,"width":250,"height":60},
+		{"id":"59248d861ffe36d8","type":"text","text":"[[Echoes Marketing.canvas|Echoes Marketing]]","x":-246,"y":40,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"16650b89220e708c","fromNode":"c99e9587caa1169a","fromSide":"bottom","toNode":"59248d861ffe36d8","toSide":"top"},
+		{"id":"99bf56043e64582b","fromNode":"c99e9587caa1169a","fromSide":"right","toNode":"54dd2728235c7c29","toSide":"left"},
+		{"id":"9311cf980026aa7d","fromNode":"c99e9587caa1169a","fromSide":"top","toNode":"f5c62faf0eabe439","toSide":"bottom"},
+		{"id":"236fae57a6b52008","fromNode":"f5c62faf0eabe439","fromSide":"left","toNode":"d47c9e96d92da5ea","toSide":"bottom"},
+		{"id":"1282797b2a519d79","fromNode":"f5c62faf0eabe439","fromSide":"top","toNode":"fffe0b5515d4325d","toSide":"bottom"},
+		{"id":"f0732751ba9d5d5e","fromNode":"f5c62faf0eabe439","fromSide":"top","toNode":"44a400bda261d2a1","toSide":"bottom"},
+		{"id":"9618584ece2dd93d","fromNode":"f5c62faf0eabe439","fromSide":"right","toNode":"edc2a6eb5782dfc5","toSide":"bottom"},
+		{"id":"1b3e12269c78f99f","fromNode":"f5c62faf0eabe439","fromSide":"top","toNode":"1e6b4daf9fc356dc","toSide":"bottom"},
+		{"id":"1e2e073e22e656b3","fromNode":"c99e9587caa1169a","fromSide":"left","toNode":"23921770d2a71993","toSide":"right"}
+	]
+}

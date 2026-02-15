@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"d48621b73ddd26ac","type":"text","text":"¿Cuál es mi propósito?\n\nHacer arte que inspire los principios de la Toltequidad.\n","x":-725,"y":-123,"width":380,"height":134,"color":"2"},
+		{"id":"a34286fdb7405248","type":"text","text":"EL GRAN CANVAS DEL PROPÓSITO","x":-595,"y":-367,"width":250,"height":60,"color":"5"},
+		{"id":"081a75b7f3a1f576","type":"text","text":"¿Cómo?","x":-1090,"y":-49,"width":250,"height":60},
+		{"id":"e52b951eb9b14e2f","type":"text","text":"[[Vibing Studios Marketing & DSocial Media.canvas|Vibing Studios]]","x":-1480,"y":-153,"width":250,"height":60},
+		{"id":"cf8833685c5edda2","type":"text","text":"[[Ixtlán.canvas|Ixtlán]]","x":-1480,"y":-49,"width":250,"height":60},
+		{"id":"8b739dff122bacd3","type":"text","text":"[[Fuerza y Gratitud.canvas|Fuerza y Gratitud]]","x":-1480,"y":54,"width":250,"height":60},
+		{"id":"44e296aac2bb99ca","type":"text","text":"[[Vision Board.canvas|Vision Board]]","x":-599,"y":-551,"width":250,"height":60},
+		{"id":"adc09d8ffc9443f9","type":"text","text":"Cosas sobre las que me gustaria hablar en mi arte:\n- Como todos tenemos a Dios dentro de nosotros, y por ello tenemos el límite humano infinito.\n- \"Un gran poder lleva una gran responsabilidad\"\n- Nos vamos a morir. Ponte las pilas. Arregla tus desmadres! Y disfruta de tu gente.\n- Agradecimiento por la vida.\n- Perderle el miedo a la muerte, tener fé\n- Cómo la fuerza de muchos puede ayudar a ganar.\n- Fe, Paciencia, y trabajo duro.\n","x":-620,"y":611,"width":464,"height":379},
+		{"id":"efbb7580e7e6a29b","type":"text","text":"¿Por qué?\n\nPorque fui bendecido por Dios por los regalos que me ha dado al nacer en una buena familia, en un buen lugar, dónde no he sufrido ni hambre, ni odio, ni violencia.\n\nQuiero darlo todo como agradecimiento a Dios por todas las bendiciones que se me han dado, además que he tenido la bendición de educarme lo suficiente para saber qué es lo que se tiene que hacer, y cómo hacer cosas chingonas.\n\n¿Por qué? Por qué puedo, por qué debo, y por qué quiero.\n","x":-1120,"y":296,"width":464,"height":371},
+		{"id":"a1422aeac46d48e3","type":"text","text":"Cosas que puedo hacer sin pedos y me divierto:\n- Escribir.\n- Twittear.\n- Dirigir equipos.\n- Hacer música.\n- Aprender nuevos instrumentos.\n- Cantar.    \n- ","x":-210,"y":166,"width":349,"height":260},
+		{"id":"c153e9c274800eab","type":"text","text":"Los mayores retos que tengo para este propósito, son mentales. En esta nota escribiré todo con lo qué tengo que trabajar para lograrlo.\n\n- [[Alcoholismo]]\n- Tengo que llegar a mi máximo potencial de cuerpo, mente y espíritu.\n- Tengo que hacerme responsable.\n- Trabajar con mi coraje y no enojarme. Saber manejar el enojo con sabiduría\n- A disfrutar el proceso.\n- A enfocarme y tener horarios de enfoque.\n- Volver a hacerme social.\n- Control de Adicciones.","x":-122,"y":-318,"width":523,"height":391}
+	],
+	"edges":[
+		{"id":"160bff434619685d","fromNode":"a34286fdb7405248","fromSide":"bottom","toNode":"d48621b73ddd26ac","toSide":"top"},
+		{"id":"6aa458ac4e013851","fromNode":"d48621b73ddd26ac","fromSide":"right","toNode":"c153e9c274800eab","toSide":"left"},
+		{"id":"7ececac76f17c09a","fromNode":"d48621b73ddd26ac","fromSide":"bottom","toNode":"efbb7580e7e6a29b","toSide":"top"},
+		{"id":"13070aa6776db025","fromNode":"efbb7580e7e6a29b","fromSide":"bottom","toNode":"adc09d8ffc9443f9","toSide":"left"},
+		{"id":"8360b9115c1f40cb","fromNode":"d48621b73ddd26ac","fromSide":"left","toNode":"081a75b7f3a1f576","toSide":"right"},
+		{"id":"9f3e15d23ac07392","fromNode":"081a75b7f3a1f576","fromSide":"left","toNode":"e52b951eb9b14e2f","toSide":"right"},
+		{"id":"4846aa8b17e552a4","fromNode":"081a75b7f3a1f576","fromSide":"left","toNode":"cf8833685c5edda2","toSide":"right"},
+		{"id":"042b7e04500b7bdb","fromNode":"081a75b7f3a1f576","fromSide":"left","toNode":"8b739dff122bacd3","toSide":"right"},
+		{"id":"1d12079e84d992a9","fromNode":"a34286fdb7405248","fromSide":"top","toNode":"44e296aac2bb99ca","toSide":"bottom"},
+		{"id":"2a3b00de24f77559","fromNode":"d48621b73ddd26ac","fromSide":"bottom","toNode":"a1422aeac46d48e3","toSide":"left"}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"fe0539416ff63ec2","type":"text","text":"Ideas de Posts","x":-520,"y":-210,"width":250,"height":60},
+		{"id":"4f274b1ffea41443","type":"text","text":"Posts que siempre funcionan","x":-220,"y":-210,"width":250,"height":60},
+		{"id":"a5b428899e84dae0","x":-60,"y":-72,"width":250,"height":60,"type":"text","text":"Crecer en X"},
+		{"id":"2122fee1b3287877","x":-420,"y":-72,"width":250,"height":60,"type":"text","text":"Hacer cosas chidas y subir el progeso"},
+		{"id":"ba013d990b238e49","type":"text","text":"Hacer mame de que Echoes será el primer videjuego fondeado desde drip.","x":100,"y":-238,"width":284,"height":116}
+	],
+	"edges":[]
+}

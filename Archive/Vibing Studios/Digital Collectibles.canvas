@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"3f9f63e7d7e8b429","x":-164,"y":46,"width":250,"height":60,"type":"text","text":"Digital Collectibles\n"},
+		{"id":"1e73b893bdd6cf7b","x":-164,"y":-80,"width":250,"height":60,"type":"text","text":"Reviviendo a la comunidad web3"}
+	],
+	"edges":[
+		{"id":"58740eedb8470394","fromNode":"3f9f63e7d7e8b429","fromSide":"top","toNode":"1e73b893bdd6cf7b","toSide":"bottom"}
+	]
+}

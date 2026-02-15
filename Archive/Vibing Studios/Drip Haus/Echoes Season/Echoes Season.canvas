@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"4a6462df2957f593","type":"text","text":"Echoes Season","x":-191,"y":-133,"width":250,"height":60},
+		{"id":"176f35b24a6066be","type":"text","text":"[[Echoes Drops]]","x":0,"y":-284,"width":250,"height":60},
+		{"id":"4e4a7489b9d87d2c","type":"text","text":"[[Echoes Perks]]","x":-340,"y":-284,"width":250,"height":60},
+		{"id":"01a15b97f2bdd8de","type":"text","text":"Marketing","x":-191,"y":0,"width":250,"height":60},
+		{"id":"39763b5c00551154","type":"text","text":"Marketing de contenido","x":-463,"y":128,"width":250,"height":60},
+		{"id":"d2cb3cb03889ed24","type":"text","text":"Estrategia de web2 y hype","x":100,"y":128,"width":250,"height":60},
+		{"id":"feaa9e627672a4fa","type":"text","text":"Steps before","x":-191,"y":158,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"4ca9079df13765ac","fromNode":"4a6462df2957f593","fromSide":"top","toNode":"4e4a7489b9d87d2c","toSide":"bottom"},
+		{"id":"147662e04e455f6c","fromNode":"4a6462df2957f593","fromSide":"top","toNode":"176f35b24a6066be","toSide":"bottom"},
+		{"id":"83a5b69643ab6b4c","fromNode":"4a6462df2957f593","fromSide":"bottom","toNode":"01a15b97f2bdd8de","toSide":"top"},
+		{"id":"991d82a3c7648f8e","fromNode":"01a15b97f2bdd8de","fromSide":"left","toNode":"39763b5c00551154","toSide":"top"},
+		{"id":"6b47a854dec7d461","fromNode":"01a15b97f2bdd8de","fromSide":"bottom","toNode":"feaa9e627672a4fa","toSide":"top"},
+		{"id":"878b4583350d0aea","fromNode":"01a15b97f2bdd8de","fromSide":"right","toNode":"d2cb3cb03889ed24","toSide":"top"}
+	]
+}

@@ -1,0 +1,1 @@
+No está logueado por qué estaba enfermo. Diarrea + Migrañas.

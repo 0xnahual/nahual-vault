@@ -1,0 +1,1 @@
+Los video devlogs deben de tener el formato de 

@@ -1,0 +1,21 @@
+Skills to Unlock
+- 5 perfect pullups
+- 15 pike pushups
+- 20 diamond pushups
+- 25 perfect form pushups
+- Finger Pushups
+- 15 fist pushups ground
+- L-Sit
+- Leg Raises (And variations)
+- Pancake Fold
+- Bow Staff Basic Flow
+- Middle Split
+- Ma Bu 2 min perfect form
+- Pu Bu 2 min perfect form
+- Gong bu 2 min perfect form
+- Recovering knee and leg imbalance (Leg raises, Step Ups)
+- Dead Lift
+- Judo Yellow Belt
+- Side Kick
+- Jump Rope Boxer Skip
+- Dips

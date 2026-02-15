@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c89c8f5d805a1618","type":"text","text":"Vibing Studios","x":-163,"y":-134,"width":250,"height":60},
+		{"id":"d5f8e3e782110600","type":"text","text":"[[Vibing Studios Marketing & DSocial Media.canvas|Vibing Studios Marketing]]","x":-163,"y":20,"width":250,"height":60},
+		{"id":"a1887a55b35e683c","type":"text","text":"Vibing Studios Communications","x":166,"y":-134,"width":250,"height":60},
+		{"id":"c7fd9ecbdf66fc59","x":-520,"y":-134,"width":250,"height":60,"type":"text","text":"Estrategia Fiscal"}
+	],
+	"edges":[
+		{"id":"c180a88c41f1f947","fromNode":"c89c8f5d805a1618","fromSide":"bottom","toNode":"d5f8e3e782110600","toSide":"top"},
+		{"id":"fa6ff6f34a16cd41","fromNode":"c89c8f5d805a1618","fromSide":"right","toNode":"a1887a55b35e683c","toSide":"left"},
+		{"id":"126153ee89831d93","fromNode":"c89c8f5d805a1618","fromSide":"left","toNode":"c7fd9ecbdf66fc59","toSide":"right"}
+	]
+}

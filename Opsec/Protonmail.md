@@ -1,0 +1,1 @@
+abstract poverty faith female quote innocent danger gadget scene antique great chat

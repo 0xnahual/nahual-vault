@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"4d3b7b78a31501d7","type":"text","text":"Drip Haus","x":-100,"y":-120,"width":250,"height":60},
+		{"id":"1afdb7f1591c05b9","type":"text","text":"Seasons","x":-100,"y":-261,"width":250,"height":60},
+		{"id":"29722454b7f7ce3f","type":"text","text":"[[Echoes Season.canvas|Echoes Season]]","x":-101,"y":-437,"width":250,"height":60},
+		{"id":"23fce5c822a301f8","type":"text","text":"[[Utilizando Drip Haus para ganar una fanbase de echoes y fondearnos]]","x":-101,"y":-640,"width":250,"height":100}
+	],
+	"edges":[
+		{"id":"c03b0b73d90c230e","fromNode":"4d3b7b78a31501d7","fromSide":"top","toNode":"1afdb7f1591c05b9","toSide":"bottom"},
+		{"id":"2a2c8084fec94ef3","fromNode":"1afdb7f1591c05b9","fromSide":"top","toNode":"29722454b7f7ce3f","toSide":"bottom"},
+		{"id":"d86384236e86720e","fromNode":"29722454b7f7ce3f","fromSide":"top","toNode":"23fce5c822a301f8","toSide":"bottom"}
+	]
+}

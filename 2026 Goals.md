@@ -1,0 +1,6 @@
+- Hablar menos.
+- 15% body fat.
+- Judo
+- Artista Marcial.
+- Trabajo estable
+- 

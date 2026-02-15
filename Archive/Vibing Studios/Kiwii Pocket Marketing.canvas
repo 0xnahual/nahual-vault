@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"1582449ad0afa7d4","type":"text","text":"Kiwii Pocket Marketing","x":-225,"y":-156,"width":250,"height":60},
+		{"id":"481130fed56b5ea8","type":"text","text":"Estrategias de Marketing","x":-225,"y":-303,"width":250,"height":63},
+		{"id":"5bc15f1363022119","x":-225,"y":20,"width":250,"height":60,"type":"text","text":"Social Media"},
+		{"id":"6960ff023f144b52","x":-40,"y":175,"width":250,"height":60,"type":"text","text":"TikTok"},
+		{"id":"2291a1cac0bf9161","x":-400,"y":175,"width":250,"height":60,"type":"text","text":"Instagram"},
+		{"id":"96900b27e975ec0a","type":"text","text":"SEO ","x":160,"y":-301,"width":250,"height":60},
+		{"id":"395d5faba30c1fec","x":160,"y":-156,"width":250,"height":60,"type":"text","text":"Análisis Competencia"},
+		{"id":"00fe6ec8b2050c50","x":-225,"y":-458,"width":250,"height":60,"type":"text","text":"Estrategia Viral TikTok"}
+	],
+	"edges":[
+		{"id":"a22473c09f0bcdda","fromNode":"1582449ad0afa7d4","fromSide":"top","toNode":"481130fed56b5ea8","toSide":"bottom"},
+		{"id":"25b4b4f9e1ed3e68","fromNode":"1582449ad0afa7d4","fromSide":"bottom","toNode":"5bc15f1363022119","toSide":"top"},
+		{"id":"e5d27fc9bd84a3f5","fromNode":"5bc15f1363022119","fromSide":"bottom","toNode":"2291a1cac0bf9161","toSide":"top"},
+		{"id":"53a319305f360d87","fromNode":"5bc15f1363022119","fromSide":"bottom","toNode":"6960ff023f144b52","toSide":"top"},
+		{"id":"a98168310d5e19ac","fromNode":"481130fed56b5ea8","fromSide":"right","toNode":"96900b27e975ec0a","toSide":"left"},
+		{"id":"9dd2191e261872a4","fromNode":"96900b27e975ec0a","fromSide":"bottom","toNode":"395d5faba30c1fec","toSide":"top"},
+		{"id":"2628384452d74a05","fromNode":"481130fed56b5ea8","fromSide":"top","toNode":"00fe6ec8b2050c50","toSide":"bottom"}
+	]
+}

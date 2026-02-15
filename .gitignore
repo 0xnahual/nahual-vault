@@ -1,0 +1,13 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+.obsidian/themes/
+
+# OS files
+.DS_Store
+.Trash/
+
+# Large/binary files
+*.psd
+*.ai

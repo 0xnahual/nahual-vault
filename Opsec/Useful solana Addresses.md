@@ -1,0 +1,14 @@
+Architect's Vault
+BBBqkbuXyUS4MY2K7VeAZmk1u96jG9dq3Pxyb6cmMZMb
+
+Zenjaku Community Fund
+CUPmPYovX8dFzSufC5p66hShsSV6nHxo5xhYSfFK4uh1
+
+Zenjaku Donation's Fund
+9yw9hUdZCHruZsXdzkY4iaFMPDthegM8DqyrUhucSWsM
+
+Zenjaku Burn0s Fund
+6scYfnYS2bQxNG9sXohtHpndNbtutotBdgxcvftzUxrr
+
+Low term funding
+BZPSR8q48hrdsNUcKEcMb7HediAjXt4i5kZyBz2gWH9S

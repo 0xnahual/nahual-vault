@@ -1,0 +1,358 @@
+{
+  "main": {
+    "id": "def8ad91a9f15159",
+    "type": "split",
+    "children": [
+      {
+        "id": "58d4c93d9bb01383",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c11096f9c16979d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ixtlán/Echoes Album/Fearless.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fearless"
+            }
+          },
+          {
+            "id": "334037519e0fcf4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to balance trading and spirituality.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to balance trading and spirituality"
+            }
+          },
+          {
+            "id": "71ec4929bc3c7ae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ixtlán/Echoes Album/Limitless.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Limitless"
+            }
+          },
+          {
+            "id": "65e7270fcf804197",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ixtlán Project Enseñanzas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ixtlán Project Enseñanzas"
+            }
+          },
+          {
+            "id": "c8d2f1f7c3d5b34d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reglas de ser millonario.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reglas de ser millonario"
+            }
+          },
+          {
+            "id": "e75e5c8595f5c80e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ixtlán/About.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "About"
+            }
+          },
+          {
+            "id": "25dc93cbcd758451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to balance trading and spirituality.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to balance trading and spirituality"
+            }
+          },
+          {
+            "id": "3213a99424d8ca97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to balance trading and spirituality.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to balance trading and spirituality"
+            }
+          },
+          {
+            "id": "da5b5bc850d862a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zenjaku Ordinals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zenjaku Ordinals"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f0fa96d39c69fea",
+    "type": "split",
+    "children": [
+      {
+        "id": "2964ba2cd44707fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b1292db98812c7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "78663b6bd1b2612e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bcfbb32db8421c11",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "13d529ef0bf35ee4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f88268782421c222",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d6725cd4785ab76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Escritos/Programming/Godot Folder Structure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Godot Folder Structure"
+            }
+          },
+          {
+            "id": "9ed9abde2adef281",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Escritos/Programming/Godot Folder Structure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Godot Folder Structure"
+            }
+          },
+          {
+            "id": "8a9fa827dd1dfe25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "def3b0f9b8450b07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Escritos/Programming/Godot Folder Structure.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Godot Folder Structure"
+            }
+          },
+          {
+            "id": "b63105ae62eb6861",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "da5b5bc850d862a5",
+  "lastOpenFiles": [
+    "Escritos/Learning/FL Studio/FL Patcher.md",
+    "Escritos/Learning/FL Studio/Fruity Stereo Shaper.md",
+    "Ixtlán/About.md",
+    "Vibing Studios/Activos vibing.md",
+    "rickbust0s/Ideas Videos.md",
+    "rickbust0s/La masturbación quita el mismo poder que el alcoholismo y las drogas 2.md",
+    "rickbust0s/Mandamientos Redes Sociales.md",
+    "rickbust0s/Manifesto rick.md",
+    "rickbust0s/La masturbación quita el mismo poder que el alcoholismo y las drogas.md",
+    "rickbust0s/Trip Redes Sociales.md",
+    "rickbust0s/Dinero.md",
+    "rickbust0s/th0ndrsoul/Por qué anon.md",
+    "rickbust0s/th0ndrsoul/Writing Ruleset.md",
+    "rickbust0s/th0ndrsoul/Ruleset.md",
+    "Vibing Studios/Imagenes/Hollow Knight Animation.png",
+    "Vibing Studios/Imagenes/Captura_de_pantalla_2024-06-20_a_las_12.17.36_p.m..png",
+    "Vibing Studios/Imagenes/Drop3Enemy2.png",
+    "Vibing Studios/Imagenes/concept4.png",
+    "Escritos/Espiritualidad/Ego y Espiritualidad.md",
+    "Escritos/Espiritualidad/Rey de los piratas.md",
+    "Escritos/To-Do/Siguientes pasos Q4 2024.md",
+    "Escritos/Imagenes/Mid Splitter.png",
+    "Escritos/Imagenes/FL Patcher.png",
+    "Escritos/Imagenes/Outputs.png",
+    "Escritos/Imagenes/2 ecualizadores.png",
+    "Escritos/Shadow/Para qué es buena la bestia y cómo usarla.md",
+    "Escritos/Shadow/Verga es que quiero y no quiero ser anonimo.md",
+    "Escritos/Shadow/Claridad para el camino.md",
+    "Escritos/Shadow/DMT 4 Septiembre - Gracias.md",
+    "Escritos/Shadow/Videogames & Shadow.md",
+    "Escritos/Shadow/Influential People.md",
+    "Escritos/Shadow/El ciclo del espíritu y la bestia, el balance.md",
+    "Escritos/Shadow/El espíritu tiene mucho más poder que la bestia.md",
+    "Escritos/Shadow/Trip de influencer.md",
+    "Escritos/Learning/FL Patcher.png",
+    "Screenshot 2024-12-16 at 3.41.55 p.m..png",
+    "src/styles.css",
+    "src/main.js",
+    "src",
+    "Proyecto Ixtlán/Untitled.canvas",
+    "Ixtlán/Echoes Album/Awaken.canvas",
+    "Ixtlán/Ixtlán.canvas",
+    "Ixtlán/Personajes.canvas",
+    "Proyecto Ixtlán/Enseñanzas",
+    "Proyecto Ixtlán",
+    "Untitled.canvas",
+    "Mind & Soul/Vision Board.canvas",
+    "Mind & Soul/El Propósito.canvas",
+    "Vibing Studios/Digital Collectibles.canvas",
+    "Vibing Studios/Kiwii Pocket Marketing.canvas",
+    "Vibing Studios/Vibing Studios.canvas",
+    "Videojuego/Ideas",
+    "Videojuego/Personajes",
+    "Videojuego",
+    "rickbust0s/Guerrero Espíritu/Ejercicios",
+    "rickbust0s/Guerrero Espíritu/Reto Guerrero Espíritu"
+  ]
+}
