@@ -1,0 +1,1 @@
+El Horse Stance, o la Postura del Caballo, es una técnica milenaria utilizada en diversas artes marciales que requieren poder. Con el Horse stance, recuperarás tu cadera.

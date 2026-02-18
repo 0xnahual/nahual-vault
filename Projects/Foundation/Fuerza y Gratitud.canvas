@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"6d920d684c60cd3f","type":"text","text":"Fuerza y Gratitud","x":-240,"y":-480,"width":250,"height":60},
+		{"id":"3cc585d06692bde3","type":"text","text":"Brigadas","x":120,"y":-480,"width":250,"height":60},
+		{"id":"526a8656483efc06","type":"text","text":"[[Establecimiento de la Fundación]]","x":-580,"y":-480,"width":250,"height":60},
+		{"id":"f760435e01b7f17b","type":"text","text":"Redes Sociales","x":-240,"y":-330,"width":250,"height":60},
+		{"id":"d9dfaa73e50e997e","type":"text","text":"[[Establecimiento de la Fundación#Misión y Visión|Misión y Visión]]","x":-800,"y":-300,"width":250,"height":60},
+		{"id":"e154857d00b31f65","x":-530,"y":-1040,"width":400,"height":400,"type":"file","file":"Fuerza y Gratitud/Imagenes Ayuda/Piramide de Mazlow.png"}
+	],
+	"edges":[
+		{"id":"8e5fc1adde1101a8","fromNode":"526a8656483efc06","fromSide":"bottom","toNode":"d9dfaa73e50e997e","toSide":"top"},
+		{"id":"72c43ca7205243bc","fromNode":"6d920d684c60cd3f","fromSide":"left","toNode":"526a8656483efc06","toSide":"right"},
+		{"id":"a63f9681685b540b","fromNode":"6d920d684c60cd3f","fromSide":"right","toNode":"3cc585d06692bde3","toSide":"left"},
+		{"id":"2cfc04e5aa480e76","fromNode":"6d920d684c60cd3f","fromSide":"bottom","toNode":"f760435e01b7f17b","toSide":"top"}
+	]
+}

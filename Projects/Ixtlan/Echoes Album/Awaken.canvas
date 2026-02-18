@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b4d89bff5ef1c645","type":"text","text":"Psicodelia","x":-590,"y":-370,"width":250,"height":50},
+		{"id":"73511e03639bf124","type":"text","text":"Echoes Soundtrack","x":-115,"y":-510,"width":250,"height":60},
+		{"id":"e346e4a4cdd3bb57","type":"text","text":"Canciones con voz","x":-440,"y":-510,"width":250,"height":60},
+		{"id":"47f434802433b09e","type":"text","text":"Intrumentales","x":60,"y":-370,"width":250,"height":60},
+		{"id":"86609f9eb8bcf849","type":"text","text":"Sonidos Ancestrales Mexicanos","x":-620,"y":-180,"width":250,"height":60},
+		{"id":"686024a5e40a59b4","type":"text","text":"Awaken ","x":-260,"y":-310,"width":250,"height":60},
+		{"id":"cc83fa402ec10fb5","type":"text","text":"Guitarra","x":-510,"y":-21,"width":250,"height":60},
+		{"id":"c4239e753048c50f","type":"text","text":"_“Awaken” is a story about breaking the limits that hold us back, reaching our full potential, and discovering our true purpose. The journey teaches that faith—in oneself and in the divine—is the key to unlocking the infinite energy within us. As we trust in this connection, we find the strength to overcome any obstacle, realize the greatness that lies within, and shape our reality beyond our limits._\n","x":-115,"y":-159,"width":580,"height":198}
+	],
+	"edges":[]
+}

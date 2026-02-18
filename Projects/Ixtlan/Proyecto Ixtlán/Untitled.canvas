@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"a708adccc82e4002","type":"text","text":"Proyecto Ixtlán \n\nJordy Raul Rich","x":-335,"y":-160,"width":250,"height":120},
+		{"id":"ff3510c18cf21c48","type":"text","text":"Misión: Revivir a Quetzalcoatl alv\n\nVision: El proyecto de arte más influyente salido de LATAM alv","x":40,"y":-131,"width":335,"height":122},
+		{"id":"6871da0abf89b010","type":"text","text":"Colectivo Creativo","x":-335,"y":-9,"width":250,"height":60},
+		{"id":"5b1c35b9450f6fc3","type":"text","text":"Animaciones","x":-625,"y":220,"width":250,"height":60},
+		{"id":"ad432b2d77107e68","type":"text","text":"Videojuego","x":-20,"y":220,"width":250,"height":60},
+		{"id":"f818830c40ebab31","type":"text","text":"Royalties de la Música","x":900,"y":190,"width":250,"height":60},
+		{"id":"e5ba1f533f2ef31b","type":"text","text":"Ventas del Videjuego","x":900,"y":280,"width":250,"height":60},
+		{"id":"53def2a064c0038d","type":"text","text":"Kickstarter\n","x":900,"y":360,"width":250,"height":60},
+		{"id":"1076ade17d567287","type":"text","text":"Métodos de Funding","x":1025,"y":100,"width":250,"height":60},
+		{"id":"4bec41592a964b6a","type":"text","text":"Licenciamiento de la Música","x":1180,"y":190,"width":250,"height":60},
+		{"id":"9c4db9b588d22a46","type":"text","text":"Show / Películas ","x":1180,"y":280,"width":250,"height":60},
+		{"id":"6f0ee0fb949a501d","type":"text","text":"Merch","x":1180,"y":360,"width":250,"height":60},
+		{"id":"49a35b065fd1dc16","type":"text","text":"70% a proyecto Ixtlan","x":320,"y":130,"width":250,"height":60},
+		{"id":"21a239afff3549fe","type":"text","text":"30 % a colaboradores","x":320,"y":300,"width":250,"height":60},
+		{"id":"219aab55a5a75fa8","type":"text","text":"Shows en Vivo ","x":900,"y":440,"width":250,"height":60},
+		{"id":"8abbed9df9c6bfa1","type":"text","text":"Royalties animaciones Facebook, Twiiter, YT","x":1180,"y":440,"width":250,"height":60},
+		{"id":"c05901da5fbd8057","type":"text","text":"Música","x":-335,"y":220,"width":250,"height":60},
+		{"id":"bb4dd2a830443165","type":"text","text":"Vision a corto plazo:\n\n1 año\n10,000,000 reproducciones = 40,000 usd\n\n1 kickstarter masomenos eso\n\n","x":-844,"y":-109,"width":344,"height":201}
+	],
+	"edges":[
+		{"id":"827d124bb52fa5eb","fromNode":"a708adccc82e4002","fromSide":"right","toNode":"ff3510c18cf21c48","toSide":"left"},
+		{"id":"cbd2ceaad22e18d9","fromNode":"a708adccc82e4002","fromSide":"bottom","toNode":"6871da0abf89b010","toSide":"top"},
+		{"id":"b71e3dcb666fbfa4","fromNode":"6871da0abf89b010","fromSide":"bottom","toNode":"5b1c35b9450f6fc3","toSide":"top"},
+		{"id":"46a40bdaa3f1a3ac","fromNode":"6871da0abf89b010","fromSide":"bottom","toNode":"c05901da5fbd8057","toSide":"top"},
+		{"id":"cc1b5a29b1c61513","fromNode":"6871da0abf89b010","fromSide":"bottom","toNode":"ad432b2d77107e68","toSide":"top"},
+		{"id":"755a3a11e0621c15","fromNode":"ad432b2d77107e68","fromSide":"right","toNode":"49a35b065fd1dc16","toSide":"left"},
+		{"id":"fb56d651a5f9b290","fromNode":"ad432b2d77107e68","fromSide":"right","toNode":"21a239afff3549fe","toSide":"left"}
+	]
+}
