@@ -1,3 +1,9 @@
+---
+type: system
+domain: [expression]
+tags: [ixnah, expression, joy, play]
+---
+
 # IXNAH Domain 6: EXPRESSION
 
 *The open domain. IXNAH builds the instrument — Expression is what you play with it.*
@@ -6,13 +12,13 @@
 
 ## Definition
 
-IXNAH has 7 domains. Six of them prescribe: specific exercises, specific progressions, specific mastery tests. They build a complete physical instrument — the range, the strength, the endurance, the movement literacy, the combat capability, the longevity.
+[[What is IXNAH|IXNAH]] has [[IXNAH Domain Architecture — The 7 Domains|7 Domains]]. Six of them prescribe: specific exercises, specific progressions, specific mastery tests. They build a complete physical instrument — the range, the strength, the endurance, the movement literacy, the combat capability, the longevity.
 
 **Expression is different. Expression prescribes nothing.**
 
 The 6 domains build the vocabulary. Expression is the poetry. You teach vocabulary. You don't teach poetry — you create the conditions for it to emerge.
 
-An IXNAH practitioner who has developed MOVING, INNER ANIMAL, DEFENDING, STRENGTH, ENDURANCE, and LONGEVITY has a body that can do almost anything. What they CHOOSE to do with it is Expression. And that choice must be theirs.
+An IXNAH practitioner who has developed [[1 — MOVING|MOVING]], [[2 — INNER ANIMAL|INNER ANIMAL]], [[3 — DEFENDING|DEFENDING]], [[4 — STRENGTH|STRENGTH]], [[7 — ENDURANCE|ENDURANCE]], and [[5 — LONGEVITY|LONGEVITY]] has a body that can do almost anything. What they CHOOSE to do with it is Expression. And that choice must be theirs.
 
 **The moment you put progressions and mastery tests on Expression, you kill it.** Expression is the domain where the system stops being a system and becomes a person. That's the whole point — IXNAH builds the body that can do anything, and then gets out of the way.
 

@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [graph, connections, index]
+---
 # TOP-LEVEL FILES -- Interconnection Map
 
 > This file maps how every top-level document connects to the rest of the vault.

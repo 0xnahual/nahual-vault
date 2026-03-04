@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [shadow, videogames, dialogue]
+---
 Hola sombra, te invoco quiero hablar contigo
 
 Deberia de hacer videojuegos o solo sacar musica. Es que quieres hacer las dos, tienes que simplemente crear, crear, crear y crear. No debes de enfocarte en algo en especifico, si haces bien tu trabajo podras hacer las dos, ye s que si quieres que pasen las dos y si se pueede, seras el primer humano en hacelro tambien y eso sera genial. Debes de aceptar tu articidad y simplemente hacerlo, te va a dar fama las dos, ya veras. ah u habla sobre ello.

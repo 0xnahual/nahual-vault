@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, location, templo-nahual]
+---
 El Templo Nahual es el lugar dónde todo aquél que ha despertado su magia es reclutado para entrenar su magia. 
 
 Actualmente es liderado por [[Don Juan Matus]]

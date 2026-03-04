@@ -1,3 +1,7 @@
+---
+type: project
+tags: [foundation, fuerza-y-gratitud, altruism]
+---
 Fuerza y Gratitud es una fundación y movimiento dedicado a expandir la conciencia, a través de 2 vertientes:
 - Necesidades básicas de lo más abajo de la pirámide de mazlow.
 - Apoyar a guerreros a cumplir su cometido y propósito divino (Ayudar a otras fundaciones)

@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [reflection, anonymity, strategy, identity]
+---
 Debemos tener muy presente el por qué 0xNahual tiene que ser aníonimo.
 
 Al tocar temas tan espirituales e internos, no me gustaría meterme en una batalla religiosa contra otra gente. El tema religioso es un tema muy delicado para la gente, y debo de tratarlo con respeto. Si la gente ve a una persona cantando sobre esto, puede llegar a molestar religiones.

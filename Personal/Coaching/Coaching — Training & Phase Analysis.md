@@ -1,3 +1,8 @@
+---
+type: coaching
+tags: [training-schedule, k1-analysis, la-forja, kickboxing, judo]
+---
+
 # COACHING — Training Schedule & Phase Analysis
 
 *Created: March 1, 2026 | Revised with kickboxing analysis*
@@ -32,7 +37,7 @@
 ### What's Missing
 
 1. **Push day is undefined.** Pull (Tue), Legs (Thu), but where are diamond pushups and dips? Sunday "IXNAH Strength" needs to be explicitly Push.
-2. **Kettlebell swing has no slot.** Add to Thursday (Legs + Hinge).
+2. **[[IXNAH Strength — The 7 Compounds|Kettlebell swing]] has no slot.** Add to Thursday (Legs + Hinge).
 3. **"Explosiveness" is vague.** Define the exercises and track them. CNS-intensive work affects recovery.
 
 ---
@@ -54,7 +59,7 @@ The K1 gym offers Tuesday/Thursday classes. You want in. Let's analyze every rea
 | **Injury risk** | Low-moderate (judo is inherently risky but manageable at 3x) |
 | **IXNAH credibility** | Grappling: real. Striking: theoretical. |
 
-**Honest take:** The safest option for the recomp and for creative output. But IXNAH is a martial arts system with no live striking training. You do kick work solo on Fridays but solo practice without a coach, pads, and partners has a ceiling. The system's Violence and Expression domains are underdeveloped in practice.
+**Honest take:** The safest option for the recomp and for creative output. But [[What is IXNAH|IXNAH]] is a martial arts system with no live striking training. You do kick work solo on Fridays but solo practice without a coach, pads, and partners has a ceiling. The system's Violence and Expression domains are underdeveloped in practice.
 
 ---
 
@@ -79,7 +84,7 @@ The K1 gym offers Tuesday/Thursday classes. You want in. Let's analyze every rea
 | **Creative time** | Unchanged: ~8-10 hrs/week |
 | **Recomp impact** | Minimal change. Same total volume. K1 burns slightly more calories than Judo (more continuous movement vs rest between randori rounds). Negligible difference. |
 | **Injury risk** | Similar. Trading one grappling session for one striking session. Different injury types (joint/throw injuries → contusion/hand injuries). Not necessarily higher. |
-| **IXNAH credibility** | Grappling: still strong at 2x. Striking: real, with a coach, 1x/week. |
+| **[[What is IXNAH\|IXNAH]] credibility** | Grappling: still strong at 2x. Striking: real, with a coach, 1x/week. |
 | **Judo progression** | Slows. 2x/week is maintenance+. You'll still improve but slower than 3x. |
 
 **Honest take:** The cleanest option. Zero creative time lost. Zero additional volume. IXNAH gets real striking experience. Judo drops from "solid progression" to "steady maintenance" — but you're building a system, not competing in judo. The tradeoff is worth it.
@@ -159,7 +164,7 @@ The K1 gym offers Tuesday/Thursday classes. You want in. Let's analyze every rea
 I changed my mind. Here's why:
 
 1. **You clearly want this.** Motivation matters. Forcing yourself to skip something you're pulled toward creates resentment. K1 feeds your energy.
-2. **IXNAH needs it.** A martial arts system without live striking training is incomplete. 2x K1 per week gives you real credentials in the Violence and Expression domains.
+2. **[[What is IXNAH|IXNAH]] needs it.** A martial arts system without live striking training is incomplete. 2x K1 per week gives you real credentials in the Violence and Expression domains.
 3. **The math works.** 11 sessions instead of 10. Only 1 more than current. The alternating stress types (grappling → striking → grappling → striking) are actually smart for recovery.
 4. **Creative time shrinks but doesn't die.** You lose 2 weeknight evenings but gain 1 (Friday opens up). Net loss: 1 evening. Weekend creative blocks fill the gap — IF you protect them.
 
@@ -213,7 +218,7 @@ If you can commit to those two things, Option C is the move.
 - $500 → $8,100 USD/month (~140,000 MXN)
 - 127 kg / 54% BF → 90 kg / 21% BF
 - Near-broke → Earning 7-9x average Mexican professional salary
-- No systems → LifeOS, IXNAH, brand architecture, app in development
+- No systems → LifeOS, [[What is IXNAH|IXNAH]], brand architecture, app in development
 
 This isn't growth. **You already grew.** Growth was the 127→90, the $500→$8,100. That happened.
 
@@ -259,7 +264,7 @@ What comes out is: the body at 14.5%, the financial foundation, the house that w
 Don't set this schedule in stone forever. Build in checkpoints.
 
 ### Monthly Check (During Weekly Review, Last Sunday of Month)
-- Are PRs still progressing? (Check El Templo app)
+- Are PRs still progressing? (Check [[Kung Fu Temple App Spec|El Templo]] app)
 - Are pliegues moving in the right direction? (Every 4-6 weeks)
 - Am I hitting both creative blocks per week? (Check "Touched a Project" habit)
 - Is food logging at 70%+? (Check Daily Macros count)
@@ -289,4 +294,4 @@ Adding K1 is the right move for IXNAH and for your energy. But it comes with a p
 The hardest test isn't training at 127 kg with $500.
 The hardest test is staying disciplined at 90 kg with $8,100 and a schedule that fills every day.
 
-La Forja. Stay in the fire.
+[[Coaching — Final Training Schedule|La Forja]]. Stay in the fire.

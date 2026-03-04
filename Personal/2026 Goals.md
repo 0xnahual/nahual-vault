@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [goals, 2026, roadmap]
+---
 # 2026 Goals — Ricardo Bustos
 
 ## Identity
@@ -15,14 +19,14 @@
 - Hablar menos. Entrenar mas.
 
 ## Projects (Active)
-- Ship IXNAH as a structured digital program.
+- Ship [[What is IXNAH|IXNAH]] as a structured digital program.
 - Templo Nahual — 2 videos/week minimum as Ricardo Bustos.
 - Videojuego — continue development, funded by salary.
 - Music — release, stop perfecting.
 
 ## Projects (Maintain)
 - Fuerza y Gratitud Foundation — legal setup when ready.
-- Ixtlan Project — long-term, no rush.
+- [[The Nahual's Expression — Art of the Shapeshifter|Ixtlan Project]] — long-term, no rush.
 
 ## Financial
 - Save aggressively. Salary covers life + funds projects.

@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, villain, hierro, real-world]
+---
 # 🜔 EL HIERRO EN EL MUNDO REAL  
 ### *La voluntad endurecida que apaga la magia colectiva*
 

@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [notion, objectives, tracking]
+---
 # Notion Deep Dive — All Objectives
 
 *Extracted: March 1, 2026 | Complete dump of all 34 objectives + 8 GOOD baselines*

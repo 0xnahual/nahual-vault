@@ -1,3 +1,7 @@
+---
+type: project
+tags: [ixtlan, teaching, toltec]
+---
 Proyecto Ixtlán será el proyecto en el que trabajaré toda mi vida. Es un proyecto diseñado para enseñar sobre los valores toltecas, los cuales son:
 
 - Como todos tenemos a Dios dentro de nosotros, y por ello tenemos el límite humano infinito.

@@ -1,3 +1,7 @@
+---
+type: book
+tags: [graph-links, books, interconnection]
+---
 # BOOKS DOMAIN -- Interconnection Map
 
 > This file maps how every document in /Books connects to other documents in the vault.

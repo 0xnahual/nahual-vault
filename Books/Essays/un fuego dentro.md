@@ -1,3 +1,7 @@
+---
+type: book
+tags: [essay, song, lyrics, healing]
+---
 73 bpm
 hay un fuego dentro
 un fuego en tu interior

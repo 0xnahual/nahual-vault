@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, villain, vacio]
+---
 # ⬛ EL VACÍO — *La Nada que se disfraza de Todo*
 
 ---

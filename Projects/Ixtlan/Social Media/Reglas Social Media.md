@@ -1,3 +1,7 @@
+---
+type: project
+tags: [ixtlan, social-media, strategy]
+---
 No me gustaría tener mi feed lleno. Me gustan mucho los feeds chamánicos de Chilidsh Gambino, Dan Reynolds, Ed Maverick, los cuales borran los posts después de cierto tiempo.
 
 Lo que me gusta de esto, es que permite enfocarme en la difusión y marketing de los proyectos, y olvidarme de mi persona. Esto le da más poder a mi palabra, porque al tener toda mi historia en internet, puedo desenfocarme en que es lo qué están diciendo de mi y no de mis proyectos. 

@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [reflection, planning, Q4-2024, spirit]
+---
 **Mi Enfoque en este Momento**
 Debo enfocarme en cerrar mi ciclo con Vibing y en aprovechar el tiempo para sacar la música que está dentro de mí a través de FL Studio. También debo concentrarme en seguir bajando de peso y no dejar de escribir. Creo que tengo una gran capacidad de introspección, además de sentir que mi espíritu ha tomado el control de mi cuerpo.
 

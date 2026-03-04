@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [reflection, identity, role-model]
+---
 He estado reflexionando sobre la persona que debería de utilizar como "influencia" para mi proyecto de vida, y me he dado cuenta qué, si bien admiro muchas cualidades de varias personas, no existe la persona que me gustaría llegar a ser.
 
 Esto no tiene connotaciones negativas, al contrario, al no saber a quién seguir, ni a quién admiro, abre la posibilidad de covnertirme en esa persona, en esa persona la cuál admiro su camino, admiro lo que dice, hace, y debo entonces crear ese personaje, y aspirar a ser esa persona. Al crearme un eprsonaje el cuál admiro, podré saber que decisiones tomar en el camino para siemrpe ser esa persona.

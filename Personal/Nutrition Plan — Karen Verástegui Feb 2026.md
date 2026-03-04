@@ -1,4 +1,8 @@
-# Plan de Alimentación — Karen Verástegui
+---
+type: personal
+tags: [nutrition, health, body-transformation]
+---
+# Plan de Alimentación — [[Nutrition Plan — Karen Verastegui Feb 2026|Karen]] Verástegui
 
 *Source: PDF from nutrióloga LNCA. Karen Verástegui (Cédula Prof: 12556651, UCSLP)*
 *Date: February 27, 2026*

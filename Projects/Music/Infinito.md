@@ -1,3 +1,7 @@
+---
+type: project
+tags: [music, song, infinito, lyrics]
+---
 PROSA:
 
 (Aqui van unos versos donde le recuerdas al escucha lo que era antes en tiempos)

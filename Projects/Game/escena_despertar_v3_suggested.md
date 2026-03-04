@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, scene, william, limitless, suggested]
+---
 # ESCENA – EL DESPERTAR DE WILLIAM
 ## Pilar de la Voluntad – Activación del Modo LIMITLESS
 

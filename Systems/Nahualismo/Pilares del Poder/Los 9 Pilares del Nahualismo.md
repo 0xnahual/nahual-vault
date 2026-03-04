@@ -1,4 +1,9 @@
-# Nahualismo  
+---
+type: philosophy
+tags: [9-pilares, nahualismo, transformacion, condiciones-operativas]
+---
+
+# Nahualismo
 ## Los 9 pilares de la transformación
 
 El **Nahualismo** es una arquitectura de transformación basada en una premisa simple:

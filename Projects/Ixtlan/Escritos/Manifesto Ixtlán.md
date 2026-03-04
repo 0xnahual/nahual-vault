@@ -1,3 +1,7 @@
+---
+type: project
+tags: [ixtlan, manifesto, philosophy]
+---
 **Manifiesto Ixtlán**
 
 En un mundo lleno de distracciones y búsquedas superficiales, este manifiesto invita a mirar hacia adentro y al cambio personal. Propone que el verdadero cambio y el máximo potencial comienzan dentro de cada individuo, en su espíritu y en su fé.

@@ -16,7 +16,7 @@ Es la fuerza que se manifiesta cuando ya no puedes mas… y sigues.
 No se trata de musculos.
 Se trata de **voluntad sostenida en el tiempo**.
 La capacidad de mirar al dolor a los ojos y no retroceder.
-De sostener el Ma Bu. De entrar al hielo. De callar la mente.
+De sostener el [[IXNAH Mobility — Strength at End Range|Ma Bu]]. De entrar al hielo. De callar la mente.
 De decirle al cuerpo: *"aqui seguimos."*
 
 > **Resistencia = Voluntad encarnada.**

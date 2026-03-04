@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [passions, strategy, life-design]
+---
 # The Four Passions Problem — What To Actually Do With Singing, Coding, Music, and Martial Arts
 ### An honest analysis of what pulls you, why it pulls you, what's realistic, and how to stop being stuck
 
@@ -82,7 +86,7 @@ You wrote it yourself: "I'm ok with the engineering job ngl." That's the healthi
 
 But "ok" is not "alive."
 
-Coding is your Espiritu's craft — systematic, logical, clean, solvable. It satisfies the part of you that wants to build frameworks, solve problems, and create structure. El Templo is the intersection of your coding ability and your passion system. The game (El Nahual) is the intersection of coding and creative vision.
+Coding is your Espiritu's craft — systematic, logical, clean, solvable. It satisfies the part of you that wants to build frameworks, solve problems, and create structure. [[Kung Fu Temple App Spec|El Templo]] is the intersection of your coding ability and your passion system. The game (El Nahual) is the intersection of coding and creative vision.
 
 **What coding actually gives you:**
 - Financial stability
@@ -150,7 +154,7 @@ They're the fantasy of **total immersion**. Of dropping every other responsibili
 
 This fantasy is powerful because your life is currently 90% cerebral. You code all day. You write philosophy. You produce music on a computer. Even your shadow work is intellectual — you WRITE dialogues with your subconscious. The martial arts fantasy is the Bestia screaming: **"I need to be in my body. I need to be ANIMAL. I need to be physical in a way that coding and writing and producing can never give me."**
 
-IXNAH was your first attempt at this, but your own analysis (What IXNAH Is Missing) was brutally honest: the violence and defending layers are basically empty. You have postures — beautiful, useful postures — but you don't have a fighting system. And something in you KNOWS it needs to fight. Not theorize about fighting. Actually fight.
+[[What is IXNAH|IXNAH]] was your first attempt at this, but your own analysis (What IXNAH Is Missing) was brutally honest: the violence and defending layers are basically empty. You have postures — beautiful, useful postures — but you don't have a fighting system. And something in you KNOWS it needs to fight. Not theorize about fighting. Actually fight.
 
 That's why judo is so important. It's not just exercise. It's the Bestia's training ground. Getting thrown by another human, feeling the impact, scrambling on the ground, learning to use your body against resistance — this is what your psyche is starving for.
 

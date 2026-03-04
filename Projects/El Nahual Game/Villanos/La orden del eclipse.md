@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, villains, eclipse, worldbuilding]
+---
 # ☉ LA ORDEN DEL ECLIPSE
 ### *Los 9 que apagaron la Magia del Mundo*
 

@@ -1,3 +1,7 @@
+---
+type: project
+tags: [templo-nahual, carousel, discipline]
+---
 **La motivación es una estafa.**
 
 Es una emoción. Y las emociones cambian.

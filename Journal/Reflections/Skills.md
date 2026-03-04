@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [reflection, skills, training, goals]
+---
 Cosas que me gustaría aprender en mi camino a 18& de grasa.
 - Estancias Kung Fu, certificarme.
 - Calistenia Básica (Pullups, Pushups, Pyke Pushups, L-Sit, Pistol Squats, Squats, Lunges, Chin Ups, Muscle Ups)

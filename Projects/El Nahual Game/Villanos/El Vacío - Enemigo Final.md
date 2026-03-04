@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, villain, vacio, boss-final]
+---
 # 🕳️ EL VACÍO — EL ENEMIGO FINAL
 
 ## 💀 CONCEPTO

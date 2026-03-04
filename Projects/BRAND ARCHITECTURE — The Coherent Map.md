@@ -1,3 +1,7 @@
+---
+type: project
+tags: [brand, architecture, strategy]
+---
 # Brand Architecture — The Coherent Map
 
 *How all of this fits together across platforms, names, languages, and projects.*
@@ -10,7 +14,7 @@ You have:
 - A personal folk music identity (Spanish, guitar, vulnerable)
 - An electronic rock project called Ixtlan (cinematic, aggressive, game soundtrack)
 - A training app called El Templo
-- A body-based system called IXNAH
+- A body-based system called [[What is IXNAH|IXNAH]]
 - A game called El Nahual
 - A philosophy called Nahualismo
 - A breathwork system called Hechiceria Practica

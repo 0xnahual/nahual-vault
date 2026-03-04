@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [shadow, power, confidence, identity]
+---
 Soy un genio. Lo habia olvidado por un año. Si me fue bien, y consegui mucho dinero, no fue por suerte, si no por todas las habilidades de programación, liderazgo, creatividad y empatía con la gente qué tengo.
 
 Creí que lo había perdido, pero si me sigue tanta gente en twitter fue por eso, por qué soy listo, por qué hago lo que yo quiero, cuando yo quiero. Tengo la energía de un gran CEO, y si bien mi camino no va por ahí, si va por ahí, por qué quiero tener mis empresas además de ser un gran artista. 

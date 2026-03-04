@@ -3,7 +3,7 @@
 | **Push**     | 1. Vertical     | **HSPU Progression**         | Level (Crow → Wall → HSPU)                                       |
 |              | 2. Horizontal   | **Weighted Dips**            | 3x5 (Chest-to-thumb depth)                                       |
 |              | 3. Stability    | **Ring Support Hold**        | Max Seconds (**Rings Turned Out**)                               |
-| **Pull**     | 4. Vertical     | **Weighted Pull-ups**        | 3x5 (Chin CLEARLY over bar)                                      |
+| **Pull**     | 4. Vertical     | **Weighted [[IXNAH Strength — The 7 Compounds\|Pull-ups]]**        | 3x5 (Chin CLEARLY over bar)                                      |
 |              | 5. Grip         | **Active Dead Hang**         | Max Time (Shoulders Packed)                                      |
 | **Legs**     | 6. Posterior    | **Bulgarian Split Squat**    | 3x8 (**Forward Lean** for Glutes)                                |
 |              | 7. Anterior     | **High Step-Up**             | 3x5 (**Vertical Spine**, Toes Up)                                |
@@ -13,5 +13,5 @@
 |              | 11. Extension   | **Back Bridge**              | Level (Head → Full Wheel)                                        |
 |              | 12. Lateral     | **Copenhagen Plank**         | Max Seconds (Hip high)                                           |
 | **Martial**  | 13. Stability   | **Single Leg (Eyes Closed)** | Max Seconds (No hopping)                                         |
-|              | 14. Base        | **Kung Fu Stances**          | **Ma Bu** (3m), **Gong Bu** (2m), **Xie Bu** (1m) **Pu Bu** (3m) |
+|              | 14. Base        | **Kung Fu Stances**          | **[[IXNAH Mobility — Strength at End Range\|Ma Bu]]** (3m), **Gong Bu** (2m), **Xie Bu** (1m) **Pu Bu** (3m) |
 |              | 15. Rotation    | **Judo Class**               | Frequency & Intensity                                            |

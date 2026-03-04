@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, villain, hierro, voluntad]
+---
 # 🜔 LA VOLUNTAD CORROMPIDA — *La Forma Más Malvada del Fuego Interno*
 
 ## ⚙️ Esencia

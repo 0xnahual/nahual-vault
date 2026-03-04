@@ -1,3 +1,7 @@
+---
+type: project
+tags: [ixtlan, teaching, philosophy]
+---
 Todo humano tiene un compás para saber si está haciendo las cosas bien:
 - Se siente en paz
 - Le salen las cosas bien

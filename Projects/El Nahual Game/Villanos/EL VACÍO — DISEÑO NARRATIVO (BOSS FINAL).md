@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, villain, vacio, boss-final, design]
+---
 # 🌀 EL VACÍO — DISEÑO NARRATIVO (BOSS FINAL)
 
 ## Concepto

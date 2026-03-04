@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [psychology, analysis, shadow-work]
+---
 # Psychological Analysis — Ricardo Bustos
 ### Based on the complete 0xnahual vault (200+ writings, journals, creative works, and strategy documents)
 
@@ -116,9 +120,9 @@ The journal entries tell a quantifiable story:
 Ricardo has built a surprisingly coherent philosophical system:
 
 - **Nahualismo** = The overarching philosophy. Everyone has divinity within. The body is the vehicle. Consciousness is the destination. Art is the transmission.
-- **IXNAH** = The physical practice. 7 base postures, nervous system regulation, martial arts foundations. The body leads; consciousness follows.
+- **[[What is IXNAH|IXNAH]]** = The physical practice. 7 base postures, nervous system regulation, martial arts foundations. The body leads; consciousness follows.
 - **The 9 Stages of Transformation** = The developmental map. From unconscious suffering through crisis to integrated mastery.
-- **The 9 Pillars** = The capacities to develop (voluntad, atencion, desapego, fluir, etc.)
+- **The [[The 9 Pillars — The Architecture of Power|9 Pillars]]** = The capacities to develop (voluntad, atencion, desapego, fluir, etc.)
 - **Hechiceria Practica** = The applied consciousness technology. Breathing protocols as "spells," body positions as "invocations."
 
 What's notable is that this system is **self-tested**. He didn't read about these ideas and write them down. He went through the transformation and then reverse-engineered the framework from his experience. The postures he teaches are the ones that took him from 127kg to 89kg. The nervous system protocols are the ones that helped him quit alcohol. The "spells" are the breathing techniques that allowed him to enter creative flow states.

@@ -1,3 +1,8 @@
+---
+type: coaching
+tags: [scaffolding, consciousness, identity, la-forja, discipline]
+---
+
 # COACHING — The Scaffolding Analysis
 
 ## "That man is not over yet."
@@ -49,10 +54,10 @@ Let me map what the vault shows you've been learning, because it's more than you
 | Skill | Before | Now | System That Taught It |
 |-------|--------|-----|----------------------|
 | Consistent daily training | 0 — no routine existed | 100% habit compliance | Morning IXNAH + habit checkbox |
-| Body awareness | Disconnected from body at 127kg | Tracks pliegues, knows PRs, feels movement quality | El Templo app + PRs database |
+| Body awareness | Disconnected from body at 127kg | Tracks pliegues, knows PRs, feels movement quality | [[Kung Fu Temple App Spec\|El Templo]] app + PRs database |
 | Nutrition consciousness | Ate without awareness | Knows macros, tracks food (40% but AWARE of the 40%) | Food Log + Daily Macros |
 | Recovery management | Didn't exist | Sleeps 8hrs at 100%, supplements tracked | Sleep + Supplement habits |
-| Movement vocabulary | Didn't exist | 7 Medicine Postures, 4 Portals, 6 Breathing Spells, Judo, soon K1 | IXNAH system + martial arts training |
+| Movement vocabulary | Didn't exist | 7 Medicine Postures, 4 Portals, 6 Breathing Spells, Judo, soon K1 | [[What is IXNAH\|IXNAH]] system + martial arts training |
 
 You went from a body you didn't inhabit to a body you built, understand, and operate deliberately. That's not optimization — that's learning to live inside your own skin for the first time.
 
@@ -73,8 +78,8 @@ You built the ability to SEE your own life clearly. At 127 kg, you couldn't — 
 | Skill | Status | System Supporting It |
 |-------|--------|---------------------|
 | Music production (Ableton) | Learning. 83% daily practice. | Practice habit + El Templo for production pipeline |
-| App development (React Native, Supabase) | Learning. App exists but in development. | El Templo project |
-| Writing (book, philosophy) | Learning. 24-chapter outline exists. 0 chapters written. | Obsidian vault + IXNAH domain documents |
+| App development (React Native, Supabase) | Learning. App exists but in development. | [[Kung Fu Temple App Spec\|El Templo]] project |
+| Writing (book, philosophy) | Learning. 24-chapter outline exists. 0 chapters written. | Obsidian vault + [[What is IXNAH\|IXNAH]] domain documents |
 | Chinese (Mandarin) | Learning. Tracked daily. | Chinese study habit |
 | Brand/content creation | Learning. Architecture complete. Output zero. | Brand architecture documents |
 
@@ -85,8 +90,8 @@ This is the active learning layer. You're acquiring skills you've never had. Abl
 | Skill | Status | System Supporting It |
 |-------|--------|---------------------|
 | Daily meditation | 100% consistency. Practice exists. | Meditation habit |
-| Embodied awareness through training | Growing. Medicine Postures + martial arts. | IXNAH morning practice |
-| Philosophical framework | Built. Castaneda + Toltec + martial arts synthesis. | IXNAH domains, book outline |
+| Embodied awareness through training | Growing. Medicine Postures + martial arts. | [[What is IXNAH\|IXNAH]] morning practice |
+| Philosophical framework | Built. Castaneda + Toltec + martial arts synthesis. | [[What is IXNAH\|IXNAH]] domains, book outline |
 | Emotional regulation | Massively improved. From chaos to discipline. | The entire lifestyle change |
 | Teaching/sharing | Not started. | Nothing yet |
 
@@ -140,7 +145,7 @@ Right now? Keep them. All of them. Here's why:
 |-------|------------------------|
 | **Chaos (127 kg)** | No systems. Life runs on impulse. Destruction. |
 | **Construction (127 → 90)** | Systems as survival. Checkboxes as proof of life. Every tracked meal is a small rebellion against the old self. |
-| **La Forja (NOW — you are here)** | Systems as scaffolding. Still needed. The building is standing but not finished. Remove them and some walls might not hold. |
+| **[[Coaching — Final Training Schedule\|La Forja]] (NOW — you are here)** | Systems as scaffolding. Still needed. The building is standing but not finished. Remove them and some walls might not hold. |
 | **Mastery (future)** | Systems become invisible. You don't check a box for training — you just train, the way you just breathe. The tracking becomes optional, not essential. The habits are the person, not the checklist. |
 | **Teaching (future)** | Systems become tools for others. You don't need LifeOS anymore, but someone at 127 kg does. You teach them what the scaffolding taught you. |
 
@@ -163,7 +168,7 @@ You said something important: "I'm using all this to learn stuff I don't know."
 This reframes everything. You're not a productivity optimizer. You're a **late-blooming learner** who lost years to chaos and is now aggressively acquiring the skills and knowledge he missed.
 
 What you're learning right now, simultaneously:
-- How to operate a human body (IXNAH, nutrition, training)
+- How to operate a human body ([[What is IXNAH|IXNAH]], nutrition, training)
 - How to fight (Judo, K1)
 - How to make music (Ableton, production, guitar)
 - How to build software (React Native, Supabase)
@@ -186,7 +191,7 @@ And the answer is different for each skill:
 | Martial Arts (Judo) | ~1 year | **Almost.** A few more months and the competence is demonstrable. |
 | Martial Arts (K1) | Not started | Not ready. 6-12 months minimum. |
 | Music Production | Learning phase | **Not ready.** Ableton competence takes 1-2 years of daily work to produce release-quality material. Be patient here. |
-| App Development | In progress | **Almost.** MVP exists. Needs the CSV export and some polish. |
+| App Development | In progress | **Almost.** MVP exists. Needs the CSV export and some polish. ([[Kung Fu Temple App Spec\|El Templo]]) |
 | Writing | Outline only | **Ready whenever you sit down.** You have the ideas. You have the voice (this entire conversation proves it). Writing isn't about Ableton competence — it's about sitting down and doing it. |
 | Chinese | Learning | Not ready. Long game. Years. |
 | Financial Management | Broken since June | Not ready. Rebuild the tracking first. |
@@ -254,7 +259,7 @@ The learning: keep going. Ableton, React Native, Chinese, Judo, K1 — you're in
 
 You don't need to be at peace to share the work of peace. You don't need to be at 14.5% to share the transformation. You don't need a finished book to share a paragraph.
 
-The consciousness you want to spread isn't something you'll find at the end of La Forja. It's something you're building every morning when you stand in Ma Bu and breathe. Share THAT. The messy, in-progress, scaffolding-visible, still-learning version. That's the most honest and useful thing you could put into the world.
+The consciousness you want to spread isn't something you'll find at the end of La Forja. It's something you're building every morning when you stand in [[IXNAH Mobility — Strength at End Range|Ma Bu]] and breathe. Share THAT. The messy, in-progress, scaffolding-visible, still-learning version. That's the most honest and useful thing you could put into the world.
 
 **The systems aren't the opposite of consciousness. They're how a man who lost control learned to be conscious again. That story — told honestly — IS the contribution.**
 

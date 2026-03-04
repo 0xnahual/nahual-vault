@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [reflection, vision, confusion, projects]
+---
 Estoy muy confundido sobre la vision, sobre lo que deberia hacer, no hacer y que es lo que deberia de construir.
 
 Se que es pendejo pensar en el futuro, quien sabe si voy a estar vivo... si voy a tener brazos... si todo va a estar exactamente como es ahora... pero me gustaría anclarme a una visión.

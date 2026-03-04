@@ -1,3 +1,9 @@
+---
+type: system
+domain: [strength]
+tags: [ixnah, strength, calisthenics, grip]
+---
+
 # IXNAH Domain 4: STRENGTH
 
 *Raw force production. The ability to push, pull, lift, carry, grip, and resist load — loaded and unloaded, with your body and with objects.*
@@ -6,7 +12,7 @@
 
 ## Definition
 
-Strength in IXNAH is not bodybuilding. It is not hypertrophy for aesthetics. It is not powerlifting for numbers. It is the functional capacity to exert force against resistance — your own body, another person, a heavy object, gravity.
+Strength in [[What is IXNAH|IXNAH]] is not bodybuilding. It is not hypertrophy for aesthetics. It is not powerlifting for numbers. It is the functional capacity to exert force against resistance — your own body, another person, a heavy object, gravity.
 
 A capable human must be able to: push their bodyweight off the ground, pull themselves over a wall, carry another person, grip something and not let go, stand up under load, and resist being moved. These are not gym goals. These are survival and capability requirements that happen to be trainable in a gym (or a park, or with a bar and some weights).
 

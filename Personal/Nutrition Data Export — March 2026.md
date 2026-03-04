@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [nutrition, data, tracking]
+---
 # NUTRITION DATA EXPORT -- Full Extraction from Notion LifeOS
 **Generated: 2026-03-01**
 

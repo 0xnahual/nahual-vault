@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [reflection, death, urgency, priorities]
+---
 Todo este texto es ficción y no estoy declarando nada, solo estoy haciendo una relfexión.
 
 Me queda un año de vida. Esto es lo que tengo que hacer antes de morir:

@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, character, desapego, pillar]
+---
 ## **Pilar del Desapego – “La Llama que Perdió su Nombre”**
 
 ---

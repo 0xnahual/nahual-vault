@@ -1,7 +1,11 @@
-> **“
-> 
-> 
-> Hijo… ¿sabes por qué Dios te quitó la pierna?”**  
+---
+type: project
+tags: [game, scene, william, mother]
+---
+> **”
+>
+>
+> Hijo… ¿sabes por qué Dios te quitó la pierna?”**
 >  
 > *[el niño niega con la cabeza, con lágrimas]*  
 >  

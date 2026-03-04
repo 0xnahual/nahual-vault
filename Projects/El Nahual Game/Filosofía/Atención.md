@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, atencion, pillar]
+---
 > “Cuando miras sin huir, el mundo deja de ser un enemigo.
 
 >   

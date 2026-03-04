@@ -1,4 +1,8 @@
-# 🌑 THE MISINTERPRETATION SYSTEM  
+---
+type: project
+tags: [game, villains, misinterpretation, pillars]
+---
+# 🌑 THE MISINTERPRETATION SYSTEM
 *A framework of the false paths — where light turns blind.*
 
 > “The Nahual does not destroy evil.  

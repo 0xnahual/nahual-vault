@@ -1,3 +1,9 @@
+---
+type: system
+domain: [endurance]
+tags: [ixnah, endurance, conditioning, impact, recovery]
+---
+
 # IXNAH Domain 7: ENDURANCE
 
 *The body that doesn't break. Not just cardio — the ability to absorb, sustain, recover, and harden across every system.*
@@ -8,19 +14,19 @@
 
 ENDURANCE is the domain of lasting. Not just cardiovascular fitness — that's one component. ENDURANCE encompasses everything that allows the body to sustain effort, absorb impact, resist damage, and recover to do it all again.
 
-A body with STRENGTH can produce force. A body with ENDURANCE can produce force repeatedly, absorb force without breaking, and recover between bouts of effort. STRENGTH without ENDURANCE is a single punch. ENDURANCE without STRENGTH is a body that lasts but can't do anything with the time.
+A body with [[4 — STRENGTH|STRENGTH]] can produce force. A body with ENDURANCE can produce force repeatedly, absorb force without breaking, and recover between bouts of effort. STRENGTH without ENDURANCE is a single punch. ENDURANCE without STRENGTH is a body that lasts but can't do anything with the time.
 
 ---
 
 ## What ENDURANCE Contains
 
-### Cardiovascular Conditioning (The 3 Engines)
+### Cardiovascular Conditioning ([[IXNAH Conditioning — The 3 Engines|The 3 Engines]])
 The energy systems that power all physical output:
 - **Alactic (0-10 seconds)** — explosive power, single efforts
 - **Glycolytic (10s-2 min)** — sustained fight output, the burn
 - **Aerobic (2 min+)** — recovery engine, the foundation everything sits on
 
-Full system documented in: *IXNAH Conditioning — The 3 Engines*
+Full system documented in: [[IXNAH Conditioning — The 3 Engines]]
 
 ### Impact Conditioning
 - **Ukemi (breakfalls)** — Judo throws build the body's ability to absorb impact at the ground. Every throw taken is impact conditioning.
@@ -28,7 +34,7 @@ Full system documented in: *IXNAH Conditioning — The 3 Engines*
 - **Iron body work** — Progressive conditioning of vulnerable areas (shins, forearms, torso) to withstand force without damage.
 
 ### Bone Density
-- **Loaded training** — The 7 Compounds under load stimulate bone density. Squats, carries, and weighted movements build skeletal strength.
+- **Loaded training** — The [[IXNAH Strength — The 7 Compounds|7 Compounds]] under load stimulate bone density. Squats, carries, and weighted movements build skeletal strength.
 - **Impact loading** — Jumping, sprinting, and throwing create impact forces that strengthen bone beyond what lifting alone achieves.
 - **Judo** — Repeated throwing and being thrown loads the skeletal system through unpredictable forces.
 
@@ -58,7 +64,7 @@ Full system documented in: *IXNAH Conditioning — The 3 Engines*
 | Impact, recovery, hardening | Load, progressive overload | Joint health, mobility, habits |
 | Trained through suffering | Trained through progression | Trained through consistency |
 
-STRENGTH builds the engine's horsepower. ENDURANCE builds the engine's durability. LONGEVITY keeps the engine running for 50 years.
+STRENGTH builds the engine's horsepower. ENDURANCE builds the engine's durability. [[5 — LONGEVITY|LONGEVITY]] keeps the engine running for 50 years.
 
 ---
 
@@ -79,7 +85,7 @@ STRENGTH builds the engine's horsepower. ENDURANCE builds the engine's durabilit
 ## Connection to IXNAH Pillars
 
 - **Voluntad (Will)** — ENDURANCE is where will is forged. The cold shower. The last 30 seconds of Ma Bu. The third round of randori when the grip is gone. Will is trained through suffering that is chosen, not inflicted.
-- **Energía (Energy)** — The 3 Engines ARE energy management. Knowing when to explode (alactic), when to sustain (glycolytic), and when to conserve (aerobic) is the physical application of energy mastery.
+- **Energía (Energy)** — The [[IXNAH Conditioning — The 3 Engines|3 Engines]] ARE energy management. Knowing when to explode (alactic), when to sustain (glycolytic), and when to conserve (aerobic) is the physical application of energy mastery.
 - **Entrega (Surrender)** — Surrendering to the suffering. Not fighting the pain of Ma Bu — letting it exist while the body holds. Not resisting the cold — relaxing into it. The body endures most when the mind stops fighting the sensation.
 
 ---

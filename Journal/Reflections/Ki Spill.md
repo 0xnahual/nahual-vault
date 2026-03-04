@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [reflection, ki, energy, retention]
+---
 So this week has been really enlighteningh for me regarding ki.
 
 Before April 10th (today is april 13th), I had around 20 days of semen retention, 3 months of no alcohol 1 month of no cigarettes and Daily exercise

@@ -1,3 +1,7 @@
+---
+type: project
+tags: [music, song, lyrics]
+---
 De chiquito me enseñaron a ser bueno
 Que el amor a todo le iba a ganar
 Y aunque la vida me ha tratado bien culero

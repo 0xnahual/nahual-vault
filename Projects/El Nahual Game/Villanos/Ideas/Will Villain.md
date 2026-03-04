@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, villain, ideas, voluntad]
+---
 > “Embodiment of the Will System — leads the Productivity Regime that worships strength.”
 
 IX-AR

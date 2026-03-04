@@ -1,3 +1,7 @@
+---
+type: project
+tags: [music, echoes-album, spirits, lyrics]
+---
 Español:
 
 Creí que no podría, seguir adelante

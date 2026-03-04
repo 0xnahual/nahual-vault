@@ -1,4 +1,9 @@
-# IXNAH v0.1  
+---
+type: training
+tags: [ixnah, posturas-medicina, movilidad, durabilidad, sistema-base]
+---
+
+# [[What is IXNAH|IXNAH]] v0.1
 ## Posturas Medicina — Sistema Base para la Durabilidad Humana
 
 ### Propósito
@@ -53,7 +58,7 @@ Reducen miedo, construyen capacidad y crean una base estable.
 
 ---
 
-## 1. Postura del Guardián (Ma Bu)
+## 1. Postura del Guardián ([[IXNAH Mobility — Strength at End Range|Ma Bu]])
 
 **Función principal:**  
 Aceptación bilateral de carga y tolerancia rodilla–cadera.

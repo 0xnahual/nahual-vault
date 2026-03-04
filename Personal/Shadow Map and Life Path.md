@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [shadow-work, psychology, life-path]
+---
 # Shadow Map, Integration Guide, and Life Path — Ricardo Bustos
 ### A thorough analysis of what hides in the dark, how to bring it to light, and where all of this leads
 
@@ -174,7 +178,7 @@ Based on everything in your vault, your skills, your wounds, your patterns, and 
 ### PATH A: THE ENGINEER-ARTIST (Most Likely — 60% probability)
 
 **What happens:**
-You ship El Templo. It gets 1,000-5,000 users in the first year. Some premium subscribers. Revenue: $500-3,000/month. Not life-changing but real. You keep your engineering job. You train judo 3x/week for years, eventually earning a blue/brown belt. You publish the IXNAH book — it sells modestly (500-2,000 copies). You release music sporadically — singles, not albums. The game develops slowly over 3-5 years.
+You ship [[Kung Fu Temple App Spec|El Templo]]. It gets 1,000-5,000 users in the first year. Some premium subscribers. Revenue: $500-3,000/month. Not life-changing but real. You keep your engineering job. You train judo 3x/week for years, eventually earning a blue/brown belt. You publish the [[What is IXNAH|IXNAH]] book — it sells modestly (500-2,000 copies). You release music sporadically — singles, not albums. The game develops slowly over 3-5 years.
 
 You remain semi-anonymous online. A small but loyal following (5,000-20,000 across platforms) finds you through the app and content. You're not famous. You're respected by a niche.
 

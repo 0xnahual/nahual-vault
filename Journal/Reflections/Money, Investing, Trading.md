@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [reflection, money, trading, strategy]
+---
 Mi estrategia de dinero será muy simple.
 
 Soy un trader. Si veo una oportunidad de comprar y vender algo, lo voy a hacer. No me casaré con ninguna de las criptomonedas que tenga, y sólo haré swings largos si se ven muy obvios, pero rotaré mucho mi dinero aquí. No soy inversionista de criptomonedas, pues mi propósito no va con ello.

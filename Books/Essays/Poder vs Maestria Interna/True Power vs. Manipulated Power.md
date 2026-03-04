@@ -1,3 +1,7 @@
+---
+type: book
+tags: [essay, power, mastery, inner-power]
+---
 Inner Power Wins
 # True Power vs. Manipulated Power: Why Internal Mastery Always Prevails
 

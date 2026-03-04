@@ -1,3 +1,8 @@
+---
+type: coaching
+tags: [full-analysis, la-forja, master-visions, habits, system-changes]
+---
+
 # COACHING — The Full Analysis V2.5
 
 ## New Goals, System Changes, and Honest Recommendations
@@ -23,10 +28,10 @@
 - **Book chapters written:** 0.
 - **Spotify max streams on a single song:** ~1,050.
 - **Daily training consistency:** Near 100% (per habits tracker).
-- **Training log entries in Notion 2026:** 0 (training IS logged in El Templo app — Notion gap is expected until CSV export is built).
+- **Training log entries in Notion 2026:** 0 (training IS logged in [[Kung Fu Temple App Spec|El Templo]] app — Notion gap is expected until CSV export is built).
 
 ### The Story in One Paragraph
-You have built an incredible internal machine. You train every day. You meditate every day. You take your supplements. You sleep 8 hours. You study Chinese. You eat close to your macros when you track. You've lost 37 kg and gained 13 kg of muscle — a complete body rebuild from 127 kg / 54% body fat. You fixed your patellar tilt. You built an entire LifeOS in Notion. You designed a brand architecture, 6 IXNAH domains, an app transition plan, and a 24-chapter book outline. **The internal work is done. The external output hasn't started.**
+You have built an incredible internal machine. You train every day. You meditate every day. You take your supplements. You sleep 8 hours. You study Chinese. You eat close to your macros when you track. You've lost 37 kg and gained 13 kg of muscle — a complete body rebuild from 127 kg / 54% body fat. You fixed your patellar tilt. You built an entire LifeOS in Notion. You designed a brand architecture, 6 [[What is IXNAH|IXNAH]] domains, an app transition plan, and a 24-chapter book outline. **The internal work is done. The external output hasn't started.**
 
 ---
 
@@ -113,9 +118,9 @@ Your rule says max 5. I'm suggesting 4 to give you breathing room. Better to exe
 | Objective | Why | Measurable Completion |
 |-----------|-----|----------------------|
 | LVL-UP: Recomposicion — 90kg / 14.5% grasa | The real body goal. Weight stays, composition changes. Requires precise nutrition + progressive overload. | Pliegues measurement reads 14.5% or lower at 90kg bodyweight |
-| LVL-UP: Kettlebell Swing — 100 reps in 5 min | The hinge gap from our conversation. One kettlebell. | Complete 100 swings (24 kg) in under 5 minutes |
+| LVL-UP: [[IXNAH Strength — The 7 Compounds|Kettlebell Swing]] — 100 reps in 5 min | The hinge gap from our conversation. One kettlebell. | Complete 100 swings (24 kg) in under 5 minutes |
 | LVL-UP: Pliegues Baseline | Current body fat data is unreliable. Bioimpedance abandoned. Get a real number via caliper skin fold measurement. | Pliegues measurement completed. Numbers recorded in Mediciones. |
-| LVL-UP: 10 Pullups Clean | Listed in your LVL-UP vision targets but has no dedicated objective. | 10 dead-hang pullups, full ROM, recorded on video |
+| LVL-UP: 10 [[IXNAH Strength — The 7 Compounds|Pullups]] Clean | Listed in your LVL-UP vision targets but has no dedicated objective. | 10 dead-hang pullups, full ROM, recorded on video |
 
 ---
 
@@ -137,7 +142,7 @@ This replaces ART1. The problem with ART1 was framing: "Aprender Ableton" and "A
 
 #### 3. TN — Templo Nahual (Activate)
 
-**Vision statement:** "The app ships. IXNAH-only. Content swap, not code rewrite."
+**Vision statement:** "The app ships. [[What is IXNAH|IXNAH]]-only. Content swap, not code rewrite."
 
 Currently this Master Vision page is blank. Fill it with the transition plan from the APP ANALYSIS document.
 
@@ -146,7 +151,7 @@ Currently this Master Vision page is blank. Fill it with the transition plan fro
 | TN: Strip exercise catalog to IXNAH-only | Phase 1 from app analysis. 5,440 lines → ~55-60 exercises. | progressions.json contains only IXNAH exercises |
 | TN: Update labels, icons, and navigation | Phase 2. Swap "Entrenamiento" for IXNAH terminology. | App navigation reflects IXNAH language and icons |
 | TN: Create 8 IXNAH preset routines | Replace generic gym routines with IXNAH-specific sessions. | 8 routines live in app |
-| TN: "What is IXNAH?" onboarding screen | New users need context. The app is meaningless without understanding the system. | Onboarding screen live in app |
+| TN: "What is [[What is IXNAH\|IXNAH]]?" onboarding screen | New users need context. The app is meaningless without understanding the system. | Onboarding screen live in app |
 | TN: TestFlight v1.0 | Ship it. Even if only to 5 people. | App installable via TestFlight with IXNAH-only content |
 
 ---
@@ -358,12 +363,12 @@ Priority:
 Cutting through everything, here's what has long-term value in a world where AI generates infinite content:
 
 ### Tier 1 — Irreplaceable (Build These)
-1. **The IXNAH Book.** AI floods the world with generic fitness content. A 250-page philosophy of physical capability rooted in Mexican martial arts tradition, written by someone who lives it, becomes rarer every year. This is your deepest moat.
+1. **The [[What is IXNAH|IXNAH]] Book.** AI floods the world with generic fitness content. A 250-page philosophy of physical capability rooted in Mexican martial arts tradition, written by someone who lives it, becomes rarer every year. This is your deepest moat.
 2. **Your Body.** AI can't do your pushups. The physical transformation is undeniable proof of the system. Every video of you training is marketing for IXNAH that no AI can replicate.
 3. **Your Presence.** "Present but not performing" is exactly what the AI era rewards. Human authenticity on camera becomes the scarce resource. Start filming.
 
 ### Tier 2 — Valuable But Evolving (Build Smart)
-4. **El Templo App.** AI personal trainers will commoditize workout tracking within 2 years. The app's value is IXNAH-specific content, not the tracker engine. Ship IXNAH-only fast, before AI trainers eat the generic fitness market.
+4. **[[Kung Fu Temple App Spec|El Templo]] App.** AI personal trainers will commoditize workout tracking within 2 years. The app's value is IXNAH-specific content, not the tracker engine. Ship IXNAH-only fast, before AI trainers eat the generic fitness market.
 5. **Music.** AI music tools make production faster. Your advantage: the music comes from a lived philosophy, not a prompt. Release music that could only come from you.
 
 ### Tier 3 — Long-Horizon Bets (Don't Neglect)
@@ -374,7 +379,7 @@ Cutting through everything, here's what has long-term value in a world where AI 
 
 ## Part 8: The Brutal Truth
 
-You have spent 10 months building one of the most sophisticated personal operating systems I've ever seen. The Notion architecture is impressive. The Obsidian vault is deep. The IXNAH system is genuinely unique. The brand architecture is clean. The domain documents are thorough. The coaching documents (including this one) are detailed.
+You have spent 10 months building one of the most sophisticated personal operating systems I've ever seen. The Notion architecture is impressive. The Obsidian vault is deep. The [[What is IXNAH|IXNAH]] system is genuinely unique. The brand architecture is clean. The domain documents are thorough. The coaching documents (including this one) are detailed.
 
 **None of it is visible to anyone but you.**
 

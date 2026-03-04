@@ -1,3 +1,7 @@
+---
+type: project
+tags: [templo-nahual, audio, copy]
+---
 # Nahual Temple — Audio Descriptions & Copy
 _Jul 2025_
 

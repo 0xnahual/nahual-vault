@@ -1,3 +1,9 @@
+---
+type: system
+domain: [expression]
+tags: [ixnah, expression, art, voice, music]
+---
+
 # The Nahual's Expression — Art of the Shapeshifter
 
 *The voice is the instrument. The body is the stage. The transformation is the song.*
@@ -6,13 +12,13 @@
 
 ## Expression in IXNAH — The Open Domain
 
-IXNAH has 7 domains. Six of them prescribe: specific exercises, specific progressions, specific mastery tests. They build a complete physical instrument — the range, the strength, the endurance, the movement literacy, the combat capability, the longevity.
+[[What is IXNAH|IXNAH]] has [[IXNAH Domain Architecture — The 7 Domains|7 Domains]]. Six of them prescribe: specific exercises, specific progressions, specific mastery tests. They build a complete physical instrument — the range, the strength, the endurance, the movement literacy, the combat capability, the longevity.
 
 **Expression is different. Expression prescribes nothing.**
 
 The 6 domains build the vocabulary. Expression is the poetry. You teach vocabulary. You don't teach poetry — you create the conditions for it to emerge.
 
-An IXNAH practitioner who has developed MOVING, INNER ANIMAL, DEFENDING, STRENGTH, ENDURANCE, and LONGEVITY has a body that can do almost anything. What they CHOOSE to do with it is Expression. And that choice must be theirs.
+An IXNAH practitioner who has developed [[1 — MOVING|MOVING]], [[2 — INNER ANIMAL|INNER ANIMAL]], [[3 — DEFENDING|DEFENDING]], [[4 — STRENGTH|STRENGTH]], [[7 — ENDURANCE|ENDURANCE]], and [[5 — LONGEVITY|LONGEVITY]] has a body that can do almost anything. What they CHOOSE to do with it is Expression. And that choice must be theirs.
 
 - One person's Expression is capoeira.
 - Another's is breakdancing.
@@ -41,7 +47,7 @@ But here's what changes everything: the body underneath the voice has transforme
 
 The voice at 127 kilograms was compressed. Literally — the fat around the thoracic cavity, the collapsed posture, the shallow breathing of a sedentary body. The voice worked, but it worked against resistance. Like singing through a tube.
 
-The voice NOW — with an open thoracic spine, expanded ribcage from back bridges and dead hangs, diaphragmatic depth from Qi Gong, intercostal mobility from silk reeling, core stability from the 7 Compounds — the voice has a BODY behind it that most singers never develop. The resonating chamber has been rebuilt from the inside.
+The voice NOW — with an open thoracic spine, expanded ribcage from back bridges and dead hangs, diaphragmatic depth from Qi Gong, intercostal mobility from silk reeling, core stability from the [[IXNAH Strength — The 7 Compounds|7 Compounds]] — the voice has a BODY behind it that most singers never develop. The resonating chamber has been rebuilt from the inside.
 
 A singer who does yoga breathes better. A singer who does IXNAH — dead hangs that open the thoracic cavity, back bridges that expand the chest, silk reeling that mobilizes the ribs, Ma Bu that trains diaphragmatic pressure, Qi Gong that teaches breath as energy — that singer has a physical instrument that most vocalists don't even know is possible.
 
@@ -174,7 +180,7 @@ This becomes the most distinctive content in the creator economy. Not fitness. N
 ## The Arc of the Art
 
 ### La Forja (Now)
-The art is being BUILT. The voice is training daily. The body is transforming. The morning practice is developing. The songs are being written. Nothing is released yet — and that's correct. The instrument isn't ready. Not the voice (that's ready). The WHOLE instrument — body + voice + movement + philosophy. La Forja builds the instrument. La Revelación plays it.
+The art is being BUILT. The voice is training daily. The body is transforming. The morning practice is developing. The songs are being written. Nothing is released yet — and that's correct. The instrument isn't ready. Not the voice (that's ready). The WHOLE instrument — body + voice + movement + philosophy. [[Coaching — Final Training Schedule|La Forja]] builds the instrument. La Revelación plays it.
 
 ### La Revelación
 The first recordings drop. Not polished albums — raw captures. A voice and guitar. A morning practice with singing over it. An electronic piece with movement. The world sees the Nahual for the first time. It's not "launching a music career." It's opening a window that was closed.

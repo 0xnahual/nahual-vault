@@ -1,3 +1,7 @@
+---
+type: project
+tags: [ixtlan, movement, consciousness]
+---
 El movimiento Ixtlán, invitará a la gente que se sitúa en el punto de hacia arriba de la [[pirámide de mazlow]], a utilizar todo su potencial para hacer qué otros debajo puedan llegar a ese punto.
 
 El movimiento Ixtlán invita a la humanidad a ser más conscientes, realizar su máximo potencial, y ayudar a que otros humanos realicen su máximo potencial, con el objetivo de mejorar el mundo, el universo, y expandir la conciencia.

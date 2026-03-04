@@ -1,3 +1,7 @@
+---
+type: project
+tags: [templo-nahual, content-guide, teaching]
+---
 # **TEMPLO NAHUAL**
 
   

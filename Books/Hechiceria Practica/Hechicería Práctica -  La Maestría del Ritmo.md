@@ -1,5 +1,9 @@
 
 
+---
+type: book
+tags: [hechiceria, rhythm, harmonization]
+---
 La armonización entre **cuerpo, mente y respiración** es un pilar fundamental de la hechicería práctica.  
 Existen dos caminos para entrenar esta maestría:  
 - **Sincronización total** (alineación perfecta entre los tres elementos).  

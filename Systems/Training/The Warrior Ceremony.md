@@ -39,7 +39,7 @@ Rooted in ancient principles, guided by primal music, and centered around fire.
 - **3 Rounds:**
   - 10 slow pushups
   - 15 deep squats
-  - 30 seconds Ma Bu (Horse Stance)
+  - 30 seconds [[IXNAH Mobility — Strength at End Range|Ma Bu]] (Horse Stance)
   - 1 minute stillness by the fire
 
 - Music: Deep ambient tribal drums, subtle visionary tones
@@ -50,7 +50,7 @@ Rooted in ancient principles, guided by primal music, and centered around fire.
 ## PHASE 2 – TRIAL BY FIRE (40–65 min)
 
 ### Ritual Circuit (Repeat 2–3x):
-- Ma Bu – 2 minutes
+- [[IXNAH Mobility — Strength at End Range|Ma Bu]] – 2 minutes
 - Gong Bu (Bow Stance) – 45 seconds each side
 - 20 Pushups (every 5th rep = breath + sound)
 - 10 Burpees

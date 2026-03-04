@@ -1,3 +1,7 @@
+---
+type: project
+tags: [music, strategy, NAHUAL]
+---
 # The Music Strategy — Ricardo Bustos
 ### Two projects, no grind, no brand anxiety. Just make the thing.
 

@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [reflection, god, faith, phases]
+---
 Ver a Dios, o al creador, puede ser en diferentes fases. 
 
 - No verlo.

@@ -1,3 +1,7 @@
+---
+type: project
+tags: [templo-nahual, video-ideas, content]
+---
 -  Deep Squat para que sirve.
 - Barefoot para que sirve y por que entrenarlos
 - Respiración de Agua

@@ -1,5 +1,9 @@
+---
+type: project
+tags: [roadmap, strategy, IXNAH]
+---
 # ROADMAP — Ricardo Bustos
-*Updated context: 89kg, transformation well underway, engineer with a $7,600/mo job, never on camera, has a library of training footage, and an 80%-complete iOS app called "El Templo" (timer + training + mastery tracking — Duolingo for postures and skills).*
+*Updated context: 89kg, transformation well underway, engineer with a $7,600/mo job, never on camera, has a library of training footage, and an 80%-complete iOS app called "[[Kung Fu Temple App Spec|El Templo]]" (timer + training + mastery tracking — Duolingo for postures and skills).*
 
 ---
 
@@ -20,7 +24,7 @@ The assessment's advice about IXNAH being the career still holds. What changes i
 
 ### What needs to be written (in order of priority)
 
-#### Priority 1: IXNAH System — Complete the Product (Months 1-3)
+#### Priority 1: [[What is IXNAH|IXNAH]] System — Complete the Product (Months 1-3)
 
 This is the thing that makes money. Every empty file is money left on the table.
 

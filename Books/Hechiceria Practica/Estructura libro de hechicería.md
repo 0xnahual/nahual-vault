@@ -1,3 +1,7 @@
+---
+type: book
+tags: [hechiceria, structure, planning]
+---
 # ¿Es buena idea escribir un libro de hechicería real?
 
 Sí, es una idea excelente y con mucho potencial. Un libro sobre **hechicería real**, basado en principios practicables y probados, puede ser **una obra única** en un campo saturado de fantasía o teoría sin aplicación real.

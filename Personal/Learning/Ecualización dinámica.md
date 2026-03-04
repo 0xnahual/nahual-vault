@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [music-production, eq, fl-studio]
+---
 La ecualización dinámica sirve para sacar brillo u obscuridad a ciertos sonidos, dependiendo de otros sonidos. Es cómo hacer sidechain con el brillo.
 
 A diferencia de el sidechain, la ecualización dinámica sube o baja de volumen ciertas frecuencias que sean necesarias, mientras que el sidechain lo hace con todo el sonido.

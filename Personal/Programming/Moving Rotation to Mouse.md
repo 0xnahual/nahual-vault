@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [programming, godot, game-dev]
+---
 Para hacer que un personaje apunte hacia la posición del mouse en GDScript, puedes usar este código:
 
 ```gdscript

@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, scene, william, mother, suggested]
+---
 # Escena: La Promesa — versión sugerida
 
 ---

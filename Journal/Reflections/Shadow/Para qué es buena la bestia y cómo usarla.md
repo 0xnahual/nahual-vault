@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [shadow, beast, integration, awareness]
+---
 eflexionando sobre la bestia, esa agresividad y terrenalidad en mi interior, debo ser **consciente de cuándo** debe ser usada, cuándo debe ser activada y cuándo apagada.
 
 Listemos entonces los pros y contras de la bestia y, en base a ellos, decidamos **cuándo** se va a prender y apagar **inconscientemente**.

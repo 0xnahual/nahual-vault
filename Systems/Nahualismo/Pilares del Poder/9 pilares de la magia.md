@@ -1,3 +1,8 @@
+---
+type: philosophy
+tags: [9-pilares, magia, nahualismo, pruebas]
+---
+
 Para que un pilar sea
 ## Atención
 

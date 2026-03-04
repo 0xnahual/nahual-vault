@@ -1,3 +1,7 @@
+---
+type: book
+tags: [hechiceria, breathing, spell, energy]
+---
 # 🌬️ Hechizo de la Respiración: El Arte de Controlar la Energía  
 
 📌 **Principio:** La respiración es la conexión entre la mente, el cuerpo y la energía.  

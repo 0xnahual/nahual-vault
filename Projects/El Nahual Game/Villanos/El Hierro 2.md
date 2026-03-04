@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, villain, hierro, voluntad]
+---
 # 🜔 EL HIERRO — *El Villano de la Voluntad*
 
 ## 🩸 Esencia

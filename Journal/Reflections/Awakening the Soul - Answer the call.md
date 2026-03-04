@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [reflection, soul, awakening, purpose]
+---
 Sientes eso? Sientes el llamado? El llamado a algo mas grande?, el llamado a seguir un propósito mayor? Seguro por eso comopraste este libro.
 
 Felicidades. Acabas de completar el primer paso para encontrar tu propósito y seguirlo. Dejame decirte que no todos responden al llamado.

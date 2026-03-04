@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [shadow, spirit, beast, balance, cycle]
+---
 Ya he escrito antes sobre como puedo invocar diferentes espíritus dentro de mi mente. En este momento conozco a 2, al espíritu de Neza, o th0ndrsoul, y a la bestia, a sukuna.
 
 Cuando dejo de entrar a Neza, tengo creatividad y poder infinito. Puedo hacer la dieta a la perfección, puedo esxcribir sin rodeos, salen las ideas más puras de mi corazón, y puedo hacer básicamente todo. Me convierto en un Dios.

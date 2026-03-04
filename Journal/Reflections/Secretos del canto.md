@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [reflection, singing, shadow, spirit]
+---
 No sé que estoy buscando escribir realmente, comienzo este escrito, pues no me está saliendo lo que quiero que me salga en el estudio de grabación. Quiero tener presente que es lo que me está pasando, para poder unir a mi sombra con mi alma y aí poder cantar mejor.
 
 Debo de entender que el canto, es inherentemente el trip de la unión mente, cuerpo y espíritu.

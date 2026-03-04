@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [reflection, planning, monetization, zenjaku]
+---
 En este momento me estoy enfocando en terminar zenjaku, pero ya debo pensar que sigue, y sobre todo, cómo voy a monetizar todo el proyecto del videojuego.
 
 Si nadie me pagara nada estaría haciendo lo que hago ahorita, crear sin precedentes, pero ahora, ¿Cómo monetizo eso? - Drip Haus y Zenjaku me pueden monetizar fácilmente, sobretodo por qué no estoy buscando millones en este momento - con ganar unos 1500 USD al mes me doy por servido para esta fase.

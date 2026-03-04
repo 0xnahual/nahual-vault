@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [relationships, self-improvement, life-path]
+---
 # On Finding a Partner, Your Best Version, and What You Need to Get There
 ### A thorough document for Ricardo Bustos — synthesized from the complete 0xnahual vault
 
@@ -132,9 +136,9 @@ Daily training stays non-negotiable. Not because discipline proves your spiritua
 
 The engineering job stays, and not reluctantly. You're good at it. It pays well. It funds everything. Your best version has made complete peace with this — the job isn't what you "do" in some profound sense, it's what funds what you do. This framing removes all the internal friction.
 
-**El Templo** is live in the App Store. It has real users, real reviews, real bugs that got fixed. It generates meaningful revenue — not yet replacing the salary, but growing. This is the product that carries the IXNAH system to people who will never read your vault. It's the proof of concept for a body-first transformation methodology that you didn't theorize — you lived it. 127kg to 89kg. That's the pitch. That's the proof. Nobody can argue with it.
+**[[Kung Fu Temple App Spec|El Templo]]** is live in the App Store. It has real users, real reviews, real bugs that got fixed. It generates meaningful revenue — not yet replacing the salary, but growing. This is the product that carries the IXNAH system to people who will never read your vault. It's the proof of concept for a body-first transformation methodology that you didn't theorize — you lived it. 127kg to 89kg. That's the pitch. That's the proof. Nobody can argue with it.
 
-**The Ixtlan Project** is the larger frame that holds everything. Music, game, animations, books, the movement itself. It's not a side project. It's not a hobby. It's the life's work — the multimedia artistic movement that carries Toltec values through contemporary forms. You wrote it yourself: *"Proyecto Ixtlán será el proyecto en el que trabajaré toda mi vida."* In your best version, you've stopped apologizing for how big that is and started building it piece by piece, systematically, over years.
+**The [[The Nahual's Expression — Art of the Shapeshifter|Ixtlan Project]]** is the larger frame that holds everything. Music, game, animations, books, the movement itself. It's not a side project. It's not a hobby. It's the life's work — the multimedia artistic movement that carries Toltec values through contemporary forms. You wrote it yourself: *"Proyecto Ixtlán será el proyecto en el que trabajaré toda mi vida."* In your best version, you've stopped apologizing for how big that is and started building it piece by piece, systematically, over years.
 
 The pillar of Ixtlan is the music. You understood this. Everything else — the game, the animations, the movement — grows from the musical foundation. Which means singing and music production aren't accessories to your life. They're the spine of your most important creative project.
 
@@ -306,7 +310,7 @@ Talk to the EMDR therapist about this. Or a separate therapist who is LGBTQ-affi
 
 ### Stop adding new frameworks
 
-The intellectual architecture is complete. IXNAH, Nahualismo, 9 Stages, 9 Pillars, Hechicería Práctica, Nervous System Mastery, Willcraft — it's enough. Every new framework you start is a delay to shipping, to singing, to judo, to the honest conversation. When you feel the urge to build a new system, ask: "Am I creating this because I need it, or because it feels safer than doing the thing it describes?"
+The intellectual architecture is complete. [[What is IXNAH|IXNAH]], Nahualismo, 9 Stages, [[The 9 Pillars — The Architecture of Power|9 Pillars]], Hechicería Práctica, Nervous System Mastery, Willcraft — it's enough. Every new framework you start is a delay to shipping, to singing, to judo, to the honest conversation. When you feel the urge to build a new system, ask: "Am I creating this because I need it, or because it feels safer than doing the thing it describes?"
 
 ### Stop using understanding as a substitute for living
 

@@ -1,4 +1,8 @@
-# El Templo App — IXNAH Alignment Analysis
+---
+type: project
+tags: [app, el-templo, IXNAH, analysis]
+---
+# [[Kung Fu Temple App Spec|El Templo]] App — [[What is IXNAH|IXNAH]] Alignment Analysis
 
 *What needs to change, what stays, and why.*
 

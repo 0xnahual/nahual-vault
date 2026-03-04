@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, GDD, archetypes, pillars]
+---
 # Game Design Document: Nahual Archetypes System
 
 ## Core Concept

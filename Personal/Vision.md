@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [vision, strategy, master-plan]
+---
 # Vision — Ricardo Bustos
 
 ## Who I Am Now
@@ -14,7 +18,7 @@ Everything in this vault points to one thing:
 
 **Body leads. Consciousness follows. Art transmits it.**
 
-I created a complete system — IXNAH, Nahualismo, the 9 Stages, the Nervous System framework, the training protocols — that transforms people through embodied practice, not theory. Every project (game, music, videos, books, foundation) is a different vehicle for the same transmission.
+I created a complete system — [[What is IXNAH|IXNAH]], Nahualismo, the 9 Stages, the Nervous System framework, the training protocols — that transforms people through embodied practice, not theory. Every project (game, music, videos, books, foundation) is a different vehicle for the same transmission.
 
 ---
 
@@ -23,7 +27,7 @@ I created a complete system — IXNAH, Nahualismo, the 9 Stages, the Nervous Sys
 ### The Product Stack
 
 ```
-El Templo (app) ← THE CENTER OF GRAVITY
+[[Kung Fu Temple App Spec|El Templo]] (app) ← THE CENTER OF GRAVITY
     ├── Free tier: 7 IXNAH postures, timer, basic logging
     ├── Premium ($8/mo): full skill trees, breathing, martial arts, 9 Stages tracking
     └── Content pipeline: social media → app downloads → premium conversions
@@ -44,7 +48,7 @@ Books 2-3 ← THE AUTHORITY
 ### Phase 1: Ship (Now — 3 months)
 **Goal:** App in the App Store. Content engine running.
 
-- Finish El Templo (the 20% remaining). Ship to App Store.
+- Finish [[Kung Fu Temple App Spec|El Templo]] (the 20% remaining). Ship to App Store.
 - Write the 7 IXNAH posture pages (feeds both the book and the app).
 - Start posting 3x/week faceless training content. Every video → "Descarga El Templo."
 - Enroll in judo.

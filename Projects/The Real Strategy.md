@@ -1,3 +1,7 @@
+---
+type: project
+tags: [strategy, anti-content, building]
+---
 # The Real Strategy — Ricardo Bustos
 *Train so hard the story tells itself. Ship the app. Live in peace.*
 
@@ -25,9 +29,9 @@ This is actually how most real things get built. Miyamoto Musashi didn't have a 
 
 **You train.** Every day. Judo, calisthenics, stances, whatever the body needs. You record it because you already do. The footage sits on your phone. You don't post it. You don't edit it. It just exists as documentation.
 
-**You code.** Finish El Templo. Make it excellent. Not "good enough to launch with a marketing campaign." Excellent enough that one person uses it, tells another person, and it grows by word of mouth. The best apps in history didn't need influencer marketing. They needed to be genuinely useful.
+**You code.** Finish [[Kung Fu Temple App Spec|El Templo]]. Make it excellent. Not "good enough to launch with a marketing campaign." Excellent enough that one person uses it, tells another person, and it grows by word of mouth. The best apps in history didn't need influencer marketing. They needed to be genuinely useful.
 
-**You write.** Fill out IXNAH. Write the book. Not for an audience — for the system. Because the postures need documentation. Because the protocols need depth. Because someday someone will need this, and it should be ready.
+**You write.** Fill out [[What is IXNAH|IXNAH]]. Write the book. Not for an audience — for the system. Because the postures need documentation. Because the protocols need depth. Because someday someone will need this, and it should be ready.
 
 **You don't post.** Or you post when you feel like it. Once a month. Once a week. Whenever something feels worth sharing. Not on a schedule. Not for an algorithm. Not to "build an audience."
 

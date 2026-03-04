@@ -1,8 +1,13 @@
+---
+type: coaching
+tags: [la-forja, training-schedule, ixnah, judo, weekly-structure]
+---
+
 # COACHING — Final Training Schedule
 
 *Created: March 1, 2026*
 *Updated: March 3, 2026 — K1 removed, 3x Judo, 7-domain alignment*
-*Supersedes: Training & Phase Analysis schedule*
+*Supersedes: [[Coaching — Training & Phase Analysis]] schedule*
 
 ---
 
@@ -11,7 +16,7 @@
 | Day | Morning (7:30-9:00) | Evening (7:00-8:00) |
 |-----|---------------------|---------------------|
 | **Monday** | **IXNAH — Power** | **Judo** (strength/conditioning — the "hard" session) |
-| **Tuesday** | IXNAH — Pull | OFF — Creative block, recovery, or INNER ANIMAL work |
+| **Tuesday** | IXNAH — Pull | OFF — Creative block, recovery, or [[2 — INNER ANIMAL\|INNER ANIMAL]] work |
 | **Wednesday** | IXNAH — Mobility | **Judo** (technique) |
 | **Thursday** | IXNAH — Legs + Hinge | OFF — Creative block, recovery, or INNER ANIMAL work |
 | **Friday** | IXNAH — Mobility | **Judo** (technique) |
@@ -32,7 +37,7 @@
 
 - **Monday Judo returns** — previously dropped when K1 was in the mix. With K1 gone, Monday evening Judo is back. This is the "hard" session — strength-focused, conditioning-heavy, the one that tests what Monday Power Day built.
 - **Wednesday + Friday Judo** — technique sessions. Throws, entries, transitions, ground work, randori. This is what requires a partner and coach. Irreplaceable.
-- **K1 removed entirely** — depth in Judo > breadth across striking and grappling. The IXNAH warrior doesn't strike. He closes distance with INNER ANIMAL speed, clinches with gorilla grip, throws with Judo technique.
+- **K1 removed entirely** — depth in Judo > breadth across striking and grappling. The [[What is IXNAH|IXNAH]] warrior doesn't strike. He closes distance with [[2 — INNER ANIMAL|INNER ANIMAL]] speed, clinches with gorilla grip, throws with Judo technique.
 - **Tuesday + Thursday evenings FREE** — these become La Revelación slots. Creative work, content creation, recovery, or INNER ANIMAL training (climbing, crawling, environmental work). The schedule now serves both the body AND the art.
 - **Monday morning = Power day** — feeds directly into Monday Judo. Fresh explosion in the morning, combat application in the evening. The best pairing in the week.
 
@@ -47,15 +52,15 @@ Train the nervous system to fire fast. Upper and lower body explosive power. Dir
 
 | Movement | Sets × Reps | Purpose | IXNAH Domain |
 |----------|-------------|---------|--------------|
-| Clap / Explosive Pushups | 4 × 5-8 | Upper body power, explosive clinch entry | STRENGTH + INNER ANIMAL |
-| Box Jumps or Tuck Jumps | 4 × 5 | Lower body power, throw explosiveness | INNER ANIMAL + MOVING |
-| Kettlebell Swings (explosive) | 4 × 10 | Hip power — direct transfer to Judo throws | STRENGTH + ENDURANCE |
-| Broad Jumps | 3 × 5 | Horizontal power, distance-closing speed | INNER ANIMAL + DEFENDING |
-| Sprawls | 4 × 6-8 | Defensive explosiveness, anti-takedown | DEFENDING |
+| Clap / Explosive Pushups | 4 × 5-8 | Upper body power, explosive clinch entry | [[4 — STRENGTH\|STRENGTH]] + [[2 — INNER ANIMAL\|INNER ANIMAL]] |
+| Box Jumps or Tuck Jumps | 4 × 5 | Lower body power, throw explosiveness | [[2 — INNER ANIMAL\|INNER ANIMAL]] + [[1 — MOVING\|MOVING]] |
+| [[IXNAH Strength — The 7 Compounds\|Kettlebell Swings]] (explosive) | 4 × 10 | Hip power — direct transfer to Judo throws | [[4 — STRENGTH\|STRENGTH]] + [[7 — ENDURANCE\|ENDURANCE]] |
+| Broad Jumps | 3 × 5 | Horizontal power, distance-closing speed | [[2 — INNER ANIMAL\|INNER ANIMAL]] + [[3 — DEFENDING\|DEFENDING]] |
+| Sprawls | 4 × 6-8 | Defensive explosiveness, anti-takedown | [[3 — DEFENDING\|DEFENDING]] |
 
 **Why Sprawls Matter:** The most underrated exercise for a grappler:
 - **Judo:** Anti-takedown defense, scramble recovery
-- **IXNAH:** Bridges the INNER ANIMAL and DEFENDING domains — explosive hip drop to avoid grabs, return to stance
+- **IXNAH:** Bridges the [[2 — INNER ANIMAL|INNER ANIMAL]] and [[3 — DEFENDING|DEFENDING]] domains — explosive hip drop to avoid grabs, return to stance
 
 **Programming Notes:**
 - Warm up with silk reeling + stance transitions (5-10 min) — the internal work before the external explosion
@@ -72,7 +77,7 @@ Train the nervous system to fire fast. Upper and lower body explosive power. Dir
 ## Tuesday — IXNAH Pull + Creative Evening
 
 ### Morning: Pull Day
-- Pullups (weighted progression)
+- [[IXNAH Strength — The 7 Compounds|Pullups]] (weighted progression)
 - Body rows
 - Grip training (towel pullups, gi hangs)
 - Bicep work
@@ -92,7 +97,7 @@ Train the nervous system to fire fast. Upper and lower body explosive power. Dir
 - Silk reeling, hip-leading transitions
 - Qi Gong / Breathing Spells
 - Sacred Mobility Portals
-- Stance flow (Ma Bu → Gong Bu → Pu Bu transitions)
+- Stance flow ([[IXNAH Mobility — Strength at End Range|Ma Bu]] → Gong Bu → Pu Bu transitions)
 - Animal flow
 - Jefferson Curl (flexibility maintenance)
 
@@ -108,8 +113,8 @@ Train the nervous system to fire fast. Upper and lower body explosive power. Dir
 ### Morning: Legs + Hinge
 - Loaded squat — sandbag (progression)
 - Ma Bu holds (timed)
-- Kettlebell swings (strength — heavier, fewer reps than Monday power swings)
-- Farmer's carry
+- [[IXNAH Strength — The 7 Compounds|Kettlebell swings]] (strength — heavier, fewer reps than Monday power swings)
+- [[IXNAH Strength — The 7 Compounds|Farmer's carry]]
 - Pu Bu transitions
 - Calf work
 
@@ -138,7 +143,7 @@ Train the nervous system to fire fast. Upper and lower body explosive power. Dir
 ### Morning: Creative Block (SACRED — minimum 3 hours)
 - Music production (Ableton)
 - Writing (book chapters, essays)
-- App development (El Templo)
+- App development ([[Kung Fu Temple App Spec|El Templo]])
 - Content creation (filming, editing, posting)
 
 **Rule: "What am I finishing this week?"** — asked at the start of every Saturday block.
@@ -162,7 +167,7 @@ Train the nervous system to fire fast. Upper and lower body explosive power. Dir
 ## Recovery Protocol
 
 - **Sleep:** 8 hours. Non-negotiable. Already at 100%.
-- **Nutrition:** Follow Karen's plan DAILY. 2,800 kcal. 189g protein.
+- **Nutrition:** Follow [[Nutrition Plan — Karen Verastegui Feb 2026|Karen]]'s plan DAILY. 2,800 kcal. 189g protein.
 - **Water:** 2.5 liters/day (Karen's recommendation).
 - **Supplements:** Proteína, Creatina, Omega 3, Magnesio, Probióticos.
 - **Electrolytes:** 500ml once per week (Karen's recommendation).
@@ -170,11 +175,11 @@ Train the nervous system to fire fast. Upper and lower body explosive power. Dir
 
 ---
 
-## Trigger System (from Training & Phase Analysis)
+## Trigger System (from [[Coaching — Training & Phase Analysis]])
 
 ### Monthly Check (Last Sunday of Month)
-- Are PRs still progressing? (Check El Templo app)
-- Are pliegues moving down? (Every 4-6 weeks with Karen)
+- Are PRs still progressing? (Check [[Kung Fu Temple App Spec|El Templo]] app)
+- Are pliegues moving down? (Every 4-6 weeks with [[Nutrition Plan — Karen Verastegui Feb 2026|Karen]])
 - Am I hitting creative blocks? (Check "Touched a Project" habit)
 - Is food logging at 70%+? (Check Daily Macros count)
 - How is work performance?
@@ -224,4 +229,4 @@ Internal practice every morning. Judo three evenings (Mon/Wed/Fri). Creative two
 
 ---
 
-*This is the La Forja schedule. It ends when pliegues say ≤14.5% and you've shipped something to the world.*
+*This is the [[Coaching — Final Training Schedule|La Forja]] schedule. It ends when pliegues say ≤14.5% and you've shipped something to the world.*

@@ -1,7 +1,12 @@
+---
+type: coaching
+tags: [la-forja, timeline, la-revelacion, recomp, phases]
+---
+
 # COACHING — La Forja Timeline & Next Phase
 
 *Created: March 1, 2026*
-*Builds on: Training & Phase Analysis, Full Analysis V2.5*
+*Builds on: [[Coaching — Training & Phase Analysis]], [[Coaching — The Full Analysis|Full Analysis V2.5]]*
 
 ---
 
@@ -13,7 +18,7 @@
 
 ## Part 1: How Long — The Math
 
-La Forja isn't a calendar phase. It's a conditions-based phase. It ends when specific things are true, not when a date arrives.
+[[Coaching — Final Training Schedule|La Forja]] isn't a calendar phase. It's a conditions-based phase. It ends when specific things are true, not when a date arrives.
 
 ### The Body Recomp Timeline
 
@@ -64,7 +69,7 @@ If La Forja takes more than 18 months, something is broken:
 - PRs stalled for months → programming needs changing
 - Creative blocks were never protected → the phase lost its purpose
 
-The trigger system in the Training Analysis document handles all of these. La Forja has built-in self-correction. If it's dragging past 18 months, the phase didn't work — you reassess everything.
+The trigger system in the [[Coaching — Training & Phase Analysis]] document handles all of these. La Forja has built-in self-correction. If it's dragging past 18 months, the phase didn't work — you reassess everything.
 
 ---
 
@@ -75,13 +80,13 @@ When La Forja ends, this is what exists:
 ### The Body
 - **90 kg at 14.5% body fat.** ~77 kg of lean mass. Visible muscle definition. The kind of physique where people ask "what do you do?"
 - **Full recomp documented.** Pliegues data showing the trajectory from 21% → 14.5%. Before/after photos and video that tell the 127 → 90 → 14.5% story.
-- **PRs in every IXNAH domain.** Not just "I train." Documented, measurable strength across pulling, pushing, legs, holds, flexibility, cardio. The El Templo app has the data.
-- **The transformation is undeniable.** 127 kg smoking weed singing narcocorridos → 90 kg at 14.5% taking punches in Ma Bu with a straight face. That video exists. The contrast is the content.
+- **PRs in every [[What is IXNAH|IXNAH]] domain.** Not just "I train." Documented, measurable strength across pulling, pushing, legs, holds, flexibility, cardio. The [[Kung Fu Temple App Spec|El Templo]] app has the data.
+- **The transformation is undeniable.** 127 kg smoking weed singing narcocorridos → 90 kg at 14.5% taking punches in [[IXNAH Mobility — Strength at End Range|Ma Bu]] with a straight face. That video exists. The contrast is the content.
 
 ### The Fighter
 - **12+ months of Judo** (2x/week). Blue belt progression or equivalent. Real throws, real ground game, real competition experience.
 - **12+ months of K1 Kickboxing** (2x/week). Real striking under a coach. Pad work, sparring, combinations. Not theoretical kick drills alone in a room.
-- **IXNAH has live combat credentials.** The system's creator trains grappling AND striking, weekly, with coaches and partners. The Violence and Defending domains aren't conceptual — they're practiced.
+- **[[What is IXNAH|IXNAH]] has live combat credentials.** The system's creator trains grappling AND striking, weekly, with coaches and partners. The Violence and Defending domains aren't conceptual — they're practiced.
 
 ### The Financial Foundation
 - **6-month emergency fund built.** At $8,100/month, that's ~$48,600 USD saved. In Mexico, that's fortress-level security.
@@ -95,7 +100,7 @@ When La Forja ends, this is what exists:
 ### The Creative Output (The Hard One)
 - **At least one song released.** Not "in progress." Released. On Spotify under Ixtlan Project.
 - **At least one chapter/essay/piece published.** The IXNAH book or a public essay. Something that exists outside your vault.
-- **El Templo app has a working MVP.** Not feature-complete. But usable. With the CSV export you promised.
+- **[[Kung Fu Temple App Spec|El Templo]] app has a working MVP.** Not feature-complete. But usable. With the CSV export you promised.
 - **Social media is no longer at 0.** The @0xnahual presence exists. Not necessarily viral. But present. Posting. Documenting. Alive.
 
 ### The Person
@@ -139,9 +144,9 @@ You don't need all five. But you need three. That's when the foundation is stron
 | Domain | La Forja (Now) | La Revelación (Next) |
 |--------|---------------|---------------------|
 | **Body** | Recomp in silence. Log. Train. Measure. | The transformation goes public. Before/after content. The 127→90→14.5% story told. Video drops. The image becomes the brand. |
-| **IXNAH** | Build the system. Train the domains. Fill the book outline. | Start teaching. First IXNAH content published — videos, essays, demonstrations. The system goes from private practice to public framework. |
+| **[[What is IXNAH\|IXNAH]]** | Build the system. Train the domains. Fill the book outline. | Start teaching. First IXNAH content published — videos, essays, demonstrations. The system goes from private practice to public framework. |
 | **Music** | Learn Ableton. Produce demos. Practice daily. | Release. Ixtlan Project singles drop. NΛHUΛL folk recordings go live. The music exists in the world. |
-| **El Templo** | Build MVP. Use it yourself. Export data. | Beta release. Other people use it. Feedback loop begins. The app becomes a product, not just a personal tool. |
+| **[[Kung Fu Temple App Spec\|El Templo]]** | Build MVP. Use it yourself. Export data. | Beta release. Other people use it. Feedback loop begins. The app becomes a product, not just a personal tool. |
 | **Book** | Outline. Draft chapters. Test ideas in practice. | Write seriously. First chapters or essays published. The IXNAH philosophy exists as text others can read. |
 | **Brand** | Architecture defined. Handle claimed. Content: zero. | @0xnahual becomes active. The content machine turns on. Documentary-style content. Training clips. Music previews. Philosophical posts. |
 | **Financial** | Save. Build emergency fund. Track expenses. | Invest in creative infrastructure. Maybe reduce hours at day job if creative income grows. Or negotiate remote flexibility for travel/projects. |
@@ -217,7 +222,7 @@ But don't think about La Expansión yet. That's two phases away. The only thing 
 
 La Forja's success is not determined by how hard you train. You already train hard. It's not determined by how sophisticated your systems are. Your systems are already sophisticated.
 
-**La Forja's success is determined by whether you ship.**
+**[[Coaching — Final Training Schedule|La Forja]]'s success is determined by whether you ship.**
 
 If you reach March 2027 at 14.5% body fat with zero songs released, zero chapters published, zero app users, and zero social media presence — La Forja failed. The body is ready but the output isn't. You'd be the strongest, leanest guy nobody ever heard of.
 

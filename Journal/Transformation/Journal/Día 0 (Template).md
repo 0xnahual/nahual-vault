@@ -1,4 +1,8 @@
 
+---
+type: journal
+tags: [transformation, template]
+---
 ## 🌅 MAÑANA (1–3 min)
 - Peso del día: __ kg  
 - Porcentaje de grasa:

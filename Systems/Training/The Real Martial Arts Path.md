@@ -1,3 +1,8 @@
+---
+type: training
+tags: [martial-arts, judo, sanda, chen-tai-chi, shaolin, ixnah, analysis]
+---
+
 # The Real Martial Arts Path — An Unbiased Analysis
 ### What to actually train, why your instincts are half-right and half-wrong, and the things you're not seeing
 
@@ -77,7 +82,7 @@ Your Striking Question document made a pure combat-optimization argument: your h
 
 But here's what the analysis missed:
 
-**You already put Sanda in your training documents.** Not boxing. Sanda. Why? Because your subconscious knows something your strategy brain keeps overriding: you want CHINESE martial arts. Your entire identity system — IXNAH, the stances, Ma Bu, Gong Bu, Pu Bu, the shaolin fantasy, the Nahual philosophy — is rooted in Chinese martial arts tradition. Adding Western boxing to that is like putting a Ford engine in a Ferrari. It works, but it doesn't belong.
+**You already put Sanda in your training documents.** Not boxing. Sanda. Why? Because your subconscious knows something your strategy brain keeps overriding: you want CHINESE martial arts. Your entire identity system — [[What is IXNAH|IXNAH]], the stances, [[IXNAH Mobility — Strength at End Range|Ma Bu]], Gong Bu, Pu Bu, the shaolin fantasy, the Nahual philosophy — is rooted in Chinese martial arts tradition. Adding Western boxing to that is like putting a Ford engine in a Ferrari. It works, but it doesn't belong.
 
 **What is Sanda (Sanshou)?**
 
@@ -565,7 +570,7 @@ Train martial arts in the morning. Sing in the evening. The morning session prep
 
 ### 4. IXNAH Becomes Real When YOU Become Real
 
-Right now IXNAH is a system designed by someone who's been training seriously for about 2 years. It has philosophical depth (the 9 Stages, the 9 Pillars, Hechiceria Practica) but limited technical depth (empty boxing files, theoretical combat layer, untested in teaching).
+Right now IXNAH is a system designed by someone who's been training seriously for about 2 years. It has philosophical depth (the 9 Stages, the [[The 9 Pillars — The Architecture of Power|9 Pillars]], Hechiceria Practica) but limited technical depth (empty boxing files, theoretical combat layer, untested in teaching).
 
 In 5 years, after judo black belt, Chen Tai Chi practice, thousands of hours of forms and striking and grappling — IXNAH will be a system designed by someone who's actually DONE it. The postures will have refinements you can't imagine yet because you haven't had the training insights yet. The combat layer will be filled with techniques that worked in randori, not techniques you saw on YouTube. The breathing protocols will be deeper because 5 years of daily Tai Chi will have taught you things about breath that no amount of reading can teach.
 

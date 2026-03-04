@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, character, fluir, pillar]
+---
 ## **PILAR DE FLUIR — EL DANZANTE DEL CAOS**
 
   

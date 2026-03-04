@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [sleep, dream, september]
+---
 Olvidé lo que soñé. Lo tenía muy presente cuando desperté, pero olvide agarrar la computadora y escribir sobre lo que soñé. Tengo que empzar a hacer un hábito de esto, si no hago un hábito de esto, siempre olvidaré hacerlo.
 
 Las razones por las cuales quiero hacer esto, es por qué quiero explorar mi subconciente y llegar a los sueños lúcidos. Estos seguro que llegar al sueño lúcido cada noche abrirá posibilidades que no tenía antes, sobretodo la conexión con mi alma y el poder escuchar qué es exactamente lo que debo de hacer.

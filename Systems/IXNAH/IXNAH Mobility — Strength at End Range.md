@@ -1,3 +1,9 @@
+---
+type: system
+domain: [moving, inner-animal, defending, strength]
+tags: [ixnah, mobility, movement]
+---
+
 # IXNAH Mobility — Strength at End Range
 
 *Flexibility lets you reach a position. Mobility lets you OWN it.*
@@ -6,7 +12,7 @@
 
 ## Philosophy
 
-Mobility is strength in flexible areas. The ability to produce force, maintain control, and transition through positions at the edges of your range of motion. If you can do the splits but can't kick high with control, you have flexibility without mobility. If you can hold a deep squat but can't move from it fluidly, you have strength without mobility. IXNAH demands both.
+Mobility is strength in flexible areas. The ability to produce force, maintain control, and transition through positions at the edges of your range of motion. If you can do the splits but can't kick high with control, you have flexibility without mobility. If you can hold a deep squat but can't move from it fluidly, you have strength without mobility. [[What is IXNAH|IXNAH]] demands both.
 
 **The distinction:**
 
@@ -20,8 +26,8 @@ Mobility is the bridge. It takes the range that flexibility opens and makes it u
 
 A martial artist who is flexible but not mobile gets thrown while doing the splits. A martial artist who is strong but not mobile can lift heavy things but can't drop into Pu Bu to avoid a sweep. A martial artist with mobility can access ANY position AND fight from it.
 
-**Primary domain:** MOVING
-**Supporting domains:** INNER ANIMAL, DEFENDING, STRENGTH
+**Primary domain:** [[1 — MOVING|MOVING]]
+**Supporting domains:** [[2 — INNER ANIMAL|INNER ANIMAL]], [[3 — DEFENDING|DEFENDING]], [[4 — STRENGTH|STRENGTH]]
 
 ---
 
@@ -31,20 +37,20 @@ A martial artist who is flexible but not mobile gets thrown while doing the spli
 4 Sacred Mobility Portals    →  Daily joint maintenance (5-15 min warm-up)
 IXNAH Mobility               →  Active end-range training (the work itself)
 6 Master Flexibility Positions →  Long-term passive range goals
-7 Strength Compounds          →  Force production in standard ranges
+7 Compounds                   →  Force production in standard ranges
 ```
 
-The Portals OPEN the gates each morning. Mobility training BUILDS strength through those gates. The 6 Positions are what full passive range looks like. The 7 Compounds are what full strength looks like. Mobility is the overlap — strength expressed through full range.
+The Portals OPEN the gates each morning. Mobility training BUILDS strength through those gates. The [[The 6 Master Flexibility Positions|6 Positions]] are what full passive range looks like. The [[IXNAH Strength — The 7 Compounds|7 Compounds]] are what full strength looks like. Mobility is the overlap — strength expressed through full range.
 
 Some exercises appear in multiple categories. This is intentional:
 - **Pistol squat** → Primary: Mobility (full ankle/hip range + balance). No longer in Strength (7 Compounds uses loaded squat instead).
 - **Pike pushup** → Primary: Mobility (shoulder end-range strength). Lives here, not in Strength.
-- **Ma Bu** → Primary: Mobility (stance mastery). Also appears in ENDURANCE (isometric tendon conditioning, mental endurance).
+- **Ma Bu** → Primary: Mobility (stance mastery). Also appears in [[7 — ENDURANCE|ENDURANCE]] (isometric tendon conditioning, mental endurance).
 - **Loaded Jefferson Curl** → Primary: Mobility (strength at full spinal flexion). Also stretches hamstrings (flexibility).
 
 The same movement can serve multiple goals depending on INTENT:
 - Ma Bu held for position quality = mobility work
-- Ma Bu held for 3 minutes burning through the pain = ENDURANCE work (tendon/isometric conditioning)
+- Ma Bu held for 3 minutes burning through the pain = [[7 — ENDURANCE|ENDURANCE]] work (tendon/isometric conditioning)
 - Both are valuable. Both happen. The difference is what you're paying attention to.
 
 ---
@@ -220,7 +226,7 @@ The shoulders are the most mobile and most injury-prone joints in the body. Mobi
 - Shoulder stability under load
 - Progression toward handstand pushup
 
-**Why it lives in Mobility, not Strength:** Pike pushups are bodyweight end-range shoulder work. They are never loaded beyond bodyweight. The 7 Compounds handle raw strength with loaded movements. Pike pushups handle shoulder RANGE with bodyweight. The limiting factor is shoulder flexion range, not raw pressing power.
+**Why it lives in Mobility, not Strength:** Pike pushups are bodyweight end-range shoulder work. They are never loaded beyond bodyweight. The [[IXNAH Strength — The 7 Compounds|7 Compounds]] handle raw strength with loaded movements. Pike pushups handle shoulder RANGE with bodyweight. The limiting factor is shoulder flexion range, not raw pressing power.
 
 **Progressions:**
 1. Standard pike pushup (feet on ground)
@@ -324,7 +330,7 @@ Balance is the ability to maintain position on a reduced base of support. In com
 - Direct transfer to: single-leg stability in grappling, takedown defense, low stance recovery
 
 **Why it's in Mobility, not Strength:**
-The limiting factor in a pistol squat is NOT quad strength — it's ankle mobility, hip range, and balance. A person who can squat 100 kg bilaterally may fail a bodyweight pistol because they lack the RANGE. This is a mobility test, not a strength test. The loaded squat (sandbag) handles the strength side in the 7 Compounds.
+The limiting factor in a pistol squat is NOT quad strength — it's ankle mobility, hip range, and balance. A person who can squat 100 kg bilaterally may fail a bodyweight pistol because they lack the RANGE. This is a mobility test, not a strength test. The loaded squat (sandbag) handles the strength side in the [[IXNAH Strength — The 7 Compounds|7 Compounds]].
 
 **Progressions:**
 1. Assisted pistol (holding post or band)
@@ -334,7 +340,7 @@ The limiting factor in a pistol squat is NOT quad strength — it's ankle mobili
 
 **Mastery test:** 5 strict pistol squats each leg, no assistance, controlled descent.
 
-**IXNAH domain:** MOVING + INNER ANIMAL (single-leg balance + primal capability)
+**IXNAH domain:** [[1 — MOVING|MOVING]] + [[2 — INNER ANIMAL|INNER ANIMAL]] (single-leg balance + primal capability)
 
 ---
 
@@ -385,7 +391,7 @@ Animal flow is multi-plane ground movement that integrates strength, mobility, b
 
 ## Active Bridge Work
 
-The Back Bridge is one of the 6 Master Flexibility Positions (passive goal). But the ACTIVE bridge — entering, holding, and pressing within the bridge — is mobility work. This is where passive spinal extension becomes USABLE.
+The Back Bridge is one of the [[The 6 Master Flexibility Positions]] (passive goal). But the ACTIVE bridge — entering, holding, and pressing within the bridge — is mobility work. This is where passive spinal extension becomes USABLE.
 
 #### Bridge Push-Ups
 

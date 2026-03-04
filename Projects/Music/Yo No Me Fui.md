@@ -1,3 +1,7 @@
+---
+type: project
+tags: [music, song, templo-nahual, lyrics]
+---
 # YO NO ME FUI
 _Templo NAHUAL (Cancion de Guerra Espiritual)_
 _14 Jul 2025_

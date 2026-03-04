@@ -1,15 +1,21 @@
+---
+type: system
+domain: [endurance, defending]
+tags: [ixnah, conditioning, engines, endurance]
+---
+
 # IXNAH Conditioning — The 3 Engines
 
 *The body has three engines. Train the wrong one and you're fast but fragile, or durable but slow. Train all three and nothing stops you.*
 
-**Primary domain:** ENDURANCE
+**Primary domain:** [[7 — ENDURANCE|ENDURANCE]]
 **Supporting domains:** All — conditioning serves every domain
 
 ---
 
 ## Philosophy
 
-IXNAH conditioning is not "cardio." Cardio is what people do on treadmills to burn calories. Conditioning is building the energy systems that let you PERFORM — sprint, fight, recover, and do it again.
+[[What is IXNAH|IXNAH]] conditioning is not "cardio." Cardio is what people do on treadmills to burn calories. Conditioning is building the energy systems that let you PERFORM — sprint, fight, recover, and do it again.
 
 The human body runs on three energy systems. They are not optional. They are not interchangeable. Each one powers a different type of effort, and each one must be trained differently.
 
@@ -31,7 +37,7 @@ IXNAH trains all three. Deliberately. With awareness of what each one does and w
 
 **Why IXNAH trains it:**
 - The Judo throw happens in 1-3 seconds. If the alactic engine is weak, the throw is slow. A slow throw gets countered.
-- Closing distance to clinch range is 1-3 seconds. The INNER ANIMAL sprint that bridges the gap between standing apart and grabbing.
+- Closing distance to clinch range is 1-3 seconds. The [[2 — INNER ANIMAL|INNER ANIMAL]] sprint that bridges the gap between standing apart and grabbing.
 - Sprinting — the first 30-60 meters is pure alactic. The ability to close distance or escape at maximum speed.
 - Every explosive movement depends on this system: clap pushups, box jumps, broad jumps, sprawls.
 

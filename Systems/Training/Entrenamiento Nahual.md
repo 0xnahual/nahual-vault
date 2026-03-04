@@ -7,7 +7,7 @@ Las pushups normales unweighted se harán como descanso si mi cuerpo lo pide,
 Para las sesiones de entrenamiento de fuerza de calistenia, se hará el método ruso, el cual consiste en llegar a 5x5 con mucho peso, y de ahi progresar a 3x3 con más peso, luego 3x4, 3x5, 4x3, 4x4, 4x5, 3x5, 4x5, 5x5. 
 
 Pull Variation:
-- Body Row - Pullup - Muscle Up.
+- Body Row - [[IXNAH Strength — The 7 Compounds|Pullup]] - Muscle Up.
 
 Squat Variation:
  - Bulgarian Split Squat
@@ -39,7 +39,7 @@ Afternoon:
 ## Martes
 Morning:
 - Squat Variation(Reps Pesadas, pocas series)
-- Ma bu weighted
+- [[IXNAH Mobility — Strength at End Range|Ma bu]] weighted
 - Gong Bu Weighted
 - Cossack Squats
 
@@ -85,8 +85,8 @@ Grease the groove:
 - 100 push-ups.
 - Cardio Flow
 - Squat Variation(Reps Pesadas, pocas series)
-- Ma bu 
-- Gong Bu 
+- [[IXNAH Mobility — Strength at End Range|Ma bu]]
+- Gong Bu
 - Cossack Squats
 
 ## Domingo

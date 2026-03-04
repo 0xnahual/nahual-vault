@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, worldbuilding, story, pillars]
+---
 La historia comienza en un sueño, dónde has alcanzado ser el nahual - el máximo hechicero, capaz de romper los límites de la realidad y transformar todo a su paso. Tienes dominado el poder, y tu potencial es ilimitado.
 
 El gameplay aquí será un tutorial, en el cuál utilizarás tus poderes para derrotar enemigos, y habrá una boss battle. El jugador entrará de lleno al sistema de combate que existe.

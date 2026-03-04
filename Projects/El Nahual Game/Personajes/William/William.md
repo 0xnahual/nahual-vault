@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, character, william, voluntad]
+---
 *¿Vas a llorar o vas a seguir entrenando?*
 
 William nació con una discapacidad. El nunca ha podido caminar, pues una de sus piernas fue malformada cuando estaba en el vientre de su madre.

@@ -1,3 +1,7 @@
+---
+type: book
+tags: [ensueno, dreaming, consciousness, energy]
+---
 # 🌙 Ensueño, Energías y Estados de Conciencia  
 
 📌 **Este libro es la continuación de "Hechicería Práctica: La Magia es Real".**  

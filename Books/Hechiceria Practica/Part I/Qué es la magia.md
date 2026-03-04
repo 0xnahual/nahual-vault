@@ -1,3 +1,7 @@
+---
+type: book
+tags: [hechiceria, magic, definition]
+---
 # **📖 ¿Qué es la Magia?**  
 
 > _"La magia no es ni buena ni mala. Es poder. Y el verdadero poder no se usa para controlar el mundo, sino para transformarse a uno mismo."_

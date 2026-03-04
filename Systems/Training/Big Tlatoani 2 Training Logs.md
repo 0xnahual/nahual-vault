@@ -76,11 +76,11 @@
 
 Daily:
 - 30-45 min cardio - at least 10k steps
-- 30-50 pullups, band assisted, focus on form. if i feel exhausted, use stronger band, focus on decreasing band and form
+- 30-50 [[IXNAH Strength — The 7 Compounds|pullups]], band assisted, focus on form. if i feel exhausted, use stronger band, focus on decreasing band and form
 - 30-40 ab wheel. focus on reaching more and more til i can do a perfect one
 - 100 pushups
 
 2 days a week:
 - weighted bulgarian squat
 - leg press horizontal, using 1 leg to train glute slowly
-- gong bu, ma bu, xie bu x 2 til failure
+- gong bu, [[IXNAH Mobility — Strength at End Range|ma bu]], xie bu x 2 til failure

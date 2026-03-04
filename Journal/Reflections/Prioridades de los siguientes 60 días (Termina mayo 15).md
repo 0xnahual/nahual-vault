@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [reflection, priorities, 60-days, planning]
+---
 Basado en el [[Principio de lo que tiene que existir]], y el [[Principio de intercambio]], este será mi enfoque en los siguientes 60 días.
 
 - Sacar canción de la fé

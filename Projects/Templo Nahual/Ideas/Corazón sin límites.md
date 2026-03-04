@@ -1,4 +1,8 @@
 
+---
+type: project
+tags: [templo-nahual, ideas, content]
+---
 ## Registros de proyectos en marcha — Templo Nahual
 
 **Definición**  

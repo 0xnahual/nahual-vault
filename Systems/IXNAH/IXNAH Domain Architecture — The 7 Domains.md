@@ -1,3 +1,9 @@
+---
+type: system
+domain: [all]
+tags: [ixnah, architecture, domains]
+---
+
 # IXNAH Domain Architecture — The 7 Domains
 
 *7 domains. Everything the human body can do, fight, be, and become.*
@@ -31,13 +37,13 @@ Each domain answers a different question:
 
 | Domain | The Question |
 |--------|-------------|
-| MOVING | Can this body get there? |
-| INNER ANIMAL | Can this body survive in nature? |
-| DEFENDING | Can this body protect itself and others? |
-| STRENGTH | Can this body produce force? |
-| ENDURANCE | Can this body take punishment and keep going? |
-| LONGEVITY | Can this body do all of this at 70? |
-| EXPRESSION | Does this body WANT to do it again? |
+| [[1 — MOVING|MOVING]] | Can this body get there? |
+| [[2 — INNER ANIMAL|INNER ANIMAL]] | Can this body survive in nature? |
+| [[3 — DEFENDING|DEFENDING]] | Can this body protect itself and others? |
+| [[4 — STRENGTH|STRENGTH]] | Can this body produce force? |
+| [[7 — ENDURANCE|ENDURANCE]] | Can this body take punishment and keep going? |
+| [[5 — LONGEVITY|LONGEVITY]] | Can this body do all of this at 70? |
+| [[6 — EXPRESSION|EXPRESSION]] | Does this body WANT to do it again? |
 
 ---
 
@@ -58,7 +64,7 @@ The most fundamental domain. Before you can fight, lift, or endure — you must 
 
 ### What It Is NOT
 
-MOVING is HUMAN movement — controlled, precise, efficient. It is not ANIMAL movement (that's INNER ANIMAL). The distinction: MOVING is the stance transition done with perfect form. INNER ANIMAL is the scramble up a wall done with whatever works.
+MOVING is HUMAN movement — controlled, precise, efficient. It is not ANIMAL movement (that's [[2 — INNER ANIMAL|INNER ANIMAL]]). The distinction: MOVING is the stance transition done with perfect form. INNER ANIMAL is the scramble up a wall done with whatever works.
 
 ### Mastery Standards
 
@@ -69,7 +75,7 @@ MOVING is HUMAN movement — controlled, precise, efficient. It is not ANIMAL mo
 - Stance transitions: 5 min freestyle flow without losing structure
 - Barefoot run: 2 km mixed terrain, no pain
 
-### 9 Pillars Connection
+### [[The 9 Pillars — The Architecture of Power|9 Pillars]] Connection
 
 | Pillar | How MOVING Trains It |
 |--------|---------------------|
@@ -85,7 +91,7 @@ MOVING is HUMAN movement — controlled, precise, efficient. It is not ANIMAL mo
 
 The human body was built for climbing, crawling, hanging, sprinting, gripping, jumping, swimming. Civilization removed all of it. INNER ANIMAL is the systematic reclamation of these capabilities — not through structured exercise, but through raw, unstructured, natural physical challenge.
 
-This is not STRENGTH (which is structured, progressive, measured). This is the jungle. The gorilla doesn't do 5×5. The gorilla climbs, grips, moves, and is powerful because its body interacts with the ENVIRONMENT, not with equipment.
+This is not [[4 — STRENGTH|STRENGTH]] (which is structured, progressive, measured). This is the jungle. The gorilla doesn't do 5×5. The gorilla climbs, grips, moves, and is powerful because its body interacts with the ENVIRONMENT, not with equipment.
 
 ### What It Contains
 
@@ -103,7 +109,7 @@ This is not STRENGTH (which is structured, progressive, measured). This is the j
 
 ### The Philosophy
 
-An IXNAH warrior is not aggressive — he is a fucking animal who can neutralize you, but will not attack you. The INNER ANIMAL domain builds the raw physical capability. The DEFENDING domain decides when and how to use it. The animal is dangerous by nature, not by choice. Danger is a byproduct of capability, not a goal.
+An [[What is IXNAH|IXNAH]] warrior is not aggressive — he is a fucking animal who can neutralize you, but will not attack you. The INNER ANIMAL domain builds the raw physical capability. The [[3 — DEFENDING|DEFENDING]] domain decides when and how to use it. The animal is dangerous by nature, not by choice. Danger is a byproduct of capability, not a goal.
 
 ### How It Differs From Other Domains
 
@@ -115,7 +121,7 @@ An IXNAH warrior is not aggressive — he is a fucking animal who can neutralize
 | Crawling under obstacle | MOVING | Stance transition on flat ground |
 | Broad jump (clear the gap) | STRENGTH | Box jump (plyometric training) |
 
-**INNER ANIMAL is the jungle. STRENGTH is the gym. MOVING is the dojo. Same body, different context.**
+**INNER ANIMAL is the jungle. [[4 — STRENGTH|STRENGTH]] is the gym. [[1 — MOVING|MOVING]] is the dojo. Same body, different context.**
 
 ### Mastery Standards
 
@@ -127,7 +133,7 @@ An IXNAH warrior is not aggressive — he is a fucking animal who can neutralize
 - Climb: Scale a 2m wall from standing start
 - Swim: 200m open water, comfortable
 
-### 9 Pillars Connection
+### [[The 9 Pillars — The Architecture of Power|9 Pillars]] Connection
 
 | Pillar | How INNER ANIMAL Trains It |
 |--------|---------------------------|
@@ -141,7 +147,7 @@ An IXNAH warrior is not aggressive — he is a fucking animal who can neutralize
 
 **Combat application, survival, awareness, neutralization.**
 
-The IXNAH warrior does not attack. All combat is defensive — neutralization, control, protection. The warrior is the most dangerous person in the room and the least likely to fight. The animal qualities (INNER ANIMAL) make him capable. The defending philosophy makes him restrained. That is the Nahual.
+The IXNAH warrior does not attack. All combat is defensive — neutralization, control, protection. The warrior is the most dangerous person in the room and the least likely to fight. The animal qualities ([[2 — INNER ANIMAL|INNER ANIMAL]]) make him capable. The defending philosophy makes him restrained. That is the Nahual.
 
 ### What It Contains
 
@@ -185,7 +191,7 @@ The gap between standing apart and clinch range — where punches live — is cl
 - Clinch: Enter clinch from standing distance, control position for 10 seconds
 - Decision tree: Demonstrated verbal de-escalation in role-play scenario
 
-### 9 Pillars Connection
+### [[The 9 Pillars — The Architecture of Power|9 Pillars]] Connection
 
 | Pillar | How DEFENDING Trains It |
 |--------|------------------------|
@@ -198,9 +204,9 @@ The gap between standing apart and clinch range — where punches live — is cl
 
 ## Domain 4 — STRENGTH
 
-**Peak force production. The 7 Compounds. Progressive overload.**
+**Peak force production. The [[IXNAH Strength — The 7 Compounds|7 Compounds]]. Progressive overload.**
 
-STRENGTH is structured, measurable, progressive. Unlike INNER ANIMAL (which is raw and environmental), STRENGTH follows a system: load the pattern, increase the load, master the movement, add more load. The gym. The program. The numbers.
+STRENGTH is structured, measurable, progressive. Unlike [[2 — INNER ANIMAL|INNER ANIMAL]] (which is raw and environmental), STRENGTH follows a system: load the pattern, increase the load, master the movement, add more load. The gym. The program. The numbers.
 
 ### What It Contains
 
@@ -220,7 +226,7 @@ STRENGTH is structured, measurable, progressive. Unlike INNER ANIMAL (which is r
 
 Grip limits actual strength. Everything the upper body does transmits force through the hands. Weak grip = leaked power. Strong grip = the chain holds. Grip is the #1 predictor of all-cause mortality and the #1 factor in Judo. It is woven into every compound through equipment variations (towel pullups, fat bar, heavy KB, gi grips).
 
-**Full documentation:** See `IXNAH Strength — The 7 Compounds.md`
+**Full documentation:** See [[IXNAH Strength — The 7 Compounds]]
 
 ### How It Differs From INNER ANIMAL
 
@@ -233,7 +239,7 @@ Grip limits actual strength. Everything the upper body does transmits force thro
 
 **STRENGTH is the gym. INNER ANIMAL is the jungle. Same muscles. Different intention.**
 
-### 9 Pillars Connection
+### [[The 9 Pillars — The Architecture of Power|9 Pillars]] Connection
 
 | Pillar | How STRENGTH Trains It |
 |--------|----------------------|
@@ -247,11 +253,11 @@ Grip limits actual strength. Everything the upper body does transmits force thro
 
 **How much can you take — and keep going?**
 
-ENDURANCE is the domain of sustained effort, impact absorption, and structural resilience. It is not STRENGTH (peak force output). It is not LONGEVITY (decades-long sustainability). ENDURANCE is about RIGHT NOW: can your cardiovascular system sustain effort? Can your bones absorb impact? Can your tendons handle load? Can your body take punishment and not break?
+ENDURANCE is the domain of sustained effort, impact absorption, and structural resilience. It is not [[4 — STRENGTH|STRENGTH]] (peak force output). It is not [[5 — LONGEVITY|LONGEVITY]] (decades-long sustainability). ENDURANCE is about RIGHT NOW: can your cardiovascular system sustain effort? Can your bones absorb impact? Can your tendons handle load? Can your body take punishment and not break?
 
 ### What It Contains
 
-**Cardiovascular Conditioning (The 3 Engines):**
+**Cardiovascular Conditioning ([[IXNAH Conditioning — The 3 Engines|The 3 Engines]]):**
 
 | Engine | What It Powers | Duration | IXNAH Method |
 |--------|---------------|----------|-------------|
@@ -261,7 +267,7 @@ ENDURANCE is the domain of sustained effort, impact absorption, and structural r
 
 **The accounting rule:** Count combat sessions before adding conditioning. Judo randori IS glycolytic conditioning. Don't stack more on top.
 
-**Full documentation:** See `IXNAH Conditioning — The 3 Engines.md`
+**Full documentation:** See [[IXNAH Conditioning — The 3 Engines]]
 
 **Impact Conditioning:**
 - **Hard Qi Gong (Iron Body):** Progressive conditioning of the body to absorb impact. Gradual exposure to strikes, falls, and compression. The body adapts to being hit — the tissue toughens, the nervous system stops panicking, the pain threshold rises.
@@ -306,7 +312,7 @@ Judo is the single greatest ENDURANCE training in IXNAH. A randori session train
 - Mental endurance (continuing when exhausted)
 - Pain tolerance (everything hurts by round 3)
 
-Judo is combat training (DEFENDING) that produces endurance (ENDURANCE) as a byproduct. The domains overlap. This is correct — the body doesn't train one domain at a time.
+Judo is combat training ([[3 — DEFENDING|DEFENDING]]) that produces endurance (ENDURANCE) as a byproduct. The domains overlap. This is correct — the body doesn't train one domain at a time.
 
 ### Mastery Standards
 
@@ -319,7 +325,7 @@ Judo is combat training (DEFENDING) that produces endurance (ENDURANCE) as a byp
 - Breath: 2-minute breath hold after Wim Hof protocol
 - Impact: All 4 breakfalls on hard surface, no hesitation
 
-### 9 Pillars Connection
+### [[The 9 Pillars — The Architecture of Power|9 Pillars]] Connection
 
 | Pillar | How ENDURANCE Trains It |
 |--------|------------------------|
@@ -345,7 +351,7 @@ LONGEVITY is the only domain measured in decades, not months. Every other domain
 - Barefoot practice (foot health and proprioception decline fastest)
 - Spinal health: dead hangs (decompression), Jefferson curls (segmental articulation), back bridges (extension)
 
-**The 6 Master Flexibility Positions (Long-Term Goals):**
+**[[The 6 Master Flexibility Positions]] (Long-Term Goals):**
 Dead Hang, Back Bridge, Middle Split, Front Split (L), Front Split (R), Pancake Fold. These ensure the body maintains RANGE across decades, not just strength.
 
 **Nervous System Mastery:**
@@ -364,7 +370,7 @@ Dead Hang, Back Bridge, Middle Split, Front Split (L), Front Split (R), Pancake 
 150-180 min/week of conversational-pace cardio. THE most evidence-backed longevity intervention. It exists in ENDURANCE as a training modality and in LONGEVITY as a survival strategy. Train it for endurance. Keep it for longevity.
 
 **Fall Prevention:**
-The 4 Breakfalls (from DEFENDING) are the #1 longevity skill from martial arts. Falls are the leading cause of injury death in the elderly. A trained breakfall turns a hip-breaking fall into a controlled landing. Every Judo session is longevity training.
+The 4 Breakfalls (from [[3 — DEFENDING|DEFENDING]]) are the #1 longevity skill from martial arts. Falls are the leading cause of injury death in the elderly. A trained breakfall turns a hip-breaking fall into a controlled landing. Every Judo session is longevity training.
 
 **Chen Tai Chi (Future):**
 The longevity martial art. Trainable at 60, 70, 80. No impact. No partner required. Balance, proprioception, breathing, calm. The art the Nahual practices when the body can no longer be thrown.
@@ -387,7 +393,7 @@ Can you do this at 70?
 | Walk | 5 km continuous, no pain |
 | Stand from floor | Ground to standing without using hands |
 
-### 9 Pillars Connection
+### [[The 9 Pillars — The Architecture of Power|9 Pillars]] Connection
 
 | Pillar | How LONGEVITY Trains It |
 |--------|------------------------|
@@ -440,7 +446,7 @@ EXPRESSION is architecturally necessary. It keeps the practice alive across deca
 
 **EXPRESSION is not tracked.** Not gamified. Not streaked. Not mastery-tested. The moment you add a progress bar to joy, you've killed it. Expression lives OUTSIDE El Templo. It is the domain that the system protects by leaving it alone.
 
-### 9 Pillars Connection
+### [[The 9 Pillars — The Architecture of Power|9 Pillars]] Connection
 
 | Pillar | How EXPRESSION Trains It |
 |--------|-------------------------|
@@ -480,12 +486,12 @@ These are not domains. They are HOW you train, not WHY you train.
 
 | Supporting System | What It Is | Serves Which Domains |
 |-------------------|-----------|---------------------|
-| The 7 Compounds | Structured strength movements | STRENGTH (primary), all others |
-| The 6 Master Flexibility Positions | Passive range goals | MOVING, INNER ANIMAL, LONGEVITY |
+| [[IXNAH Strength — The 7 Compounds|The 7 Compounds]] | Structured strength movements | [[4 — STRENGTH|STRENGTH]] (primary), all others |
+| [[The 6 Master Flexibility Positions]] | Passive range goals | [[1 — MOVING|MOVING]], [[2 — INNER ANIMAL|INNER ANIMAL]], [[5 — LONGEVITY|LONGEVITY]] |
 | The 4 Sacred Mobility Portals | Daily joint maintenance | All domains |
-| IXNAH Mobility | Active end-range strength | MOVING, INNER ANIMAL, DEFENDING |
-| The 3 Conditioning Engines | Energy system training | ENDURANCE (primary), DEFENDING |
-| The 9 Pillars | Consciousness architecture | All domains — the internal experience of training |
+| [[IXNAH Mobility — Strength at End Range|IXNAH Mobility]] | Active end-range strength | [[1 — MOVING|MOVING]], [[2 — INNER ANIMAL|INNER ANIMAL]], [[3 — DEFENDING|DEFENDING]] |
+| [[IXNAH Conditioning — The 3 Engines|The 3 Conditioning Engines]] | Energy system training | [[7 — ENDURANCE|ENDURANCE]] (primary), [[3 — DEFENDING|DEFENDING]] |
+| [[The 9 Pillars — The Architecture of Power|The 9 Pillars]] | Consciousness architecture | All domains — the internal experience of training |
 
 ---
 

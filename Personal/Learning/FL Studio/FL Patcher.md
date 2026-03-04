@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [music-production, fl-studio, plugin]
+---
 ## **¿Qué es FL Patcher?**
 
 **FL Patcher** es una herramienta dentro de **FL Studio** que te permite **combinar y conectar varios plugins** (instrumentos, efectos, etc.) de una manera muy flexible y creativa. Piensa en él como un **centro de control** donde puedes organizar y gestionar diferentes elementos de tu producción musical en un solo lugar.

@@ -1,3 +1,7 @@
+---
+type: project
+tags: [app, el-templo, features]
+---
 # Nahual Temple — App Features
 
 **Platform:** React Native (Expo) — iOS, Android, Web

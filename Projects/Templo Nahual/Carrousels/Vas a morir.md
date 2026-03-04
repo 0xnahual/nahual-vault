@@ -1,3 +1,7 @@
+---
+type: project
+tags: [templo-nahual, carousel, death, presence]
+---
 **Te vas a morir.**
 
 No sabes cuándo.

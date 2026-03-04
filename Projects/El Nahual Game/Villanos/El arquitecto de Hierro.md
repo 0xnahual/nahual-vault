@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, villain, hierro, voluntad]
+---
 # 🜔 Dossier: EL ARQUITECTO DE HIERRO
 ### *La Voluntad que devora bajo el nombre del progreso*
 

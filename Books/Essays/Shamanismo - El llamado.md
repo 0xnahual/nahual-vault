@@ -1,3 +1,7 @@
+---
+type: book
+tags: [essay, shamanism, calling, initiation]
+---
 Desde tiempos ancestrales, el chamán no es elegido por deseo propio, sino por el **llamado**. No es una carrera ni una profesión; es una **fuerza que lo arrastra fuera del mundo ordinario y lo lanza a lo desconocido**.
 
 El llamado no es gentil. Llega como una **crisis**, como un momento de oscuridad que destruye lo que la persona creía ser. Puede manifestarse como una **enfermedad, una pérdida profunda, una visión aterradora o una experiencia de muerte simbólica**. Es el fuego que reduce el ego a cenizas, dejando solo lo esencial: la conciencia desnuda.

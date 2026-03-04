@@ -1,4 +1,12 @@
-- Album de Ixtlan Project (Tiene sus propios socials)
+---
+type: journal
+tags:
+  - reflection
+  - ideas
+  - projects
+  - creativity
+---
+- Album de [[The Nahual's Expression — Art of the Shapeshifter|Ixtlan Project]] (Tiene sus propios socials)
 - Tengo un album de folk como 4 canciones medicina / poder
 - Las respiraciones de demon slayer - 1 video por respiracion. No estoy seguro si short o youtube.
 - Entrenamiento como personas de anime - one punch man, zoro, blabla

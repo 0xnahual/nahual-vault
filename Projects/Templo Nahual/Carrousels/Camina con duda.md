@@ -1,3 +1,7 @@
+---
+type: project
+tags: [templo-nahual, carousel, fluir]
+---
 **No te detengas ahora.**
 
 Dudar no es debilidad.  

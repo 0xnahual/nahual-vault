@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [shadow, beast, spirit, dialogue]
+---
 **Usuario:**
 Hola, Bestia y Espíritu.
 

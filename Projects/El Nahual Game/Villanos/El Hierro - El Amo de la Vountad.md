@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, villain, hierro, voluntad]
+---
 # 🜔 EL HIERRO — *El Amo de la Voluntad*
 
 ---

@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [programming, game-dev, pvp]
+---
 Ixtlán debe de tener un PVP, pero creo debe de agregarse al final y no ser la principal atracción. Debo de enfocarme en hacer un boss y un sistema de batallas divertido, e intentar el PVP luego.
 
 No debería de ser difícil una arquitectura P2P, y creo debe de ser el camino para que la comunidad haga cosas alrededor del juego, y no sea yo el responsable de moverle al código después de que salga el juego.

@@ -1,3 +1,7 @@
+---
+type: project
+tags: [content, automation, social-media]
+---
 # Content Engine — The Engineer's Way
 *How to have a massive social media presence without becoming a content creator.*
 
@@ -9,7 +13,7 @@ You can code for 12 hours straight. You can write 5,000 words in a sitting. You 
 
 **The math:**
 - 1 hour of coding = features shipped, app closer to launch
-- 1 hour of writing = 500-1,000 words of IXNAH content
+- 1 hour of writing = 500-1,000 words of [[What is IXNAH|IXNAH]] content
 - 1 hour of training = stronger body, new footage
 - 1 hour of editing a TikTok = maybe 500 views, maybe 50,000, who knows
 

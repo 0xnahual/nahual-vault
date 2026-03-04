@@ -1,3 +1,7 @@
+---
+type: book
+tags: [hechiceria, nahual, cosmic-trickster]
+---
 # 🌀 The Final Form of the Nahual: The Cosmic Trickster with Purpose  
 
 ## **The Nahual: Bending Reality with Intention**  

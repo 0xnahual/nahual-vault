@@ -1,5 +1,9 @@
 ## **⚡** 
 
+---
+type: project
+tags: [game, scene, trueno, remembering, limitless]
+---
 ## **THE REMEMBERING — The Quiet Lightning**
 
 Escena:

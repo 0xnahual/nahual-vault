@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [reflection, desire, imagination]
+---
 La verdad, no se que quiero o bueno no lo se, vamos a imaginar
 
 Si tuviera un deseo, me gustaria que todos mis proyectos se hicieran populares

@@ -1,3 +1,7 @@
+---
+type: book
+tags: [essay, power, responsibility, spider-man]
+---
 **La Verdad Inversa: Lo que Spider-Man realmente te enseña sobre el Poder**
 
 Todos conocemos el evangelio según Stan Lee: **"Un gran poder conlleva una gran responsabilidad"**. Es una frase grabada en el inconsciente colectivo que funciona como una advertencia ética para los que ya son fuertes. El Tío Ben no se equivocó; su lección es sagrada. Pero hay un problema: la mayoría de nosotros hemos usado esa frase como una excusa para quedarnos sentados esperando nuestra propia araña radioactiva.

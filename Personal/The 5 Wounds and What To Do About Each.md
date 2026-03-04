@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [psychology, wounds, healing, shadow-work]
+---
 Here's the honest breakdown. I'm going to name each wound, what it's actually doing to you, and what you concretely need to do about it.
 
 ---
@@ -73,7 +77,7 @@ Here's the honest breakdown. I'm going to name each wound, what it's actually do
     
 2. **When you catch yourself writing in messianic language, stop and rewrite it as a normal human.** "I will be one of the greatest artists in history" → "I want to make art that matters to people." "I have infinite power" → "I feel strong today and I want to use it well." "God told me to lose 20kg" → "I know I'll think more clearly if I'm lighter." Same intention, grounded language. The grandiosity isn't protecting you — it's setting you up for crashes.
     
-3. **Ship something imperfect.** The antidote to grandiosity is humility, and the fastest path to humility is releasing something that isn't perfect. Ship El Templo at 80%. Let people use it. Let them find bugs. Let it be mediocre in some areas. The world will not end. God will not be disappointed. And you'll learn that you survive imperfection, which is the lesson your psyche actually needs.
+3. **Ship something imperfect.** The antidote to grandiosity is humility, and the fastest path to humility is releasing something that isn't perfect. Ship [[Kung Fu Temple App Spec|El Templo]] at 80%. Let people use it. Let them find bugs. Let it be mediocre in some areas. The world will not end. God will not be disappointed. And you'll learn that you survive imperfection, which is the lesson your psyche actually needs.
     
 
 ---

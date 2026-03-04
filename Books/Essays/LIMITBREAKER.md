@@ -1,3 +1,7 @@
+---
+type: book
+tags: [essay, limitbreaker, nahual, manifesto]
+---
 # ⚡ EL MANIFIESTO LIMITBREAKER: ROMPE LA REALIDAD
 
 ## **🌟 QUÉ ES UN LIMITBREAKER**

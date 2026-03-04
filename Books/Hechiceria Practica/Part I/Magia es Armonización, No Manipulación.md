@@ -1,3 +1,7 @@
+---
+type: book
+tags: [hechiceria, willcraft, harmonization]
+---
 # 🌀 Willcraft y Hechicería Práctica:  
 ## ✨ Magia es Armonización, No Manipulación  
 

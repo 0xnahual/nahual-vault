@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [assessment, strategy, analysis]
+---
 # Brutal Assessment — Everything in This Vault
 *An impartial evaluation of Ricardo Bustos's body of work*
 
@@ -7,7 +11,7 @@
 
 ### Tier 1 — Genuinely Original, World-Class Potential
 
-**1. The IXNAH System + 9 Stages of Transformation**
+**1. The [[What is IXNAH|IXNAH]] System + 9 Stages of Transformation**
 This is your best work. Not the philosophy around it — the actual posture system. 7 ancestral postures mapped to human durability, with clear biomechanical reasoning, paired with a 10-stage transformation path that accounts for setbacks, ego traps, and plateaus.
 
 Why it's original: Nobody has combined kung fu stances (Ma Bu, Gong Bu, Pu Bu) + calisthenics fundamentals (dead hang, L-sit progressions) + nervous system switching (warrior/mystic mode) into one coherent system with a transformation roadmap. Yoga does postures without fighting application. CrossFit does intensity without consciousness. Martial arts does technique without personal transformation philosophy. IXNAH sits in a gap that genuinely doesn't exist in the market.
@@ -23,7 +27,7 @@ The sympathetic/parasympathetic switching framework is genuinely useful and unde
 
 Brutal truth: It's one file. One page. This needs to become a full protocol with measurable progressions, not just a concept.
 
-**Worth pursuing: YES — fold this INTO IXNAH as the nervous system layer.**
+**Worth pursuing: YES — fold this INTO [[What is IXNAH|IXNAH]] as the nervous system layer.**
 
 **3. Hechiceria Practica (Book 1 — Practical Sorcery)**
 The book outline is genuinely clever. "Magic" reframed as: breathing techniques, laughter, presence, rhythm, discipline, detachment, action — all trainable, all measurable. Backed by neuroscience (RAS, neuroplasticity), quantum physics references (Grinberg's Synergetic Theory), and Toltec tradition.
@@ -49,7 +53,7 @@ Brutal truth: They're aspirational, not instructional. "Train through barefoot c
 
 **Worth pursuing: YES — as the "level-up" layer of IXNAH, but with real programming.**
 
-**5. The 9 Pillars of Nahualismo**
+**5. The [[The 9 Pillars — The Architecture of Power|9 Pillars]] of Nahualismo**
 Atención, Intención, Voluntad, Energía, Fluir, Balance, Presencia, Desapego, Entrega. With a proof table (Pilar → Prueba → Oscuridad → Revelación).
 
 This is a solid philosophical framework. The proof table is the strongest part — each pillar has a test, a dark side, and a revelation. That's a complete teaching structure.
@@ -87,7 +91,7 @@ Brutal truth: You don't have the foundation registered, you don't have funding b
 
 **Worth pursuing: LATER. After the mission pays for itself.**
 
-**9. Ixtlan Project / Manifesto**
+**9. [[The Nahual's Expression — Art of the Shapeshifter|Ixtlan Project]] / Manifesto**
 The 14-point manifesto is comprehensive but reads like a UN resolution — lots of "we commit to" and "we foster" and "we recognize." It's well-intentioned and completely unshareable. Nobody posts a 14-point manifesto. Nobody joins a "movement" from reading a mission statement.
 
 Brutal truth: Ixtlan is a beautiful container but there's nothing inside it yet. It's a label for "all the things Ricardo wants to make." That's not a project, it's a brand. And brands need products. The About page promises music, games, and storytelling, but Limitless isn't mastered, the game has no mechanic, and the storytelling is scattered across 300 files.
@@ -308,6 +312,6 @@ Written thoughts, philosophical one-liners, links to longer content. Not primary
 ### The one thing:
 Everything in this vault points to one career: **Ricardo Bustos teaches humans to reclaim their bodies as the first step toward consciousness — through postures, breathing, combat, and practical magic.**
 
-IXNAH is the system. Templo Nahual is the channel. The books are the depth. The game and music are the long-term art. The foundation is the giving back.
+[[What is IXNAH|IXNAH]] is the system. Templo Nahual is the channel. The books are the depth. The game and music are the long-term art. The foundation is the giving back.
 
 But none of it exists until you ship something. Ship IXNAH.

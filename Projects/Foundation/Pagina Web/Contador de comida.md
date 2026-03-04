@@ -1,3 +1,7 @@
+---
+type: project
+tags: [foundation, web, feature]
+---
 El contador de comida es crucial al momento de saber cuanta gente se ha ayudado. Sin el contador de comida, y sin evidencia, todo el movimiento es un mito y no tenemos pruebas fìsicas de que hemos ayudado gente.
 
 Estoy seguro que en este momento no se ve la diferencia, pero que a travès de los años, el contador ayudara a que todos sepamos cuanta gente se ha impactado, a gente inspirara a donar, y a todos nos ayudara de alguna forma u otra.

@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [reflection, manifestation, power, experiment]
+---
 me doy cuenta del poder que reside dentro de cada humano al hacer el experimento de manifestar un millón de pesos.
 
 en inicios de diciembre del 2024, manifesté un millón de pesos para poder estar tranquilo. manifeste abundancia, y todo me empezó a salir.

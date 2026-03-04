@@ -1,6 +1,10 @@
+---
+type: project
+tags: [templo-nahual, social-media, brand]
+---
 ¿Qué es el Templo Nahual?
 
-Es un canal de redes sociales en español que habla sobre toltequidad, artes marciales, espiritualidad aterrizada, camino del guerrero, nahualismo, IXNAH, dominio interno y entrenamiento.
+Es un canal de redes sociales en español que habla sobre toltequidad, artes marciales, espiritualidad aterrizada, camino del guerrero, nahualismo, [[What is IXNAH|IXNAH]], dominio interno y entrenamiento.
 
 Utiliza anime, entrenamientos propios, y escritura original para ayudar a la gente a transformarse en su mejor versión.
 

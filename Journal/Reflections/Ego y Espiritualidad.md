@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [reflection, ego, spirituality, balance]
+---
 El ego es una parte fundamental al hablar de desarrollo espiritual y, a menudo, es malinterpretado. Al inicio de un despertar espiritual, muchos piensan que deben renunciar al ego y simplemente vivir sin él.
 
 Sin embargo, debemos entender que el ego es parte intrínseca del ser humano, y el ser humano, a su vez, es parte de una creación divina. El ego fue creado por Dios para ayudarnos a descubrirnos a nosotros mismos y a seguir evolucionando hacia el propósito que hayamos venido a experimentar en la vida humana.

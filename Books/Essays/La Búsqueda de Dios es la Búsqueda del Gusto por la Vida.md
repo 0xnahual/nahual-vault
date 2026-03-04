@@ -1,3 +1,7 @@
+---
+type: book
+tags: [essay, god, spirituality, consciousness]
+---
 # **🔥 La Búsqueda de Dios es la Búsqueda del Gusto por la Vida**  
 
 📌 **No es "buscar a Dios" vs. "vivir la vida". Es lo mismo.**  

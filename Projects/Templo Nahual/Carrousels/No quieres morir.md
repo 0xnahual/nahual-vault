@@ -1,3 +1,7 @@
+---
+type: project
+tags: [templo-nahual, carousel, transformation]
+---
 **No quieres morir.**
 
 **Quieres dejar de ser quien eres ahora.**

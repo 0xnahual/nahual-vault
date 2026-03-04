@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [notion, trajectory, body-transformation]
+---
 # Notion Deep Dive — Trajectory Analysis
 
 *Extracted: March 1, 2026 | Data range: May 2025 — March 2026*

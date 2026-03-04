@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, idea, william, montage]
+---
 ## **🐉 The Disabled Montage (Reforged Arc)**
 
 - **Opening scene**:

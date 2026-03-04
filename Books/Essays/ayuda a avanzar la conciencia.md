@@ -1,3 +1,7 @@
+---
+type: book
+tags: [essay, consciousness, principles, foundation]
+---
 # Principios para Evaluar si Algo Expande la Conciencia
 
 Este documento establece los criterios para determinar si algo contribuye a la expansión de la conciencia. Cada principio incluye una definición clara y ejemplos prácticos.

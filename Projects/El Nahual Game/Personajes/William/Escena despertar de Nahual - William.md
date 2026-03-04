@@ -1,4 +1,8 @@
-> **“Hijo…”**  
+---
+type: project
+tags: [game, scene, william, nahual-awakening]
+---
+> **”Hijo…”**  
 > *[ella lo mira con ojos llenos de amor]*  
 >  
 > **“Necesito que me escuches bien.”**  

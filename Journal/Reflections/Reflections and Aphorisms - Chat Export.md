@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [reflection, aphorisms, wisdom]
+---
 # Reflections & Aphorisms
 
 ---

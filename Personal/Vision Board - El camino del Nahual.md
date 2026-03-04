@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [vision, identity, roadmap]
+---
 # 🌌 VISION BOARD — EL CAMINO DEL NAHUAL
 
 ---
@@ -24,10 +28,10 @@
 
 ### Música
 - **Fase 1:** Canciones/spells íntimos en español (folk, medicina).  
-- **Fase 2:** Ixtlán Project (rock psicodélico + electrónico).  
+- **Fase 2:** [[The Nahual's Expression — Art of the Shapeshifter|Ixtlan Project]] (rock psicodélico + electrónico).  
 - **Fase 3:** Conciertos rituales (visual + movimiento).
 
-### App/Juego Nahual Temple
+### App/Juego Nahual Temple ([[Kung Fu Temple App Spec|El Templo]])
 - MVP simple: timers, logs de práctica.  
 - Evolución a juego espiritual/místico.  
 - Comunidad gamificada de entrenamiento y arte.

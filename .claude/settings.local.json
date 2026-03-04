@@ -9,7 +9,32 @@
       "mcp__ceb2d81f-01eb-4931-a25b-640f3a3563d0__notion-update-data-source",
       "Bash(git mv \"Systems/IXNAH/Domains/2 — VIOLENCE.md\" \"Systems/IXNAH/Domains/2 — INNER ANIMAL.md\")",
       "Bash(git -C /Users/ricardobustos/Documents/0xnahual add -A)",
-      "Bash(git -C /Users/ricardobustos/Documents/0xnahual status -s)"
+      "Bash(git -C /Users/ricardobustos/Documents/0xnahual status -s)",
+      "Bash(git -C:*)",
+      "Bash(git -C /Users/ricardobustos/Documents/0xnahual push)",
+      "Bash(find /Users/ricardobustos/Documents/0xnahual -type f -not -path '*/\\\\.git/*' -not -path '*/.obsidian/*' ! -name '.DS_Store' -exec ls -lh {} ;)",
+      "Bash(sort -k2)",
+      "Bash(du -sh /Users/ricardobustos/Documents/0xnahual/*/)",
+      "Bash(done)",
+      "Bash(ls -lh /Users/ricardobustos/Documents/0xnahual/COACHING*)",
+      "Bash(ls -1 /Users/ricardobustos/Documents/0xnahual/*.md)",
+      "Bash(xargs ls -lh)",
+      "Bash(xargs -0 ls -lh)",
+      "Bash(while read f)",
+      "Bash(do ls -lh \"$f\")",
+      "Bash(git mv \"COACHING — Beyond La Forja.md\" \"Coaching/Coaching — Beyond La Forja.md\")",
+      "Bash(git mv \"COACHING — Brutal Reality Check.md\" \"Coaching/Coaching — Brutal Reality Check.md\")",
+      "Bash(git mv \"COACHING — Final Training Schedule.md\" \"Coaching/Coaching — Final Training Schedule.md\")",
+      "Bash(git mv \"COACHING — La Forja Timeline & Next Phase.md\" \"Coaching/Coaching — La Forja Timeline & Next Phase.md\")",
+      "Bash(git mv \"COACHING — The Full Analysis V2.5.md\" \"Coaching/Coaching — The Full Analysis.md\")",
+      "Bash(git mv \"COACHING — The Scaffolding Analysis.md\" \"Coaching/Coaching — The Scaffolding Analysis.md\")",
+      "Bash(git mv \"COACHING — Training & Phase Analysis.md\" \"Coaching/Coaching — Training & Phase Analysis.md\")",
+      "Bash(git mv \"Nutrition-Data-Export-2026-03-01.md\" \"Personal/Nutrition Data Export — March 2026.md\")",
+      "Bash(git mv \"Templo Nahual March.md\" \"Projects/Templo Nahual/Templo Nahual — March 2026.md\")",
+      "Bash(git mv \"Vision.md\" \"Personal/Vision.md\")",
+      "Bash(git mv \"VAULT AUDIT — What Is Real.md\" \"Archive/Vault Audit — What Is Real.md\")",
+      "Bash(git mv \"Systems/IXNAH/The Striking Question - Boxing vs Muay Thai vs Kickboxing.md\" \"Archive/The Striking Question — Boxing vs Muay Thai vs Kickboxing.md\")",
+      "Bash(git commit:*)"
     ]
   }
 }

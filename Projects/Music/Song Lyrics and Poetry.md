@@ -1,3 +1,7 @@
+---
+type: project
+tags: [music, lyrics, poetry, collection]
+---
 # Song Lyrics & Poetry
 
 ---

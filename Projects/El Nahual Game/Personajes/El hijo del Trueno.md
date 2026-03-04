@@ -1,6 +1,10 @@
 ## **⚡ THE LIMITLESS FORM —** 
 
-## **“El Que Recuerda El Pulso”**
+---
+type: project
+tags: [game, character, trueno, energia, limitless]
+---
+## **”El Que Recuerda El Pulso”**
 
   
 

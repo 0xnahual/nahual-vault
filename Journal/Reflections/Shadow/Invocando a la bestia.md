@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [shadow, beast, invocation, anger]
+---
 **Hey, bestia dormida**, mediante este escrito te invoco, estoy emputado porque gané peso y perdí masa muscular.
 
 **Hey, saoly, la bestia**, hijo de tu puta madre, ¿cómo osas hacernos perder el tiempo? ¿Cómo osas venir aquí por consuelo? ¿Es neta que no puedes, es neta que así te vas a rendir? ¿Es neta que ahí te vas a quedar, cabrón? Esto no se va a acabar aquí. Hiciste una puta promesa y ahora estás comiendo como puto cerdo, ¿es neta que vas a hacer que perdamos todo por lo que hemos trabajado en el puto año por puto placer? ¿Es neta?

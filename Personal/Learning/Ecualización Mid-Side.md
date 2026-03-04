@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [music-production, eq, fl-studio]
+---
 La ecualización mid-side sirve para poder ecualizar en mono y en stéreo fácilmente. Para la ecualziación mid-side, se utiliza la herramienta de [[FL Patcher]]
 
 En FL Studio, no existe una herramienta nativa para hacer ecualización mid-side directamente desde un plugin, pero existe una alternativa para hacerlo.

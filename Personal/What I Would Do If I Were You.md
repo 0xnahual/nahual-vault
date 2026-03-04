@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [strategy, action-plan, coaching]
+---
 # What I Would Do If I Were You
 ### The full path — honest, clear, based on everything
 
@@ -13,9 +17,9 @@ Let me name it all so we're working from the same picture.
 - Five years of daily vocal training with a weekly coach. Career-level singer.
 - Judo happening. Daily singing happening. Training every day.
 - 2 songs on Spotify under Ixtlan. Zero marketing.
-- El Templo app 80% built.
+- [[Kung Fu Temple App Spec|El Templo]] app 80% built.
 - El Nahual Game — deep worldbuilding, archetypes system, characters, villains. William. The Void. All on paper.
-- A vault of 200+ files containing a complete philosophical system (IXNAH, Nahualismo, 9 Stages, Hechicería Práctica) that you didn't theorize — you lived.
+- A vault of 200+ files containing a complete philosophical system ([[What is IXNAH|IXNAH]], Nahualismo, 9 Stages, Hechicería Práctica) that you didn't theorize — you lived.
 - Addictions gone. Crypto wound processed. The phobic responses are gone.
 - No partner. Limited social circle. This matters.
 

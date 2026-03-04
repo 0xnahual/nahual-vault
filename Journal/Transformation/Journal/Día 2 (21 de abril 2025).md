@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [transformation, daily, day-2]
+---
 ## 🌅 MAÑANA (1–3 min)
 - Peso del día: --- kg  
 - Energía (1–10): 6  

@@ -1,3 +1,7 @@
+---
+type: project
+tags: [ixtlan, social-media, youtube, music]
+---
 La música en Youtube es muy fácil de marketear. Cómo el juego es muy musical, podemos utilizar la música pre-lanzada como medio de marketing.
 
 Ejemplos (Nótese el número de vistas):

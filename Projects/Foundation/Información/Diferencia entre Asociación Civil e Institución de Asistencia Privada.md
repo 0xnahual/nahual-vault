@@ -1,3 +1,7 @@
+---
+type: project
+tags: [foundation, legal, research]
+---
 En México, tanto las Asociaciones Civiles (AC) como las Instituciones de Asistencia Privada (IAP) son figuras jurídicas utilizadas para crear organizaciones sin fines de lucro, pero tienen diferencias clave en su estructura, regulación y ámbito de acción. A continuación te explico las principales diferencias:
 
 ### Definición y Naturaleza Jurídica

@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [shadow, DMT, gratitude, god]
+---
 Hoy después de darme un trip de DMT, aprendí varias cosas, las cuales quiero escribir un poco.
 
 Recordé que Dios no ha dejado de estar de mi lado, que siempre ha estado, y que siempre estará - esos pensamientos de que me ha abandonado, y que por qué nunca me ayuda, son banales y no deberían de ser escuchados.

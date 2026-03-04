@@ -1,4 +1,7 @@
-
+---
+type: personal
+tags: [programming, godot, game-dev]
+---
 
 ```plaintext
 /assets/

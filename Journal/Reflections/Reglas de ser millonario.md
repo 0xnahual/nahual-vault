@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [reflection, money, rules, wealth]
+---
 - Nunca malgastar el dinero. Por más dinero que tengas, no deberás comprar más caro de lo que toca. Debes de ser tacaño con él, cuando se tiene que gastar.
 - Sin embargo, el ser tacaño, es por qué el dinero que tengas extra lo usarás en inversiones que generer rendimientos, pero además que ayuden a mover la conciencia humana.
 - Otra parte del dinero lo usarás para tu fundación, la cuál tendrá el objetivo de ayudar a los que están hasta abjo de la pirámide de mazlow.

@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [transformation, body, mastery, purpose]
+---
 El objetivo de está transformación es el dominio sobre el cuerpo, de modo que pueda entrar a la segunda atención, estado de flow y el dominio de la presencia a voluntad.
 
 El dominio del cuerpo es necesario para entrar a la segunda voluntad y convertirte en un maestro de la realidad, ya que al momento de querer detener los pensamientos de la mente, es excepcional sentir todo tu cuerpo, músculo por músculo, y esto se logra sólo si estás completamente entrenado.

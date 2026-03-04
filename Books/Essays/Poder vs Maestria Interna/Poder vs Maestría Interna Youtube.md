@@ -1,3 +1,7 @@
+---
+type: book
+tags: [essay, power, mastery, youtube-script]
+---
 (Pausa breve. Voz tranquila, firme, sin prisa.)
 
 En la búsqueda del éxito, solemos confundir el impacto con el control.  

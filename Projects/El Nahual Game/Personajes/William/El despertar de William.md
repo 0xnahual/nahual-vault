@@ -1,4 +1,8 @@
-# 🌑 ESCENA – EL DESPERTAR DE WILLIAM  
+---
+type: project
+tags: [game, scene, william, limitless]
+---
+# 🌑 ESCENA – EL DESPERTAR DE WILLIAM
 ## *Pilar de la Voluntad – Activación del Modo LIMITLESS*
 
 ---

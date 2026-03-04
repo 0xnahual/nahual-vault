@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [graph, connections, index]
+---
 # JOURNAL & PERSONAL DOMAIN -- Interconnection Map
 
 > This file maps how every document in /Journal and /Personal connects to other documents in the vault.

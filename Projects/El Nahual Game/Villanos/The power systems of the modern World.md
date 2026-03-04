@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, villain, worldbuilding, power-systems]
+---
 # ⚙️ THE POWER SYSTEMS OF THE MODERN WORLD  
 *How the nine pillars of human potential became empires of control.*
 

@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [reflection, rules, commandments, path]
+---
 1. Nunca hablar de lo chingón que somos, simplemente ser chingones y dejar que los demás hablen. [[El orgullo quita poder]].
 2. Nunca hablar mal de nadie, ni públicamente ni en privado. 
 3. Nunca buscar a nadie, más bien tener una forma fácil de que la gente nos busque. La exclusividad da poder. 

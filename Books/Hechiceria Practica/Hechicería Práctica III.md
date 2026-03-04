@@ -1,3 +1,7 @@
+---
+type: book
+tags: [hechiceria, part-III, transcendence]
+---
 # 🔥 Hechicería Práctica III: El Arte de Trascender la Realidad  
 
 📌 **El tercer y último tomo de la trilogía de Hechicería Práctica.**  

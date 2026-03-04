@@ -1,3 +1,7 @@
+---
+type: book
+tags: [hechiceria, table-of-contents, part-I]
+---
 [[Introducción]]
 Qué es la magia y para que sirve
 [[La Magia Magia es una Disciplina, no un juego]]

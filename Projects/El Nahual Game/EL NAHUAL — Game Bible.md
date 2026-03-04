@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, el-nahual, bible, design]
+---
 # EL NAHUAL — Game Bible
 
 > *"El Nahual no se encuentra. Se despierta."*
@@ -6,7 +10,7 @@
 
 ## 1. ELEVATOR PITCH
 
-Top-down narrative roguelike where you awaken the 9 Pillars of magic by defeating bosses that embody each pillar's *corruption*. Combat is simple and frenetic. The bosses are philosophical encounters that break genre conventions. The final boss doesn't fight you — he asks you questions.
+Top-down narrative roguelike where you awaken the [[The 9 Pillars — The Architecture of Power|9 Pillars]] of magic by defeating bosses that embody each pillar's *corruption*. Combat is simple and frenetic. The bosses are philosophical encounters that break genre conventions. The final boss doesn't fight you — he asks you questions.
 
 **Tone:** Undertale meets Mexican mysticism. Emotionally devastating, mechanically tight, philosophically coherent.
 

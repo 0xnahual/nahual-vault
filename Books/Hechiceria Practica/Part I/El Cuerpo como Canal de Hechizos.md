@@ -1,3 +1,7 @@
+---
+type: book
+tags: [hechiceria, body, spells, channel]
+---
 # 🏺 El Cuerpo como Canal de Hechizos
 
 Un hechicero cuida su cuerpo, porque sabe que es el canal de sus hechizos. Sin un cuerpo fuerte, la voluntad se desgasta. Sin energía, la intención se debilita. Sin salud, la magia se convierte en un peso en vez de una herramienta.  

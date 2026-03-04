@@ -1,3 +1,7 @@
+---
+type: book
+tags: [hechiceria, willcraft, discipline, nahual]
+---
 ### **Effortless Discipline: The Final State of a Nahual**
 
 Most people see discipline as **force**, as effort, as something that requires willpower. But the **Final Form of a Nahual** is not effort—it is **effortless discipline.**

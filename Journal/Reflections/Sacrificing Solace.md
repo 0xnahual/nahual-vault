@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [reflection, magic, jung, sacrifice]
+---
 Pensando sobre lo que dijo Jung en su libro _The Red Book_, que dice: “Tienes que sacrificar solace por el sake de la magia”, me hace pensar que, en sí, tiene razón. Sin embargo, me confunde si realmente quiero llegar a tener magia, pues el costo puede llegar a ser muy alto.
 
 La magia la interpreto como la capacidad del ser humano de tener visiones, cambiar el control de la realidad y utilizar sus poderes para crear algo nuevo. Hemos visto indicios de magia a lo largo de los siglos: Nikola Tesla inventando la electricidad, la música cambiando emociones e inspirando, las sonoterapias, el poder de la palabra de grandes personas.

@@ -1,3 +1,7 @@
+---
+type: project
+tags: [nahual, game, lore]
+---
 El Nahual es aquél que ha dominado los [[9 pilares de la magia]], y con ello ha despertado su verdadero poder, siendo capaz de romper los límites de la realidad y transformarla transformarla hacia un mundo donde la libertad y la magia regresa a lo cotidiano.
 
 *""El Nahual ríe mientras rompe los límites""*

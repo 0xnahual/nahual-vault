@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [programming, godot, game-dev]
+---
 Para moverse en 4 direcciones sin aplicar física, se puede usar el siguiente código en GDScript. Este script consigue automáticamente el vector de movimiento según las teclas de entrada definidas y lo aplica al personaje. El resultado es un movimiento fluido y controlado sin necesidad de preocuparse por la física del juego.
 
 ```gdscript

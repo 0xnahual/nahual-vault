@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [shadow, clarity, artist, path]
+---
 He estado pensando mucho estos días sobre cómo debería de tomar mi camino de artista. Soy conciente de qué lo que tengo que hacer hoy, es dejar atrás mi pasado, para empezar un camino en el cuál me dedico únicamente a hacer arte, ya sea en forma de videojuegos, historias, escritos, música o liderando equipos.
 
 Si bien el dinero, la fama y el poder son asequibles con el conocimiento que tengo, aún no estoy seguro si ese es el camino que debo de tomar para hacer lo que quiero. En realidad, no quiero una vida lujosa, simplemente quiero tener una buena familia, tranquilidad, y saber que estoy viviendo con propósito y que lo que hago ayuda e inspira a la gente.

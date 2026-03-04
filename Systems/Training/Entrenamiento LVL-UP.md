@@ -1,4 +1,9 @@
-# 🐉 NAHUAL CUTTING PROTOCOL V9 — CUERPO DE DRAGÓN
+---
+type: training
+tags: [protocolo, calistenia, movilidad, cutting, dragon]
+---
+
+# NAHUAL CUTTING PROTOCOL V9 — CUERPO DE DRAGON
 
 **Propósito:** refinar el cuerpo hasta convertirlo en un instrumento de precisión, fuerza y energía.  
 **Meta:** dominio corporal intermedio-avanzado y preparación directa para artes marciales.  
@@ -63,9 +68,9 @@
 **Pre-Flow:** Bloque C  
 
 **Entrenamiento**
-- Ma Bu 2×fallo  
-- Gong Bu 2×fallo  
-- Step-ups unilaterales 3×fallo  
+- [[IXNAH Mobility — Strength at End Range|Ma Bu]] 2×fallo
+- Gong Bu 2×fallo
+- Step-ups unilaterales 3×fallo
 - Bulgarian Split Squat 3×fallo  
 - Peterson Step-up 2×12  
 - Reverse Plank Hold 3×20 s  
@@ -105,7 +110,7 @@
 **Pre-Flow:** Bloque B  
 
 **Entrenamiento**
-- Explosive Pull-ups 4×4  
+- Explosive [[IXNAH Strength — The 7 Compounds|Pull-ups]] 4×4
 - High Pulls 3×5  
 - Negativas lentas (10 s) 3 reps  
 - Pull-ups en anillas 2×fallo  
@@ -127,7 +132,7 @@
 **Pre-Flow:** Bloque C  
 
 **Entrenamiento**
-- Ma Bu 2×fallo  
+- [[IXNAH Mobility — Strength at End Range|Ma Bu]] 2×fallo
 - Gong Bu 2×fallo  
 - Pu Bu con rotaciones 3×fallo  
 - Step-ups 3×fallo  
@@ -151,7 +156,7 @@
 
 **Entrenamiento**
 - Dips 3×fallo  
-- Pull-ups 3×fallo  
+- [[IXNAH Strength — The 7 Compounds|Pull-ups]] 3×fallo
 - Hanging Leg Raises 3×10 controlados  
 - Explosive Push-ups 3×8  
 - Jump Squats 3×8  
@@ -200,7 +205,7 @@
 ## 🔮 RESULTADOS 8–12 SEM
 - Cuerpo definido y fuerte en todas las direcciones.  
 - Hombros blindados y funcionales.  
-- Pull-ups explosivas y control absoluto en L-Sit.  
+- [[IXNAH Strength — The 7 Compounds|Pull-ups]] explosivas y control absoluto en L-Sit.
 - Caderas móviles → patadas altas sin fuerza bruta.  
 - Núcleo transversal y rotacional activo.  
 - Movimiento natural, elástico y ligero.

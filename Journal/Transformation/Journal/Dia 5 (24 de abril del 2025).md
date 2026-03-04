@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [transformation, daily, day-5]
+---
 # 🗓️ Día [X] – [YYYY-MM-DD]
 
 ## 🌅 MAÑANA (1–3 min)

@@ -1,3 +1,8 @@
+---
+type: philosophy
+tags: [9-pilares, nahualismo, conciencia, transformacion]
+---
+
 # Los 9 Pilares del Nahualismo
 _15 Aug 2025_
 

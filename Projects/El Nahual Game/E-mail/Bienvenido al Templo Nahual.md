@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, email, onboarding]
+---
 Bienvenido hechicero o hechicera.
 
 Estás aquí por qué quieres aprender magia. Quieres encontrar tu poder interior, y con ello cambiar la realidad. Bien.

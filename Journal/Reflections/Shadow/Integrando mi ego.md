@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [shadow, ego, integration, spirituality]
+---
 Sí, tengo un ego que tiendo a reprimir. Cuando me empeizo a enfrascar mucho en la espiritualidad, tiendo a dejar que mi ego, que mi sombra se apague.
 
 Esto se acaba hoy. A partir de hoy integro a mi ego a mi vida, sin dejar que se apodere de mí. Entiendo que el ego en desmedida puede ser abrumador, y además peude ser cotnraproducente, sin embargo estoy listo para ir en una lucha en contra de mi ego, y sólo enfocandome en el propósito, reconociendo que mi ego necesita status y dinero para la libertad, tanto para el propósito como para mi familia.

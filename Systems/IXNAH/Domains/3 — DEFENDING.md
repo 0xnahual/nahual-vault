@@ -1,3 +1,9 @@
+---
+type: system
+domain: [defending]
+tags: [ixnah, defending, combat, judo, awareness]
+---
+
 # IXNAH Domain 3: DEFENDING
 
 *Protecting yourself and others from violence, injury, and danger. Not fighting — surviving. Not attacking — neutralizing. Not winning — getting home safe.*
@@ -8,7 +14,7 @@
 
 Defending is not the opposite of violence. It is the other side of the same coin. Violence is the capacity to generate force. Defending is the capacity to absorb, redirect, or avoid force — and to read situations early enough that force is never needed.
 
-IXNAH treats defending as a separate domain because most martial arts conflate offense and defense. They're not the same skill set. A boxer who can punch beautifully may still freeze when grabbed. A judoka who can throw anyone may not notice the guy reaching for a bottle behind the bar. Defending includes physical skills (blocks, breakfalls, escapes) AND awareness skills (reading rooms, de-escalating, leaving).
+[[What is IXNAH|IXNAH]] treats defending as a separate domain because most martial arts conflate offense and defense. They're not the same skill set. A boxer who can punch beautifully may still freeze when grabbed. A judoka who can throw anyone may not notice the guy reaching for a bottle behind the bar. Defending includes physical skills (blocks, breakfalls, escapes) AND awareness skills (reading rooms, de-escalating, leaving).
 
 The most effective defense is never being in the situation. The second most effective is ending it in 3 seconds and leaving. Everything else is a failure of the first two.
 
@@ -67,7 +73,7 @@ The most effective defense is never being in the situation. The second most effe
 - Wrestling standup
 - Kip-up (advanced)
 
-**Why this matters for longevity:**
+**Why this matters for [[5 — LONGEVITY|LONGEVITY]]:**
 Falls kill more elderly people than any other injury. A 70-year-old who knows how to breakfall survives what kills someone who doesn't. This is where IXNAH's martial art meets medical reality.
 
 ### Ground Survival (Compendium Part 3, Chapter 12)

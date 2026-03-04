@@ -1,3 +1,7 @@
+---
+type: book
+tags: [hechiceria, magic, discipline]
+---
 # 📖 La Magia Como Disciplina  
 
 ## 🔥 ¿Es la Magia una Disciplina?  

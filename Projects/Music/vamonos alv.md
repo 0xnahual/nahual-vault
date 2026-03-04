@@ -1,3 +1,7 @@
+---
+type: project
+tags: [music, song, lyrics]
+---
 Hey,
 Vamonos de aqui
 

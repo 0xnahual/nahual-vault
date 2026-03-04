@@ -1,3 +1,7 @@
+---
+type: project
+tags: [music, echoes-album, limitless, lyrics]
+---
 Never give up there is always light
 Even when you don't wanna fight
 break your limits cause you have god inside

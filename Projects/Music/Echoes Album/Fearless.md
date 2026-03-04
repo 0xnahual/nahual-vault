@@ -1,4 +1,8 @@
-Thunder. Fire.  Flames. Power. 
+---
+type: project
+tags: [music, echoes-album, fearless, lyrics]
+---
+Thunder. Fire.  Flames. Power.
 Thunder. Fire.  Flames. Power. Stop.
 
 Give me no reason, I’ll play with fire,

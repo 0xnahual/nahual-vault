@@ -1,3 +1,9 @@
+---
+type: system
+domain: [longevity]
+tags: [ixnah, longevity, health, breathing, tai-chi]
+---
+
 # IXNAH Domain 5: LONGEVITY
 
 *The ability to do all of this at 60, 70, 80. Not just living long — living capable. Moving, fighting, lifting, defending, and expressing at an age when most humans have surrendered their bodies to decay.*
@@ -8,7 +14,7 @@
 
 Longevity is not the absence of disease. It is the presence of capability across a lifetime. A 70-year-old who can hold Ma Bu, deadlift their bodyweight, break a fall without breaking a hip, walk 5 km without pain, and breathe their way out of a panic attack — that is longevity. A 70-year-old on medications who can't get off the floor without help — that is surviving, not living.
 
-IXNAH treats longevity not as a separate practice but as the TEST of all other domains. If your training destroys your joints by 50, it fails the longevity test. If your fighting style can't adapt to an aging body, it fails. If your strength requires peak hormones to maintain, it fails.
+[[What is IXNAH|IXNAH]] treats longevity not as a separate practice but as the TEST of all other domains. If your training destroys your joints by 50, it fails the longevity test. If your fighting style can't adapt to an aging body, it fails. If your strength requires peak hormones to maintain, it fails.
 
 The question for every IXNAH practice: **can you do this at 70?** Ma Bu — yes. Pistol squats — maybe modified. Muscle-ups — probably not. Breakfalls — yes, and they'll save your life. Breathing spells — yes, and they become more powerful with age. Chen Tai Chi — yes, and this is why it's in the system.
 

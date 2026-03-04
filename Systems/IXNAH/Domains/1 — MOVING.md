@@ -1,3 +1,9 @@
+---
+type: system
+domain: [moving]
+tags: [ixnah, moving, locomotion, mobility]
+---
+
 # IXNAH Domain 1: MOVING
 
 *Locomotion, agility, ground transitions, climbing, crawling, jumping. The ability to get from here to there — on any surface, in any direction, under any condition.*
@@ -8,7 +14,7 @@
 
 Moving is the most fundamental human capability. Before you can fight, lift, endure, or defend — you must be able to move your body through space with control, efficiency, and adaptability. A human who cannot move well cannot do anything else well.
 
-IXNAH defines Moving not as exercise but as reclaimed birthright. Every child can crawl, climb, squat, jump, roll, and balance. Most adults have lost these abilities through chairs, shoes, and inactivity. Moving is the process of getting them back — and then expanding them.
+[[What is IXNAH|IXNAH]] defines Moving not as exercise but as reclaimed birthright. Every child can crawl, climb, squat, jump, roll, and balance. Most adults have lost these abilities through chairs, shoes, and inactivity. Moving is the process of getting them back — and then expanding them.
 
 ---
 

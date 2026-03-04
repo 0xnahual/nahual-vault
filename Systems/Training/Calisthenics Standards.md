@@ -7,8 +7,8 @@
 | **Fri** | **Technical Push )*+ **IXNAH (Tai Chi + Kicks + Upper Flexibility)**             | 30m KF + **1h Randori**         |
 | **Sat** | **TOTAL REST**                                                                   | **ZERO EXPRESSION**             |
 | **Sun** | **Dog Run (Zone 2)** + **IXNAH (Form Mastery)**                                  | **Vocal / Music Production**    |
-Ixnah = Mobility, Flexibility, Kick drills + Tai Chi.
-Pulls = Pullups + Body Rows + Grip Towel Hangs
+[[What is IXNAH|Ixnah]] = Mobility, Flexibility, Kick drills + Tai Chi.
+Pulls = [[IXNAH Strength — The 7 Compounds|Pullups]] + Body Rows + Grip Towel Hangs
 Push = Weighted Dips / Weighted Pushups  + HSPU progression 
 Legs = Weighted Bulgarian Split Squat + Pistol Squat Progression
 

@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, marketing, funding, ideas]
+---
 Este escrito simplemente sreá un data dump de lo que traigo en la mente. Existen varias formas de marketear este juego, y a difrenetes tipos de mercado.
 
 No debo enfocarme en esto, debo enfocarme en hacer el juego bien, y que de ahí salga las ideas, sin embargo, aquí podré vender coleccionables físicos tipo amiibo, de hecho vender coleccionables físicos tipo amiibo sería legendario.

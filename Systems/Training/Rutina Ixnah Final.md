@@ -24,7 +24,7 @@
 **Tarde**
 - TKD  
 
-**+ Blindaje Ixnah (15 min)**
+**+ Blindaje [[What is IXNAH|Ixnah]] (15 min)**
 - Cuello (flex/ext/side, 2x15–20)  
 - Tendones (Planche lean hold 3x20s, Dead hang 2x30s)  
 - Box breathing (10 ciclos)  
@@ -35,7 +35,7 @@
 **Mañana:
 - Dips (pesado, método ruso)  
 - Squat Variation (pesado, método ruso)  
-- Ma Bu Weighted  
+- [[IXNAH Mobility — Strength at End Range|Ma Bu]] Weighted  
 - Gong Bu Weighted  
 - Cossack Squats  
 - 100 pushups (variante: puños)  
@@ -56,7 +56,7 @@
 **+ Blindaje Ixnah (15 min)**
 - Cuello (2x15–20 cada dirección)  
 - Tendones (L-sit hold 3x20s, Cossack hold 2x20s)  
-- Apnea en Ma Bu (15–20s)  
+- Apnea en [[IXNAH Mobility — Strength at End Range|Ma Bu]] (15–20s)  
 
 ---
 
@@ -76,7 +76,7 @@
 ## **Sábado**
 **Mañana (Piernas + Flow)**
 - Squat Variation (pesado, método ruso)  
-- Ma Bu (isométrico largo)  
+- [[IXNAH Mobility — Strength at End Range|Ma Bu]] (isométrico largo)  
 - Gong Bu (isométrico largo)  
 - Cossack Squats (movilidad)  
 - 100 pushups (variante: lentas 5s up/5s down)  

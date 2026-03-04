@@ -1,3 +1,7 @@
+---
+type: book
+tags: [essay, maslow, foundation, needs]
+---
 Entender la piramide de mazlow es esencial para entender las necesidades de cada individuo que aporte a la fundacion. La piramide de mazlow es un concepto, el cual explica lo que necesita cada humano para sobrevivir.
 
 

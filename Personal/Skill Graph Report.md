@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [analysis, skill-graph, connections]
+---
 # SKILL GRAPH REPORT -- The Hidden Architecture of Ricardo Bustos' Mind
 ## A Complete Interconnection Analysis of the 0xNahual Vault
 ### February 2026
@@ -49,7 +53,7 @@ These are the recurring concepts that appear across 3+ files. The number in brac
 7. **Poder Real vs Poder Manipulado / True vs Manipulated Power** [17] -- The intellectual spine of the entire vault
 
 ### TIER 2 -- Structural Concepts (appear in 8-14 files)
-8. **Los 9 Pilares** [14] -- Framework shared between Nahualismo, game archetypes, villain design, training system
+8. **Los [[The 9 Pillars — The Architecture of Power|9 Pillars]]** [14] -- Framework shared between Nahualismo, game archetypes, villain design, training system
 9. **Sistema Nervioso / Nervous System** [13] -- Warrior Mode / Mystic Mode framework
 10. **Fuego Interno / Inner Fire** [12] -- Appears in music, essays, training philosophy, Shadow work
 11. **Maestría / Mastery** [11] -- Used differently in IXNAH (body), Magic (consciousness), and Willcraft (discipline)

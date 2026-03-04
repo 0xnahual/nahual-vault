@@ -1,3 +1,7 @@
+---
+type: book
+tags: [hechiceria, introduction, magic]
+---
 # Hechicería Práctica: La Magia es Real  
 
 📌 **Guía de Entrenamiento para el Dominio de la Voluntad y la Realidad**  

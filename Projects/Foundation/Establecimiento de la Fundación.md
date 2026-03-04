@@ -1,3 +1,7 @@
+---
+type: project
+tags: [foundation, fuerza-y-gratitud, legal]
+---
 ## Nombre
 Movimiento Fuerza y Gratitud.
 ## Misión y Visión

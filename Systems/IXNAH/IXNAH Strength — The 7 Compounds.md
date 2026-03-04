@@ -1,3 +1,9 @@
+---
+type: system
+domain: [strength, inner-animal, defending, endurance, longevity]
+tags: [ixnah, strength, compounds]
+---
+
 # IXNAH Strength — The 7 Compounds
 
 *The minimum effective dose for a body that can do anything.*
@@ -6,7 +12,7 @@
 
 ## Philosophy
 
-IXNAH strength training follows one principle: **compound movements that cover every fundamental human movement pattern.** No machines. No isolation. No fluff. Seven exercises. Master them progressively and the body has no strength gaps.
+[[What is IXNAH|IXNAH]] strength training follows one principle: **compound movements that cover every fundamental human movement pattern.** No machines. No isolation. No fluff. Seven exercises. Master them progressively and the body has no strength gaps.
 
 Every movement was selected because it:
 1. Covers a fundamental movement pattern (pull, push, squat, hinge, carry)
@@ -15,8 +21,8 @@ Every movement was selected because it:
 4. Directly transfers to combat (Judo) and daily life
 5. Cannot be removed without creating a gap
 
-**Primary domain:** STRENGTH
-**Supporting domains:** INNER ANIMAL, DEFENDING, ENDURANCE, LONGEVITY
+**Primary domain:** [[4 — STRENGTH|STRENGTH]]
+**Supporting domains:** [[2 — INNER ANIMAL|INNER ANIMAL]], [[3 — DEFENDING|DEFENDING]], [[7 — ENDURANCE|ENDURANCE]], [[5 — LONGEVITY|LONGEVITY]]
 
 ---
 
@@ -96,7 +102,7 @@ Seven patterns. Seven exercises. Every major muscle group. Every fundamental hum
 - Endurance: 3 × max reps bodyweight
 - Mastery test: 15 strict pullups OR 5 × weighted at +20 kg
 
-**IXNAH domain:** STRENGTH + INNER ANIMAL
+**IXNAH domain:** [[4 — STRENGTH|STRENGTH]] + [[2 — INNER ANIMAL|INNER ANIMAL]]
 
 ---
 
@@ -124,7 +130,7 @@ Seven patterns. Seven exercises. Every major muscle group. Every fundamental hum
 - Strength: 4 × 8-12 at the hardest angle manageable
 - Mastery test: 10 reps feet-elevated with controlled 2-second pause at chest
 
-**IXNAH domain:** STRENGTH + DEFENDING
+**IXNAH domain:** [[4 — STRENGTH|STRENGTH]] + [[3 — DEFENDING|DEFENDING]]
 
 ---
 
@@ -150,7 +156,7 @@ Seven patterns. Seven exercises. Every major muscle group. Every fundamental hum
 - Endurance: 3 × max reps bodyweight
 - Mastery test: 10 strict parallel bar dips OR 5 × weighted at +15 kg
 
-**IXNAH domain:** STRENGTH + DEFENDING
+**IXNAH domain:** [[4 — STRENGTH|STRENGTH]] + [[3 — DEFENDING|DEFENDING]]
 
 ---
 
@@ -178,7 +184,7 @@ Seven patterns. Seven exercises. Every major muscle group. Every fundamental hum
 - Endurance: 50+ standard pushups in one set (Judo conditioning baseline)
 - Mastery test: 10 strict diamond pushups OR 5 one-arm pushups each side
 
-**IXNAH domain:** STRENGTH + INNER ANIMAL
+**IXNAH domain:** [[4 — STRENGTH|STRENGTH]] + [[2 — INNER ANIMAL|INNER ANIMAL]]
 
 ---
 
@@ -190,7 +196,7 @@ Seven patterns. Seven exercises. Every major muscle group. Every fundamental hum
 - The squat is the most fundamental human movement pattern
 - Loaded squatting builds raw leg strength that transfers to: throwing power (driving through the legs in Judo), sprinting (INNER ANIMAL), carrying, climbing
 - Sandbag loading adds an unstable, shifting element — closer to real-world loads than a barbell
-- Unlike the pistol squat (which lives in Mobility), the loaded squat prioritizes FORCE PRODUCTION, not range of motion
+- Unlike the pistol squat (which lives in [[IXNAH Mobility — Strength at End Range|Mobility]]), the loaded squat prioritizes FORCE PRODUCTION, not range of motion
 
 **Progressions:**
 1. Bodyweight squat (full depth, heels down — master form first)
@@ -212,7 +218,7 @@ Seven patterns. Seven exercises. Every major muscle group. Every fundamental hum
 - Endurance: 20+ bodyweight squats (conditioning)
 - Mastery test: 5 × 5 with 40 kg sandbag, full depth, controlled tempo
 
-**IXNAH domain:** STRENGTH + INNER ANIMAL (raw, unstable loading)
+**IXNAH domain:** [[4 — STRENGTH|STRENGTH]] + [[2 — INNER ANIMAL|INNER ANIMAL]] (raw, unstable loading)
 
 ---
 
@@ -251,7 +257,7 @@ Seven patterns. Seven exercises. Every major muscle group. Every fundamental hum
 - Strength: 5 × 5 one-hand swing at 32 kg
 - Mastery test: 10 × 10 swings at 32 kg in under 10 minutes (Simple & Sinister standard)
 
-**IXNAH domain:** STRENGTH + ENDURANCE
+**IXNAH domain:** [[4 — STRENGTH|STRENGTH]] + [[7 — ENDURANCE|ENDURANCE]]
 
 ---
 
@@ -288,7 +294,7 @@ The original 6 cover pull, push, squat, hinge. But none of them load the body in
 - Time: 60 seconds hold at max weight
 - Mastery test: 40m unbroken with 40 kg each hand, upright posture, controlled breathing
 
-**IXNAH domain:** STRENGTH + LONGEVITY + INNER ANIMAL
+**IXNAH domain:** [[4 — STRENGTH|STRENGTH]] + [[5 — LONGEVITY|LONGEVITY]] + [[2 — INNER ANIMAL|INNER ANIMAL]]
 
 ---
 
@@ -390,7 +396,7 @@ When all 7 compounds are at mastery level:
 - **KB Swing:** 10 × 10 at 32 kg in under 10 minutes
 - **Farmer's Carry:** 40m unbroken at 40 kg each hand
 
-A body at these levels has no strength gaps. It can pull, push, squat, hinge, and carry at levels that exceed 95% of the general population. Combined with the 6 Master Flexibility Positions and the IXNAH Mobility practice, the body has both strength AND freedom.
+A body at these levels has no strength gaps. It can pull, push, squat, hinge, and carry at levels that exceed 95% of the general population. Combined with the [[The 6 Master Flexibility Positions]] and the [[IXNAH Mobility — Strength at End Range|IXNAH Mobility]] practice, the body has both strength AND freedom.
 
 That is IXNAH strength. Not bodybuilding. Not powerlifting. The minimum number of movements for the maximum capability of the human body.
 

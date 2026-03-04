@@ -1,3 +1,7 @@
+---
+type: personal
+tags: [notion, systems, life-os]
+---
 # Notion Deep Dive — Systems Map
 
 *Extracted: March 1, 2026*

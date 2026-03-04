@@ -1,3 +1,7 @@
+---
+type: project
+tags: [music, production, limitless, mixing]
+---
 Para masterizar y mezclar la canción limitless, que es la primer canción que masterizo y mezclo, primero debo de organziar el proyecto de modo de que los busses contengan los instrumentos organizados. Además, hay varios efectos que se utilizan en varios, esos también deberán de ser agrupados en busses.
 
 Revisar que funcione todo bien en mono utilizando la herramienta que olbaid dice en el capítulo 12. Creo ese es el problema del por qué se escucha tan quedito en la bocina bosé y en el celular.

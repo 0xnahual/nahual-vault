@@ -1,4 +1,8 @@
 
+---
+type: journal
+tags: [transformation, daily, day-8]
+---
 ## 🌅 MAÑANA (1–3 min)
 - Peso del día: 106.1 kg  
 - Porcentaje de grasa: 29.5

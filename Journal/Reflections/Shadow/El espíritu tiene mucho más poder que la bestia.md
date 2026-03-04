@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [shadow, spirit, beast, power]
+---
 Intentando integrar la bestia a mi vida cotidiana, me doy cuenta que no tiene la energía infinita que proveé el espíritu. Dejar entrar a la bestia a mi vida diaria, todo el tiempo, me hace perder más que ganar.
 
 Más bien, la bestia debe de estar dormida, y debe despertar a momentos:

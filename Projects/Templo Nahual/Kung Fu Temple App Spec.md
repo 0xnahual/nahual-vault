@@ -1,3 +1,7 @@
+---
+type: project
+tags: [app, el-templo, tech-spec]
+---
 # Kung Fu Temple — Requirements & Tech Stack
 _16 Jul 2025_
 

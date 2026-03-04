@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, GDD, design]
+---
 El juego debe de tener lo siguiente:
 - Batallas frenéticas vistas desde arriba.
 - La capacidad de jugar contra alguien, batallas.

@@ -1,3 +1,7 @@
+---
+type: project
+tags: [game, villain, vacio, dialogue]
+---
 ¿Para qué intentas? igual te vas a a morir
 Vas muy atrás, ¿Que no ves que necesitas años para llegar?
 Mejor quédate en lo que ya sabes hacer

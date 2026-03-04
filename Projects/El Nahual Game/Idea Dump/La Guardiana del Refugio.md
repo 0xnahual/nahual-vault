@@ -2,6 +2,10 @@
 
 ##  **— versión legendaria**
 
+---
+type: project
+tags: [game, idea, character, entrega]
+---
 - **Apariencia:** ropa sencilla, cicatrices visibles (costillas vendadas), rodeada de perros con ojos brillantes. Cada animal refleja un aspecto de su espíritu (uno de fuego, otro de sombra, otro de viento).
     
 - **Poder:** no ataca directamente. **Invoca bestias** que nacen de los perros-espíritus que cuida. Cada invocación responde a su confianza, no a recursos materiales.

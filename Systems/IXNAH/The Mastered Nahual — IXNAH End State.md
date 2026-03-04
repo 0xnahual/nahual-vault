@@ -1,3 +1,9 @@
+---
+type: system
+domain: [all]
+tags: [ixnah, vision, end-state, nahual]
+---
+
 # The Mastered Nahual — IXNAH End State
 
 *What the system builds toward. Not a goal. A direction.*
@@ -20,7 +26,7 @@ You see it most clearly in the morning. Before the sun is fully up he's on the f
 
 Qi Gong breathing. Eyes half-closed. The movement slows until it barely exists. Then it accelerates — a burst of explosive power. Clap pushup. Box jump. KB swing that snaps the hips like a whip. Then slow again. The body oscillates between stillness and explosive force like they're the same thing.
 
-Someone watching can't tell if it's martial arts, dance, meditation, or training. It's all of them. It's none of them. It's IXNAH.
+Someone watching can't tell if it's martial arts, dance, meditation, or training. It's all of them. It's none of them. It's [[What is IXNAH|IXNAH]].
 
 ---
 
@@ -34,7 +40,7 @@ If someone swings, the head isn't there. If someone grabs, the grip is absorbed 
 
 The throw is the end. On concrete, one throw is enough. If it goes to the ground, the control is absolute — weight distributed, base heavy, the opponent pinned without brutality. He can hold someone there all day. He can choose to hurt them and chooses not to. That's the difference between a fighter and a warrior.
 
-Against someone who swings: the distance closes before the second punch lands. The INNER ANIMAL speed — the predator sprint that bridges the gap in half a second — brings him to clinch range before the fight starts at striking range. Once his hands touch, it's his world. Gorilla grip. Iron clinch. The throw happens and the fight is over. He doesn't trade punches. He doesn't need to. The gap between standing apart and grabbing is half a second, and half a second isn't enough time to box.
+Against someone who swings: the distance closes before the second punch lands. The [[2 — INNER ANIMAL|INNER ANIMAL]] speed — the predator sprint that bridges the gap in half a second — brings him to clinch range before the fight starts at striking range. Once his hands touch, it's his world. Gorilla grip. Iron clinch. The throw happens and the fight is over. He doesn't trade punches. He doesn't need to. The gap between standing apart and grabbing is half a second, and half a second isn't enough time to box.
 
 He doesn't fight the same way twice. Against bigger: evasive and technical. Against faster: heavy and smothering. Against aggressive: yielding and redirecting. The shapeshifter. The Nahual.
 

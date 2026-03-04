@@ -1,3 +1,7 @@
+---
+type: book
+tags: [essay, wellbeing, happiness, philosophy]
+---
 La felicidad es un sentimiento. El bienestar es un estado del ser
 
 La felicidad se da a momentos, el bienestar es algo que se trabaja.

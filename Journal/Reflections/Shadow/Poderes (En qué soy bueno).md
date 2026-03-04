@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [shadow, powers, strengths, self-awareness]
+---
 - Tengo el poder de la visión, puedo ver la visión de algo, investigar y saber el camino exacto a tomar para lograrla. 
 
 - Escritura. Tengo el poder de escribir bastante, sobre cualquier tema, y desarrollarlo con puntos, además de que no me aburre.

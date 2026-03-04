@@ -1,3 +1,7 @@
+---
+type: project
+tags: [graph, connections, index]
+---
 # PROJECTS DOMAIN -- Interconnection Map
 
 > This file maps how every document in /Projects connects to other documents in the vault.

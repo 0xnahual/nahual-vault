@@ -1,3 +1,8 @@
+---
+type: coaching
+tags: [la-forja, la-revelacion, la-expansion, vision, phases]
+---
+
 # COACHING — Beyond La Forja
 
 ## What Comes Out of the Fire
@@ -14,7 +19,7 @@
 
 Pliegues confirmed: 14.5% body fat. 90 kg. 77 kg of lean mass.
 
-The mirror shows someone that the 127 kg version of you would not recognize. Not just thinner — rebuilt. Shoulders, back, legs built from two years of calisthenics, kettlebell swings, and daily movement. A body that can do pistol squats, loaded pullups, hold Ma Bu for minutes, throw a person in Judo, take a K1 combination to the body and keep moving.
+The mirror shows someone that the 127 kg version of you would not recognize. Not just thinner — rebuilt. Shoulders, back, legs built from two years of calisthenics, [[IXNAH Strength — The 7 Compounds|kettlebell swings]], and daily movement. A body that can do pistol squats, loaded [[IXNAH Strength — The 7 Compounds|pullups]], hold [[IXNAH Mobility — Strength at End Range|Ma Bu]] for minutes, throw a person in Judo, take a K1 combination to the body and keep moving.
 
 Emergency fund: 6 months. The $500-to-your-name fear is a memory, not a possibility.
 
@@ -22,7 +27,7 @@ Studio: functional. Equipment set up. Ableton running. The room works.
 
 And somewhere in those 12-18 months, almost without noticing, you shipped something. A post. A clip. An essay. A song. Small. Imperfect. But real. The seal broke.
 
-La Forja is done. The blade comes out of the fire.
+[[Coaching — Final Training Schedule|La Forja]] is done. The blade comes out of the fire.
 
 ---
 
@@ -42,7 +47,7 @@ La Revelación is when you open the doors.
 
 **The transformation content.**
 
-You have the 127 kg video. Smoking weed. Singing narcocorridos at 237 pounds. You have the Ma Bu video — 90 kg, bald, taking punches with a straight face. And now you have the final form: 14.5%, documented PRs, two martial arts, the IXNAH morning practice on camera.
+You have the 127 kg video. Smoking weed. Singing narcocorridos at 237 pounds. You have the Ma Bu video — 90 kg, bald, taking punches with a straight face. And now you have the final form: 14.5%, documented PRs, two martial arts, the [[What is IXNAH|IXNAH]] morning practice on camera.
 
 This isn't a before/after Instagram post. This is a documentary piece. 3-5 minutes. Raw. Real. The voiceover tells the story — not the weight loss story, the consciousness story. "I was asleep. I woke up. This is what the waking up looked like."
 
@@ -56,7 +61,7 @@ Nobody has that story. Nobody.
 
 ### Month 3-6: The System Goes Public
 
-**IXNAH becomes teachable.**
+**[[What is IXNAH|IXNAH]] becomes teachable.**
 
 Not an app. Not yet. Start with content.
 
@@ -66,7 +71,7 @@ The contrast IS the teaching: "Here's the same man doing silk reeling at sunrise
 
 Write the first essays. Not the whole book — pieces of it. The philosophy in digestible form. Post them. Let people argue. Let people question. The friction creates reach.
 
-**El Templo opens to beta.** 10-20 users. Martial artists, friends, people from the content audience. The app becomes a product, not a personal tool. Feedback comes in. The app improves. The training data from real users starts shaping the system.
+**[[Kung Fu Temple App Spec|El Templo]] opens to beta.** 10-20 users. Martial artists, friends, people from the content audience. The app becomes a product, not a personal tool. Feedback comes in. The app improves. The training data from real users starts shaping the system.
 
 **NΛHUΛL folk recordings.** The other side. Guitar. Voice. Mexican folk filtered through everything you've become. This isn't the Ixtlan Project electronic darkness — this is the personal, acoustic, soul-level expression. Released quietly. For the people who go deeper than the surface.
 
@@ -78,7 +83,7 @@ You don't chase the audience. The content accumulates. The algorithm works on vo
 
 By now @0xnahual has:
 - The transformation documentary
-- Weekly IXNAH training content
+- Weekly [[What is IXNAH|IXNAH]] training content
 - Ixtlan Project music (2-3 tracks minimum)
 - NΛHUΛL folk recordings
 - Written essays on martial arts philosophy
@@ -110,9 +115,9 @@ The book doesn't need to be finished by the end of this phase. But it needs to b
 |--------|-------|
 | **Body** | Maintained at 14.5% or below. PRs still climbing. 3+ years of unbroken daily training. The physique is effortless now — not a project, just how you live. |
 | **Martial Arts** | 3 years Judo. 2 years K1. Real competence in both. Maybe an amateur competition under your belt. The Violence and Defending domains aren't concepts — they're tested. |
-| **IXNAH** | Public. Content exists. People know the system. Some are trying it. The credibility is established through the combination of philosophy + real fighting + documented practice. |
+| **[[What is IXNAH\|IXNAH]]** | Public. Content exists. People know the system. Some are trying it. The credibility is established through the combination of philosophy + real fighting + documented practice. |
 | **Music** | Ixtlan Project has 5-8 tracks released. NΛHUΛL has 3-4 folk recordings. Not famous. But REAL. The music exists in the world. The Spotify numbers are growing. Live performance is possible. |
-| **El Templo** | Public beta with 50-100+ users. Revenue: maybe, maybe not. But the app is alive, being used, generating feedback. |
+| **[[Kung Fu Temple App Spec\|El Templo]]** | Public beta with 50-100+ users. Revenue: maybe, maybe not. But the app is alive, being used, generating feedback. |
 | **Book** | Half-drafted. Publicly known through essays and content. The anticipation exists. |
 | **Brand** | @0xnahual is active. Consistent posting. An audience — small but real. People know who you are and what you represent. |
 | **Financial** | Still employed. Emergency fund solid. Starting to see if creative income can supplement. Maybe small revenue from El Templo subscriptions, music, content. Nothing life-changing yet — but the seed is planted. |
@@ -132,7 +137,7 @@ The book doesn't need to be finished by the end of this phase. But it needs to b
 
 You've earned it.
 
-Conversational Mandarin. 3+ years of IXNAH practice including Qi Gong and silk reeling. 3 years of Judo, 2 years of K1. A body at 14.5% that can handle intensive training. Emergency fund that covers months of travel. An audience that will follow the journey. An app that can run while you're gone (or you work on it remotely). A remote job that might allow a sabbatical — or enough savings that you can take unpaid time.
+Conversational Mandarin. 3+ years of [[What is IXNAH|IXNAH]] practice including Qi Gong and silk reeling. 3 years of Judo, 2 years of K1. A body at 14.5% that can handle intensive training. Emergency fund that covers months of travel. An audience that will follow the journey. An app that can run while you're gone (or you work on it remotely). A remote job that might allow a sabbatical — or enough savings that you can take unpaid time.
 
 **Wudang or Shaolin. 3-6 months.**
 
@@ -152,9 +157,9 @@ You document everything. Not for content — for the book. For IXNAH. For the in
 
 ### After China
 
-You return. The IXNAH system is complete — not because you added Chinese forms, but because you understood the roots deeply enough to know what your system IS and what it ISN'T. The synthesis is clear:
+You return. The [[What is IXNAH|IXNAH]] system is complete — not because you added Chinese forms, but because you understood the roots deeply enough to know what your system IS and what it ISN'T. The synthesis is clear:
 
-**IXNAH is not Kung Fu. It's not Judo. It's not K1. It's not Castaneda.**
+**[[What is IXNAH|IXNAH]] is not Kung Fu. It's not Judo. It's not K1. It's not Castaneda.**
 
 It's a system that uses the body as the vehicle for consciousness, drawing from Chinese internal arts, live combat training, Toltec philosophy, and modern calisthenics. Built by a man who was dying at 127 kg and rebuilt himself into a martial artist, musician, and philosopher.
 
@@ -166,9 +171,9 @@ That's the book. That's the pitch. That's the brand. And it's TRUE.
 
 | Domain | Goal |
 |--------|------|
-| **IXNAH** | Teach formally. Workshops. Online courses. Maybe certify other teachers. The system leaves your body and enters the world. |
+| **[[What is IXNAH\|IXNAH]]** | Teach formally. Workshops. Online courses. Maybe certify other teachers. The system leaves your body and enters the world. |
 | **Book** | Finish and publish. Self-published or traditional — doesn't matter. The book exists. Physical. Real. On shelves. |
-| **El Templo** | Full public launch. The app supports IXNAH practitioners and other martial artists. Revenue-generating product. |
+| **[[Kung Fu Temple App Spec\|El Templo]]** | Full public launch. The app supports IXNAH practitioners and other martial artists. Revenue-generating product. |
 | **Music** | First full Ixtlan Project album. Live performances. The game narrative deepens. |
 | **Career** | The pivot becomes possible. Not guaranteed — but possible. If the creative income + El Templo revenue + teaching income can match or approach the day job salary, the option to go full-time creator opens up. |
 | **Teaching** | The consciousness goal comes fully alive. You're not just training for yourself. You're showing others the path you walked. The 127 kg video. The transformation. The system. The philosophy. "I was asleep. Here's how I woke up. You can too." |

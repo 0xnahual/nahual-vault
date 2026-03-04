@@ -260,7 +260,7 @@ You already have most of this content scattered across your vault in notes, essa
 
 ---
 
-## PART 3: COMBAT — THE VIOLENCE AND DEFENSE LAYERS
+## PART 3: COMBAT — THE [[2 — INNER ANIMAL|INNER ANIMAL]] AND [[3 — DEFENDING|DEFENSE]] LAYERS
 
 *IXNAH is a martial art, not a fitness system. This is where the capable human learns to fight and defend.*
 

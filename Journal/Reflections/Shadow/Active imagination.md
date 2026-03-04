@@ -1,3 +1,7 @@
+---
+type: journal
+tags: [shadow, active-imagination, subconscious]
+---
 Hola, subconsciente. Mediante este escrito te invoco. Me resulta un poco difícil ver imágenes en este estado, pero simplemente estoy fluyendo con la escritura. Al parecer, lo que llega a mí cuando cierro los ojos son voces, ecos de mi subconsciente. No estoy pensando en qué está pasando, solo escucho las voces y las digo.
 
 Te invoco mediante este escrito. Sé que estás ahí, y tengo muchas cosas que preguntarte. Quiero descubrir qué es lo que debo hacer, quiero descubrir quién soy, y quiero saber qué es lo que estás guardando en mi subconsciente. En realidad, lo que quiero es integrarte a mi consciente, y conseguir todo ese poder o magia que traes contigo. Te canalizo en este momento.

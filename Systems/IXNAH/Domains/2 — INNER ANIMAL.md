@@ -1,3 +1,9 @@
+---
+type: system
+domain: [inner-animal]
+tags: [ixnah, inner-animal, primal, climbing, sprinting]
+---
+
 # IXNAH Domain 2: INNER ANIMAL
 
 *Back to monke. The primal physicality that civilization stole. Not aggression toward humans — raw animal capability that makes the body dangerous without needing to fight.*
@@ -8,7 +14,7 @@
 
 INNER ANIMAL is the domain of primal physical capability. Climbing, brachiating, crawling, sprinting, gripping, dragging, swimming, throwing objects — the things a gorilla can do that a gym-trained human cannot. The jungle, not the gym.
 
-This is NOT aggression. An IXNAH warrior is not aggressive — he is a fucking animal who CAN neutralize you, but he will not attack you. INNER ANIMAL builds the raw, unstructured, primal capacity that makes the body dangerous. DEFENDING (Domain 3) decides when and how to use it. The animal qualities make him capable. The defending philosophy makes him restrained.
+This is NOT aggression. An [[What is IXNAH|IXNAH]] warrior is not aggressive — he is a fucking animal who CAN neutralize you, but he will not attack you. INNER ANIMAL builds the raw, unstructured, primal capacity that makes the body dangerous. [[3 — DEFENDING|DEFENDING]] (Domain 3) decides when and how to use it. The animal qualities make him capable. The defending philosophy makes him restrained.
 
 The body was not designed to sit in chairs and lift calibrated weights. It was designed to climb trees, sprint from threats, crawl through terrain, grip branches, carry loads over uneven ground, and swim through water. INNER ANIMAL reclaims what the modern world erased.
 
@@ -64,7 +70,7 @@ The body was not designed to sit in chairs and lift calibrated weights. It was d
 | Primal capacity | Measurable force output | Quality of movement |
 | No equipment required | KB, pullup bar, sandbag | Body only |
 
-STRENGTH is the gym gorilla. INNER ANIMAL is the jungle gorilla. The gym gorilla can deadlift 200 kg but can't climb a tree. The jungle gorilla can do both — because the environment demanded it.
+[[4 — STRENGTH|STRENGTH]] is the gym gorilla. INNER ANIMAL is the jungle gorilla. The gym gorilla can deadlift 200 kg but can't climb a tree. The jungle gorilla can do both — because the environment demanded it.
 
 ---
 
