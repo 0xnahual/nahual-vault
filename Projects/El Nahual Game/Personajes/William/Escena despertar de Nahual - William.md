@@ -8,16 +8,16 @@
 > **“¿Sabes por qué Dios te quitó la pierna?”**  
 >  
 > *[el niño niega lentamente, con lágrimas en los ojos]*  
+
 >  
-> **“Porque Dios da las batallas más difíciles a sus guerreros más fuertes.  
->  
-> Te dio el camino más duro.  
+> Te dio este camino.  
 > Porque sabía que tú eras capaz.  
 >  
 >  
 > *[Pausa. Ella toma su mano con fuerza.]*  
 
-
+ Porque tú vas a enseñarle al mundo lo que significa caminar…  
+> sin tener piernas.”**  
 >  Hijo, no me queda mucho tiempo.
 >  
 > **Necesito que me prometas algo.**  

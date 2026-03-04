@@ -27,7 +27,7 @@ No tengo energía.
 
 (Beat)  
 Este es el final.  
-Nunca cumpliré mi propósito.
+Nunca cumpliré mi misión.
 
 (Confundido, débil sonrisa)  
 (suenan risas y silbido)  ... por que huele a caldo de pollo?

@@ -3,7 +3,10 @@
     "allow": [
       "Bash(git add:*)",
       "Bash(git commit -m \"$\\(cat <<''EOF''\nInitial commit: 0xnahual Obsidian vault\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\nEOF\n\\)\")",
-      "Bash(git -C /Users/ricardobustos/Documents/0xnahual status)"
+      "Bash(git -C /Users/ricardobustos/Documents/0xnahual status)",
+      "WebFetch(domain:www.indiehackers.com)",
+      "mcp__ceb2d81f-01eb-4931-a25b-640f3a3563d0__notion-create-database",
+      "mcp__ceb2d81f-01eb-4931-a25b-640f3a3563d0__notion-update-data-source"
     ]
   }
 }
