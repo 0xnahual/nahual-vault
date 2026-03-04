@@ -4,6 +4,31 @@
 
 ---
 
+## Expression in IXNAH — The Open Domain
+
+IXNAH has 7 domains. Six of them prescribe: specific exercises, specific progressions, specific mastery tests. They build a complete physical instrument — the range, the strength, the endurance, the movement literacy, the combat capability, the longevity.
+
+**Expression is different. Expression prescribes nothing.**
+
+The 6 domains build the vocabulary. Expression is the poetry. You teach vocabulary. You don't teach poetry — you create the conditions for it to emerge.
+
+An IXNAH practitioner who has developed MOVING, INNER ANIMAL, DEFENDING, STRENGTH, ENDURANCE, and LONGEVITY has a body that can do almost anything. What they CHOOSE to do with it is Expression. And that choice must be theirs.
+
+- One person's Expression is capoeira.
+- Another's is breakdancing.
+- Another's is parkour or circus arts or traditional dance.
+- Another's is acrobatics — backflips, macacos, aerials.
+- Another's is kicking — high kicks, spinning kicks, the aesthetic martial arts.
+- Another's is ballet.
+- Another's is vocal performance woven through movement.
+- Another's might not involve performance at all — it might be the way they walk into a room, how they play with their kids, how they carry themselves through life.
+
+**The moment you put progressions and mastery tests on Expression, you kill it.** Expression is the domain where the system stops being a system and becomes a person. That's the whole point — IXNAH builds the body that can do anything, and then gets out of the way.
+
+This document describes ONE practitioner's Expression — the Nahual's. It is not a template. It is an example of what becomes possible when the instrument is built and the player finds their own music.
+
+---
+
 ## The Voice
 
 Five years of daily practice with a coach. That's not a hobby. That's a martial art of the throat.
@@ -66,7 +91,7 @@ A song starts acoustic — voice and guitar, raw, Spanish, folk. The body is sti
 
 Voice → folk → electronic → movement → silence. One arc. One piece. The audience watches a man literally become someone else over the course of seven minutes.
 
-Nobody is doing this. Nobody CAN do this. It requires a vocalist with five years of training, a producer with electronic skills, a martial artist with body control, and a person with a transformation story worth telling. The intersection of those four things is a population of one.
+Nobody is doing this. Not because it's impossible. Because nobody walked the specific path required to arrive there.
 
 ---
 

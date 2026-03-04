@@ -1,68 +1,42 @@
 # IXNAH Domain 6: EXPRESSION
 
-*Movement for the sake of movement. The body playing, not optimizing. Joy as a training domain, not a byproduct.*
+*The open domain. IXNAH builds the instrument — Expression is what you play with it.*
 
 ---
 
 ## Definition
 
-Expression is the domain that doesn't fit the capability framework — and that's exactly why it belongs.
+IXNAH has 7 domains. Six of them prescribe: specific exercises, specific progressions, specific mastery tests. They build a complete physical instrument — the range, the strength, the endurance, the movement literacy, the combat capability, the longevity.
 
-IXNAH defines five capabilities: Moving, Violence, Defending, Strength, Longevity. Each has a clear use case. Each answers the question "what can this body DO?" Expression answers a different question: **what does this body WANT to do?**
+**Expression is different. Expression prescribes nothing.**
 
-A human who can fight, lift, run, and endure but cannot play is a machine, not a person. A body that only trains for function eventually burns out — not from overtraining, but from joylessness. Expression is the domain that keeps the practice alive across decades, because it's the only domain that doesn't require discipline to show up. You do it because it feels good.
+The 6 domains build the vocabulary. Expression is the poetry. You teach vocabulary. You don't teach poetry — you create the conditions for it to emerge.
+
+An IXNAH practitioner who has developed MOVING, INNER ANIMAL, DEFENDING, STRENGTH, ENDURANCE, and LONGEVITY has a body that can do almost anything. What they CHOOSE to do with it is Expression. And that choice must be theirs.
+
+**The moment you put progressions and mastery tests on Expression, you kill it.** Expression is the domain where the system stops being a system and becomes a person. That's the whole point — IXNAH builds the body that can do anything, and then gets out of the way.
 
 This is not a philosophical add-on. It is an architectural necessity. Without Expression, IXNAH becomes another "optimize your body" system — and those systems have a 95% dropout rate because they treat the body as a project to complete instead of an instrument to play.
 
 ---
 
-## What Expression Contains
+## What Expression Could Be
 
-### Movement Play
+Expression is different for every practitioner. There is no list of exercises. There is no curriculum. Here are examples — not prescriptions:
 
-**Kicking — the original spark:**
-- Spinning kicks, trick kicks, high kicks, flashy combinations
-- Not combat-effective. Not longevity-oriented. Not strength-building.
-- Just fun. The body wanting to throw a spinning hook kick at a bag because it feels like flying.
-- TKD kicks, capoeira-inspired movement, martial arts tricking
-- This is where La Bestia expresses through the body without needing permission from El Espiritu's frameworks
+- **Kicks** — spinning kicks, trick kicks, high kicks. Not combat-effective. Just fun.
+- **Acrobatics** — backflips, macacos, aerials, handstands as play
+- **Capoeira** — martial arts as dance, dance as martial arts
+- **Breakdancing** — ground movement as art form
+- **Parkour** — environmental movement as self-expression
+- **Ballet or contemporary dance** — formal movement disciplines chosen for beauty
+- **Forms / Kata** — Tai Chi forms, self-created sequences. Moving meditation as physical poetry.
+- **Weapons play** — staff, sword, rope dart. Not for combat. For the beauty of extending the body's movement.
+- **Movement + Music** — stances with ambient music, singing while warming up, the intersection of training and sound
+- **Content as art** — the morning practice filmed at sunrise IS Expression
+- **Nothing visible at all** — the way you walk into a room, how you play with your kids, how you carry yourself through life
 
-**Flow movement:**
-- Crawling patterns (animal flow, ground movement)
-- Transitions between stances, rolls, and kicks without stopping
-- Improvised movement — no choreography, no sequence, just moving
-- The body finding its own rhythm
-
-**Dance-adjacent movement:**
-- Not formal dance. Not choreography.
-- Moving to music. Rhythm expressed through the body.
-- Shadow boxing as dance. Tai Chi as dance. Stances as dance.
-- The connection between music and movement that lives in your vault but isn't systematized — because it shouldn't be
-
-### Martial Arts Aesthetics
-
-**Forms / Kata:**
-- Shaolin forms, Tai Chi forms, self-created movement sequences
-- These are NOT combat training. They are moving meditation and physical poetry.
-- The IXNAH Compendium's Gap Analysis explicitly says "don't learn forms for fighting." Correct. Learn forms for Expression.
-
-**Weapons play (future):**
-- Staff, sword, rope dart — if you ever train these
-- Not for combat (nobody carries a sword)
-- For the beauty of an object extending the body's movement
-
-### Creative Movement
-
-**Training footage as art:**
-- The "caught training" clips aren't just content — they're Expression documented
-- A person doing silk reeling in golden hour light is not performing. They're expressing.
-- Heavy bag combinations that flow and sound rhythmic — that's Expression leaking into Violence
-
-**Movement + Music:**
-- Hitting the bag to a beat
-- Doing stances with ambient music
-- Singing while warming up
-- The intersection of your two worlds (training + music) IS Expression
+The point: IXNAH builds a body that can do anything. Expression is what YOU choose to do with it.
 
 ---
 
@@ -71,9 +45,10 @@ This is not a philosophical add-on. It is an architectural necessity. Without Ex
 | Domain | Motivation | Metric | Failure Looks Like |
 |--------|-----------|--------|-------------------|
 | Moving | Capability | Can you get there? | Immobility |
-| Violence | Capacity | Can you generate force? | Helplessness |
+| Inner Animal | Primal capacity | Can you survive raw? | Domestication |
 | Defending | Survival | Can you avoid harm? | Vulnerability |
 | Strength | Force | Can you resist/exert load? | Weakness |
+| Endurance | Resilience | Can you sustain and recover? | Fragility |
 | Longevity | Duration | Can you do this at 70? | Decay |
 | **Expression** | **Joy** | **Did you want to do it again?** | **Burnout** |
 

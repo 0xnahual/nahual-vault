@@ -2,6 +2,9 @@
 
 *The body has three engines. Train the wrong one and you're fast but fragile, or durable but slow. Train all three and nothing stops you.*
 
+**Primary domain:** ENDURANCE
+**Supporting domains:** All — conditioning serves every domain
+
 ---
 
 ## Philosophy
@@ -20,7 +23,7 @@ IXNAH trains all three. Deliberately. With awareness of what each one does and w
 
 ### Engine 1 — Alactic (ATP-CP System)
 
-**What it powers:** The first 0-10 seconds of maximum effort. A single explosive burst. One throw. One combination. One sprint. One jump.
+**What it powers:** The first 0-10 seconds of maximum effort. A single explosive burst. One throw. One sprint. One jump.
 
 **What it feels like:** Full power, no burn. It ends before fatigue arrives. You either did it or you didn't.
 
@@ -28,7 +31,7 @@ IXNAH trains all three. Deliberately. With awareness of what each one does and w
 
 **Why IXNAH trains it:**
 - The Judo throw happens in 1-3 seconds. If the alactic engine is weak, the throw is slow. A slow throw gets countered.
-- The K1 knockout combination is 2-4 seconds. Power without speed is pushing. Speed without power is tapping.
+- Closing distance to clinch range is 1-3 seconds. The INNER ANIMAL sprint that bridges the gap between standing apart and grabbing.
 - Sprinting — the first 30-60 meters is pure alactic. The ability to close distance or escape at maximum speed.
 - Every explosive movement depends on this system: clap pushups, box jumps, broad jumps, sprawls.
 
@@ -50,7 +53,7 @@ IXNAH trains all three. Deliberately. With awareness of what each one does and w
 
 **The rule:** If you're breathing hard, you rested too little. Alactic training should feel like you're doing very little. That's because you ARE doing very little — at maximum intensity. The magic is in the effort per rep, not the total suffering.
 
-**How combat trains it:** Every explosive entry, throw attempt, takedown, combination, and scramble uses this system. Combat provides alactic stimulus — but not progressive overload. Dedicated alactic training (power day) fills that gap.
+**How combat trains it:** Every explosive entry, throw attempt, takedown, and scramble uses this system. Judo provides alactic stimulus — but not progressive overload. Dedicated alactic training (power day) fills that gap.
 
 ---
 
@@ -64,7 +67,7 @@ IXNAH trains all three. Deliberately. With awareness of what each one does and w
 
 **Why IXNAH trains it:**
 - A Judo randori exchange lasts 30 seconds to 2 minutes of continuous grappling
-- A K1 round is 3 minutes of sustained output with varying intensity
+- A Judo match is 4 minutes of sustained output with varying intensity
 - Ground scrambles in grappling are pure glycolytic — 20-60 seconds of maximal effort with no break
 - This is the engine that determines whether you fade in round 3 or finish strong
 
@@ -81,12 +84,12 @@ IXNAH trains all three. Deliberately. With awareness of what each one does and w
 | HIIT circuit | 30-60 sec per station | 15-30 sec between | Pushups → jumps → KB swings → jump rope → Ma Bu hold (repeat 3-5 rounds) |
 | Tabata protocol | 20 sec max effort | 10 sec rest × 8 rounds | KB swings, burpees, or jump rope |
 | Sprint intervals | 15-30 sec sprint | 45-60 sec walk | 8-10 intervals |
-| Timed rounds | 2-3 min effort | 1 min rest | Shadow fighting, bag work, or circuit (mimics fight rounds) |
+| Timed rounds | 2-3 min effort | 1 min rest | Shadow grappling, bag work, or circuit (mimics fight rounds) |
 | Heavy KB swings | 30-60 sec continuous | 60 sec rest | 5-8 rounds |
 
-**The critical rule: Combat IS glycolytic training.** Sparring, randori, hard pad work, and live drilling all hammer this system. If you are training combat 2-4 times per week, you are ALREADY doing glycolytic work at high volume. Adding more HIIT circuits on top of combat is redundant at best and overtraining at worst.
+**The critical rule: Combat IS glycolytic training.** Randori, hard drilling, and live grappling all hammer this system. If you are training Judo 3 times per week, you are ALREADY doing glycolytic work at high volume. Adding more HIIT circuits on top of combat is redundant at best and overtraining at worst.
 
-**The accounting rule:** Before programming glycolytic conditioning, count how many combat sessions per week include hard rounds (sparring, randori, live drilling — not technique-only sessions). Then:
+**The accounting rule:** Before programming glycolytic conditioning, count how many Judo sessions per week include hard rounds (randori, live drilling — not technique-only sessions). Then:
 
 ```
 0-1 hard combat sessions/week  →  Add 2 glycolytic sessions
@@ -94,7 +97,7 @@ IXNAH trains all three. Deliberately. With awareness of what each one does and w
 3+ hard combat sessions/week   →  Add 0. Combat IS the conditioning.
 ```
 
-**How combat trains it:** Directly. Sparring and randori are the highest-quality glycolytic conditioning possible because they add skill pressure, unpredictability, and adrenaline — things a circuit can't replicate. The HIIT circuit exists for weeks when combat volume is low.
+**How combat trains it:** Directly. Randori is the highest-quality glycolytic conditioning possible because it adds skill pressure, unpredictability, and adrenaline — things a circuit can't replicate. The HIIT circuit exists for weeks when combat volume is low.
 
 ---
 
@@ -108,7 +111,7 @@ IXNAH trains all three. Deliberately. With awareness of what each one does and w
 
 **Why IXNAH trains it:**
 - The aerobic system is the FOUNDATION that the other two engines sit on. A weak aerobic base means slow recovery between rounds, slow recovery between training days, and chronic fatigue accumulation over weeks.
-- Between Judo exchanges, the aerobic system recovers the alactic system. Between K1 rounds, the aerobic system clears lactate. Between Monday and Tuesday, the aerobic system repairs the damage. It is the recovery engine.
+- Between Judo exchanges, the aerobic system recovers the alactic system. Between randori rounds, the aerobic system clears lactate. Between Monday and Tuesday, the aerobic system repairs the damage. It is the recovery engine.
 - Longevity — the aerobic system is what keeps the heart, lungs, and vascular system healthy across decades. This is the engine that determines whether you're still training at 50.
 - A fighter with a weak aerobic base gasses out. Not because the glycolytic system is weak — but because the recovery system can't clear the waste fast enough. Building the aerobic base makes EVERYTHING else work better.
 
@@ -146,8 +149,8 @@ Engine 3 — Aerobic      →  RECOVERY       →  2 min+         →  No rest n
 
 | Engine | Purpose | How Combat Trains It | Dedicated Training Needed? |
 |--------|---------|---------------------|---------------------------|
-| Alactic | Explosive power | Partially (throws, combinations) | Yes — power day (progressive overload) |
-| Glycolytic | Sustained fight output | Directly (sparring, randori) | Only when combat volume is low |
+| Alactic | Explosive power | Partially (throws, entries) | Yes — power day (progressive overload) |
+| Glycolytic | Sustained fight output | Directly (randori, live drilling) | Only when combat volume is low |
 | Aerobic | Recovery between everything | Not at all | Always — combat can't build this |
 
 ---
@@ -156,7 +159,7 @@ Engine 3 — Aerobic      →  RECOVERY       →  2 min+         →  No rest n
 
 ### 1. Count combat before adding conditioning
 
-The most common mistake is adding conditioning sessions without accounting for what combat already provides. Sparring, randori, and live drilling ARE conditioning. Treating them as "just technique" and then adding 3 HIIT sessions on top leads to overtraining.
+The most common mistake is adding conditioning sessions without accounting for what combat already provides. Randori and live drilling ARE conditioning. Treating them as "just technique" and then adding 3 HIIT sessions on top leads to overtraining.
 
 ### 2. The aerobic base is never optional
 
@@ -164,7 +167,7 @@ No matter how much combat, strength, or HIIT you do — easy aerobic work must h
 
 ### 3. Glycolytic is the most expensive engine to train
 
-Every glycolytic session costs recovery. Sparring costs recovery. Randori costs recovery. HIIT circuits cost recovery. Stack too many and performance drops across everything — strength, power, technique, and mood. When in doubt, replace a glycolytic session with an aerobic one. The recovery benefit outweighs the intensity benefit.
+Every glycolytic session costs recovery. Randori costs recovery. HIIT circuits cost recovery. Stack too many and performance drops across everything — strength, power, technique, and mood. When in doubt, replace a glycolytic session with an aerobic one. The recovery benefit outweighs the intensity benefit.
 
 ### 4. Alactic training doesn't feel like conditioning
 
@@ -201,9 +204,9 @@ Sprinting occupies a unique position — short sprints (under 8 seconds / 60m) a
 
 | Tool | Engine | Notes |
 |------|--------|-------|
-| Sparring (K1, boxing) | All three | The gold standard. Unpredictable, skill-loaded, emotionally intense. |
-| Randori (Judo) | All three | Same as sparring but grappling. Highest grip + glycolytic demand. |
-| Pad work (timed rounds) | Glycolytic | Coach-driven. Controlled intensity. |
+| Randori (Judo) | All three | The gold standard. Unpredictable, skill-loaded, grip-intensive. |
+| Ne-waza (ground work) | Glycolytic | Ground scrambles, pins, escapes. Pure glycolytic demand. |
+| Uchi-komi (repetition throwing) | Glycolytic | Coach-driven. Controlled intensity. Technique under fatigue. |
 | Drilling (live resistance) | Glycolytic | Technique under fatigue. Bridge between practice and combat. |
 
 ---
@@ -245,28 +248,28 @@ Activity                    Alactic    Glycolytic    Aerobic
 Sprint (30m)                ████████   ██            █
 KB Swing (set of 5)         ███████    ███           █
 Judo throw                  █████████  █             █
-K1 combination (3-5 sec)    ████████   ██            █
-Sparring round (3 min)      ███        ██████        ███
+Clinch entry + throw (2-4s) ████████   ██            █
+Judo match (4 min)          ███        ██████        ███
 Judo randori (2 min)        ███        ███████       ██
 HIIT circuit (6 min)        ██         ███████       ███
 Easy jog (20 min)           █          █             █████████
 Walking (30 min)            █          █             █████████
 ```
 
-This is why combat covers glycolytic conditioning so well — sparring and randori ARE high-glycolytic activities. And why easy jogging must be programmed separately — nothing in combat or strength training operates in the aerobic zone long enough to build the base.
+This is why combat covers glycolytic conditioning so well — randori and live grappling ARE high-glycolytic activities. And why easy jogging must be programmed separately — nothing in combat or strength training operates in the aerobic zone long enough to build the base.
 
 ---
 
 ## Common Mistakes
 
 ### 1. "I need to do more cardio"
-If you're fighting 3-4 times per week, you don't need more cardio. You need more RECOVERY. The aerobic jog isn't for fitness — it's for clearing the damage from combat.
+If you're doing Judo 3 times per week, you don't need more cardio. You need more RECOVERY. The aerobic jog isn't for fitness — it's for clearing the damage from combat.
 
 ### 2. "Easy jogging is useless"
 Zone 2 jogging builds the aerobic base that recovers you between rounds and between training days. It doesn't feel productive because it doesn't hurt. It's the most important conditioning work for someone training at high volume.
 
 ### 3. "I'll just do HIIT instead of jogging"
-HIIT is glycolytic. Jogging is aerobic. They train different engines. Replacing one with the other creates a gap. A fighter who only does HIIT and sparring has a strong glycolytic engine but a weak recovery engine — they gas out not from effort but from accumulated fatigue across the week.
+HIIT is glycolytic. Jogging is aerobic. They train different engines. Replacing one with the other creates a gap. A grappler who only does HIIT and randori has a strong glycolytic engine but a weak recovery engine — they gas out not from effort but from accumulated fatigue across the week.
 
 ### 4. "Sprint intervals = sprinting"
 Sprint intervals with short rest (15 sec sprint / 45 sec rest × 10) are glycolytic training disguised as sprinting. True alactic sprint training is MAX effort for 5-8 seconds with FULL recovery (2-3 minutes). If you're breathing hard before the next sprint, you're training the wrong engine.
@@ -280,8 +283,8 @@ Conditioning has the sharpest diminishing returns of any training quality. Beyon
 
 A fully conditioned IXNAH practitioner can:
 
-- **Explode:** Sprint 40m at full speed. Throw with maximum power. Hit a 3-punch combination with no telegraph.
-- **Sustain:** Fight for 3 minutes at high output without fading. Grapple for 2 minutes without letting go. Complete a HIIT circuit without form collapse.
+- **Explode:** Sprint 40m at full speed. Throw with maximum power. Close the distance to clinch range in under a second.
+- **Sustain:** Fight for 4 minutes at high output without fading. Grapple for 2 minutes without letting go. Complete a HIIT circuit without form collapse.
 - **Recover:** Heart rate returns to baseline within 2 minutes of stopping. Feel fresh 24 hours after a hard session. Train 5-6 days per week without accumulating chronic fatigue.
 
 The third one is the most important and the most neglected. Explosiveness and endurance get attention because they feel impressive. Recovery is invisible — until it fails, and then everything else fails with it.

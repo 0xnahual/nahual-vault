@@ -12,8 +12,11 @@ Every movement was selected because it:
 1. Covers a fundamental movement pattern (pull, push, squat, hinge, carry)
 2. Uses bodyweight or minimal equipment (barbell not required)
 3. Has a clear progression from beginner to advanced
-4. Directly transfers to combat (Judo, K1) and daily life
+4. Directly transfers to combat (Judo) and daily life
 5. Cannot be removed without creating a gap
+
+**Primary domain:** STRENGTH
+**Supporting domains:** INNER ANIMAL, DEFENDING, ENDURANCE, LONGEVITY
 
 ---
 
@@ -26,7 +29,7 @@ A weak grip means you can't use the strength you have. Period. It doesn't matter
 **Why grip is elevated above all other attributes in IXNAH:**
 
 - **Longevity:** Grip strength is the single strongest predictor of all-cause mortality. Study after study confirms it. A strong grip = a long life. Nothing else comes close as a single-metric predictor.
-- **Combat:** Judo is grip fighting. The match is won or lost in the first 5 seconds of kumi-kata. Lose the grip, lose the throw. In K1, clinch control is grip. Wrist control is grip.
+- **Combat:** Judo is grip fighting. The match is won or lost in the first 5 seconds of kumi-kata. Lose the grip, lose the throw. Clinch control is grip. Wrist control is grip.
 - **Daily function:** Carrying, opening, holding, catching, climbing — grip is the interface between the body and the world.
 - **Force transmission:** Every upper body movement transmits force through the hands. Weak grip = leaked power. The chain breaks at its weakest link.
 
@@ -39,7 +42,7 @@ Grip is NOT trained as a separate session. It is woven into every movement throu
 | **Support grip** (hanging) | Dead hang holds, pullup bar time | Shoulder health, spinal decompression, Judo grip endurance |
 | **Crush grip** (squeezing) | Gi pullups, towel pullups, heavy KB swings | Judo kumi-kata, clinch fighting |
 | **Pinch grip** (thumb opposition) | Plate pinches, towel hangs | Grip versatility, wrist resilience |
-| **Wrist strength** | KB bottoms-up press, wrist curls (minimal) | Punch alignment, wrist injury prevention |
+| **Wrist strength** | KB bottoms-up press, wrist curls (minimal) | Throw entry wrist stability, injury prevention |
 
 **The rule:** If you can make an exercise harder by changing the grip surface (thicker bar, towel, gi), do it. Grip training happens INSIDE the compounds, not alongside them.
 
@@ -54,7 +57,7 @@ Grip is NOT trained as a separate session. It is woven into every movement throu
 2. Horizontal Pull   →  Body Row
 3. Vertical Push     →  Dip
 4. Horizontal Push   →  Pushup
-5. Knee Dominant     →  Squat → Pistol Squat
+5. Knee Dominant     →  Squat (Loaded)
 6. Hip Dominant      →  Kettlebell Swing
 7. Loaded Carry      →  Farmer's Carry
 ```
@@ -93,7 +96,7 @@ Seven patterns. Seven exercises. Every major muscle group. Every fundamental hum
 - Endurance: 3 × max reps bodyweight
 - Mastery test: 15 strict pullups OR 5 × weighted at +20 kg
 
-**IXNAH domain:** Strength
+**IXNAH domain:** STRENGTH + INNER ANIMAL
 
 ---
 
@@ -121,7 +124,7 @@ Seven patterns. Seven exercises. Every major muscle group. Every fundamental hum
 - Strength: 4 × 8-12 at the hardest angle manageable
 - Mastery test: 10 reps feet-elevated with controlled 2-second pause at chest
 
-**IXNAH domain:** Strength + Defending (posture, pulling opponents into control)
+**IXNAH domain:** STRENGTH + DEFENDING
 
 ---
 
@@ -132,7 +135,7 @@ Seven patterns. Seven exercises. Every major muscle group. Every fundamental hum
 **Why it's in IXNAH:**
 - The hardest bodyweight upper body push
 - Direct transfer to frames and posting in grappling (pushing away from the ground or an opponent while in bottom position)
-- Elbow extension strength = punch lockout, stiff-arm
+- Elbow extension strength = stiff-arm, frames from guard
 - Shoulder stability in the extended position
 
 **Progressions:**
@@ -147,7 +150,7 @@ Seven patterns. Seven exercises. Every major muscle group. Every fundamental hum
 - Endurance: 3 × max reps bodyweight
 - Mastery test: 10 strict parallel bar dips OR 5 × weighted at +15 kg
 
-**IXNAH domain:** Strength + Violence (pushing, framing, striking base)
+**IXNAH domain:** STRENGTH + DEFENDING
 
 ---
 
@@ -158,54 +161,58 @@ Seven patterns. Seven exercises. Every major muscle group. Every fundamental hum
 **Why it's in IXNAH:**
 - The most fundamental human pressing movement
 - Ground-up pressing = getting up from ground, ground fighting recovery
-- Anti-extension core demand = trunk stability during strikes
+- Anti-extension core demand = trunk stability under grappling pressure
 - Infinite variations = never outgrow it
 
 **Progressions:**
 1. Incline pushup (hands on bench)
 2. Standard pushup (strict — chest to ground, full lockout)
-3. Diamond pushup (triceps emphasis, closer to striking alignment)
+3. Diamond pushup (triceps emphasis)
 4. Archer pushup (unilateral progression)
 5. Pseudo-planche pushup (lean forward, shoulders past hands)
 6. One-arm pushup (long-term)
-7. Explosive variations move to Tendon Work (clap pushups, plyo pushups)
+7. Explosive variations move to ENDURANCE (clap pushups, plyo pushups)
 
 **Rep targets:**
 - Strength: Whichever progression allows 4 × 8-12
-- Endurance: 50+ standard pushups in one set (K1/Judo conditioning baseline)
+- Endurance: 50+ standard pushups in one set (Judo conditioning baseline)
 - Mastery test: 10 strict diamond pushups OR 5 one-arm pushups each side
 
-**IXNAH domain:** Strength + Violence
+**IXNAH domain:** STRENGTH + INNER ANIMAL
 
 ---
 
-### 5. Squat → Pistol Squat — The Knee Dominant Pattern
+### 5. Squat (Loaded) — The Knee Dominant Pattern
 
-**What it trains:** Quads, glutes, adductors, core, ankle mobility, balance, single-leg stability.
+**What it trains:** Quads, glutes, adductors, core, spinal stability under load.
 
 **Why it's in IXNAH:**
-- Squatting is the most fundamental human movement pattern
-- Pistol squat = unilateral leg strength + balance + ankle mobility in one exercise
-- Direct transfer to: kicking (single-leg stability on the base leg), stance depth (Ma Bu, Gong Bu), takedown defense (staying upright under pressure)
-- Ankle dorsiflexion requirement reinforces the 4th Sacred Mobility Portal
+- The squat is the most fundamental human movement pattern
+- Loaded squatting builds raw leg strength that transfers to: throwing power (driving through the legs in Judo), sprinting (INNER ANIMAL), carrying, climbing
+- Sandbag loading adds an unstable, shifting element — closer to real-world loads than a barbell
+- Unlike the pistol squat (which lives in Mobility), the loaded squat prioritizes FORCE PRODUCTION, not range of motion
 
 **Progressions:**
-1. Bodyweight squat (full depth, heels down)
+1. Bodyweight squat (full depth, heels down — master form first)
 2. Deep squat hold (Malasana — 2 minutes)
-3. Goblet squat (KB in front, depth focus)
-4. Bulgarian split squat (single-leg introduction)
-5. Assisted pistol squat (holding post/band)
-6. Full pistol squat (no assistance)
-7. Weighted pistol squat (KB in goblet position)
+3. Goblet squat (KB in front, depth + core)
+4. Sandbag squat — 20 kg (bear hug position)
+5. Sandbag squat — 30 kg
+6. Heavy sandbag squat — 40+ kg
+7. Zercher squat with sandbag (in elbow crooks — brutal core demand)
 
-**Stance integration:** The squat progression overlaps with Ma Bu (horse stance) holds. Ma Bu IS an isometric squat at specific width and depth. As squat strength increases, Ma Bu duration increases.
+**Why sandbag over barbell:**
+- Sandbag shifts and moves — the core must stabilize constantly. A barbell is rigid. Real-world loads (people, objects, bags) are not rigid.
+- Sandbag bear hug position mimics the grappling clinch — holding a heavy, awkward object tight to the body.
+- No rack required. No gym required. A sandbag costs almost nothing and works anywhere.
+- If a barbell is available, front squat and Zercher squat are acceptable alternatives. Back squat is fine but the sandbag is more IXNAH.
 
 **Rep targets:**
-- Bilateral: Bodyweight squat 50+ reps (conditioning)
-- Unilateral: 5 strict pistol squats each leg
-- Mastery test: 3 pistol squats each leg with 16 kg KB in goblet hold
+- Strength: 5 × 5 at 40 kg sandbag, full depth
+- Endurance: 20+ bodyweight squats (conditioning)
+- Mastery test: 5 × 5 with 40 kg sandbag, full depth, controlled tempo
 
-**IXNAH domain:** Strength + Moving
+**IXNAH domain:** STRENGTH + INNER ANIMAL (raw, unstable loading)
 
 ---
 
@@ -215,7 +222,7 @@ Seven patterns. Seven exercises. Every major muscle group. Every fundamental hum
 
 **Why it's in IXNAH:**
 - The hip hinge is the most powerful movement pattern in the human body — more force generated here than anywhere else
-- Direct transfer to: Judo throws (every hip throw is a loaded hip hinge), K1 kicks (hip extension drives the leg), sprinting (hip extension = speed)
+- Direct transfer to: Judo throws (every hip throw is a loaded hip hinge), sprinting (hip extension = speed), explosive clinch entry
 - Safer than deadlifts for high-rep power development. Less spinal compression. Ballistic rather than grind.
 - Also serves as conditioning — high-rep swings are brutal cardio
 - Grip demand scales with bell weight
@@ -223,7 +230,7 @@ Seven patterns. Seven exercises. Every major muscle group. Every fundamental hum
 **Why KB swing over barbell deadlift:**
 - The deadlift is an excellent exercise. But IXNAH optimizes for martial arts transfer, not powerlifting numbers.
 - KB swing is BALLISTIC (power). Deadlift is GRIND (strength). For fighting, ballistic hip extension matters more.
-- KB swing trains the snap — the fast hip extension that powers throws and kicks. The deadlift trains the slow grind.
+- KB swing trains the snap — the fast hip extension that powers throws. The deadlift trains the slow grind.
 - KB swing has a lower injury risk at high volume. A tired deadlift gets ugly. A tired swing just gets less explosive.
 - If you can swing a 32 kg KB for sets of 20, you can deadlift respectable weight. The reverse isn't always true.
 
@@ -244,7 +251,7 @@ Seven patterns. Seven exercises. Every major muscle group. Every fundamental hum
 - Strength: 5 × 5 one-hand swing at 32 kg
 - Mastery test: 10 × 10 swings at 32 kg in under 10 minutes (Simple & Sinister standard)
 
-**IXNAH domain:** Strength
+**IXNAH domain:** STRENGTH + ENDURANCE
 
 ---
 
@@ -255,7 +262,7 @@ Seven patterns. Seven exercises. Every major muscle group. Every fundamental hum
 **Why it's in IXNAH:**
 - The most functional exercise that exists. Picking something heavy up and walking with it is the oldest human movement.
 - Exposes grip as the limiting factor — you will fail at your hands before anything else
-- Anti-lateral flexion = core stability that transfers to EVERYTHING (absorbing strikes, resisting throws, maintaining posture under fatigue)
+- Anti-lateral flexion = core stability that transfers to EVERYTHING (resisting throws, maintaining posture under fatigue)
 - Trap and upper back strength = injury-proof neck and shoulders for combat
 - Cardiovascular demand that doesn't require running
 - The carry is the truth test for total body strength — it reveals weak links immediately
@@ -281,7 +288,7 @@ The original 6 cover pull, push, squat, hinge. But none of them load the body in
 - Time: 60 seconds hold at max weight
 - Mastery test: 40m unbroken with 40 kg each hand, upright posture, controlled breathing
 
-**IXNAH domain:** Strength + Longevity
+**IXNAH domain:** STRENGTH + LONGEVITY + INNER ANIMAL
 
 ---
 
@@ -289,13 +296,13 @@ The original 6 cover pull, push, squat, hinge. But none of them load the body in
 
 | # | Movement | Pattern | Primary Muscles | IXNAH Domain | Grip? |
 |---|----------|---------|----------------|--------------|-------|
-| 1 | Pullup | Vertical Pull | Lats, biceps, forearms | Strength | Yes — support, crush (towel) |
-| 2 | Body Row | Horizontal Pull | Upper back, rear delts, biceps | Strength + Defending | Yes — variable |
-| 3 | Dip | Vertical Push | Chest, triceps, delts | Strength + Violence | Moderate |
-| 4 | Pushup | Horizontal Push | Chest, triceps, core | Strength + Violence | Low |
-| 5 | Squat → Pistol | Knee Dominant | Quads, glutes, core | Strength + Moving | Low |
-| 6 | KB Swing | Hip Dominant | Glutes, hamstrings, grip | Strength | Yes — crush |
-| 7 | Farmer's Carry | Loaded Carry | Grip, traps, core, everything | Strength + Longevity | Yes — primary |
+| 1 | Pullup | Vertical Pull | Lats, biceps, forearms | STRENGTH + INNER ANIMAL | Yes — support, crush (towel) |
+| 2 | Body Row | Horizontal Pull | Upper back, rear delts, biceps | STRENGTH + DEFENDING | Yes — variable |
+| 3 | Dip | Vertical Push | Chest, triceps, delts | STRENGTH + DEFENDING | Moderate |
+| 4 | Pushup | Horizontal Push | Chest, triceps, core | STRENGTH + INNER ANIMAL | Low |
+| 5 | Squat (Loaded) | Knee Dominant | Quads, glutes, core | STRENGTH + INNER ANIMAL | Low |
+| 6 | KB Swing | Hip Dominant | Glutes, hamstrings, grip | STRENGTH + ENDURANCE | Yes — crush |
+| 7 | Farmer's Carry | Loaded Carry | Grip, traps, core, everything | STRENGTH + LONGEVITY + INNER ANIMAL | Yes — primary |
 
 ---
 
@@ -306,13 +313,13 @@ Vertical Pull        ✅  Pullup
 Vertical Push        ✅  Dip
 Horizontal Pull      ✅  Body Row
 Horizontal Push      ✅  Pushup
-Knee Dominant        ✅  Squat → Pistol
+Knee Dominant        ✅  Squat (Loaded)
 Hip Dominant         ✅  KB Swing
 Loaded Carry         ✅  Farmer's Carry
-Rotation             ⚠️  Covered by Combat (Judo throws, K1 kicks/hooks) — see note below
+Rotation             ⚠️  Covered by Combat (Judo throws, rotational clinch work) — see note below
 ```
 
-**Note on Rotation:** The transverse plane (rotation) is not covered by a dedicated compound. This is intentional — IXNAH combat training (Judo throws, K1 roundhouse kicks, hooks, body shots) provides high-volume loaded rotation 4x/week. If combat volume drops or rotational power feels insufficient, landmine rotation is the recommended addition. See the dedicated rotation discussion in the IXNAH architecture documentation.
+**Note on Rotation:** The transverse plane (rotation) is not covered by a dedicated compound. This is intentional — IXNAH combat training (Judo throws, rotational clinch work, hip-driven entries) provides high-volume loaded rotation 3x/week. If combat volume drops or rotational power feels insufficient, landmine rotation is the recommended addition. See the dedicated rotation discussion in the IXNAH architecture documentation.
 
 ---
 
@@ -321,14 +328,17 @@ Rotation             ⚠️  Covered by Combat (Judo throws, K1 kicks/hooks) —
 | Day | Session | Primary Compounds |
 |-----|---------|-------------------|
 | Monday AM | IXNAH Power | KB Swing (explosive), Pushup variations (explosive) |
+| Monday PM | Judo | — (combat application) |
 | Tuesday AM | IXNAH Pull | **Pullup**, **Body Row**, grip work |
 | Wednesday AM | IXNAH Mobility | — (mobility/flexibility focus) |
-| Thursday AM | IXNAH Legs + Hinge | **Squat → Pistol**, **KB Swing** (heavy), **Farmer's Carry** |
+| Wednesday PM | Judo | — (combat application) |
+| Thursday AM | IXNAH Legs + Hinge | **Squat (loaded)**, **KB Swing** (heavy), **Farmer's Carry** |
 | Friday AM | IXNAH Mobility | — (mobility/flexibility focus) |
+| Friday PM | Judo | — (combat application) |
 | Saturday | Creative | — |
-| Sunday AM | IXNAH Push | **Pushup**, **Dip**, shoulder work |
+| Sunday AM | IXNAH Push | **Pushup**, **Dip**, shoulder work + easy jog |
 
-Every compound hits at least once per week. Pull and push are separated by 5 days. Legs and hinge share a day because they synergize (posterior chain day). Farmer's carry sits on Thursday because it's the heaviest demand day and grip needs fresh hands.
+Every compound hits at least once per week. Pull and push are separated by 5 days. Legs and hinge share a day because they synergize (posterior chain day). Farmer's carry sits on Thursday because it's the heaviest demand day and grip needs fresh hands. Judo 3x/week provides combat application of all compounds.
 
 ---
 
@@ -338,8 +348,9 @@ The entire IXNAH strength system requires:
 
 1. **Pullup bar** (or gymnastics rings — covers pullups, body rows, dips)
 2. **Kettlebell(s)** — 16 kg, 24 kg, 32 kg progression (covers swings, goblet squats, farmer's carry, Turkish get-ups)
-3. **Towel or gi** (for grip variations on the pullup bar)
-4. **Parallel bars or dip station** (or rings)
+3. **Sandbag** — 20-40 kg adjustable (covers loaded squats, Zercher squats, bear hug carries)
+4. **Towel or gi** (for grip variations on the pullup bar)
+5. **Parallel bars or dip station** (or rings)
 
 No barbell. No gym membership required. No machines. The system works in a park, a garage, or a hotel room with a door-frame pullup bar and a single kettlebell.
 
@@ -375,11 +386,11 @@ When all 7 compounds are at mastery level:
 - **Body Row:** 10 feet-elevated with 2-second pause
 - **Dip:** 10 strict parallel bar OR 5 × weighted at +15 kg
 - **Pushup:** 10 diamond pushups OR 5 one-arm each side
-- **Pistol Squat:** 3 each leg with 16 kg KB goblet
+- **Squat (Loaded):** 5 × 5 with 40 kg sandbag, full depth, controlled tempo
 - **KB Swing:** 10 × 10 at 32 kg in under 10 minutes
 - **Farmer's Carry:** 40m unbroken at 40 kg each hand
 
-A body at these levels has no strength gaps. It can pull, push, squat, hinge, and carry at levels that exceed 95% of the general population. Combined with the 6 Master Flexibility Positions and the 4 Sacred Mobility Portals, the body has both strength AND freedom.
+A body at these levels has no strength gaps. It can pull, push, squat, hinge, and carry at levels that exceed 95% of the general population. Combined with the 6 Master Flexibility Positions and the IXNAH Mobility practice, the body has both strength AND freedom.
 
 That is IXNAH strength. Not bodybuilding. Not powerlifting. The minimum number of movements for the maximum capability of the human body.
 

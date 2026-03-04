@@ -18,7 +18,10 @@ Strength     →  Can the body produce FORCE?          (Loaded)
 
 Mobility is the bridge. It takes the range that flexibility opens and makes it usable. It takes the force that strength builds and extends it into positions where the body is vulnerable.
 
-A martial artist who is flexible but not mobile gets kicked in the head while doing the splits. A martial artist who is strong but not mobile can lift heavy things but can't drop into Pu Bu to avoid a sweep. A martial artist with mobility can access ANY position AND fight from it.
+A martial artist who is flexible but not mobile gets thrown while doing the splits. A martial artist who is strong but not mobile can lift heavy things but can't drop into Pu Bu to avoid a sweep. A martial artist with mobility can access ANY position AND fight from it.
+
+**Primary domain:** MOVING
+**Supporting domains:** INNER ANIMAL, DEFENDING, STRENGTH
 
 ---
 
@@ -34,14 +37,14 @@ IXNAH Mobility               →  Active end-range training (the work itself)
 The Portals OPEN the gates each morning. Mobility training BUILDS strength through those gates. The 6 Positions are what full passive range looks like. The 7 Compounds are what full strength looks like. Mobility is the overlap — strength expressed through full range.
 
 Some exercises appear in multiple categories. This is intentional:
-- **Pistol squat** → Primary: Strength (7 Compounds). Secondary: Mobility (requires full ankle/hip range).
-- **Pike pushup** → Primary: Mobility (shoulder end-range strength). Secondary: Strength (overhead press progression).
-- **Ma Bu** → Primary: Mobility (stance mastery). Also appears in Tendon Work (isometric hold for time).
+- **Pistol squat** → Primary: Mobility (full ankle/hip range + balance). No longer in Strength (7 Compounds uses loaded squat instead).
+- **Pike pushup** → Primary: Mobility (shoulder end-range strength). Lives here, not in Strength.
+- **Ma Bu** → Primary: Mobility (stance mastery). Also appears in ENDURANCE (isometric tendon conditioning, mental endurance).
 - **Loaded Jefferson Curl** → Primary: Mobility (strength at full spinal flexion). Also stretches hamstrings (flexibility).
 
 The same movement can serve multiple goals depending on INTENT:
 - Ma Bu held for position quality = mobility work
-- Ma Bu held for 3 minutes burning through the pain = tendon/isometric work
+- Ma Bu held for 3 minutes burning through the pain = ENDURANCE work (tendon/isometric conditioning)
 - Both are valuable. Both happen. The difference is what you're paying attention to.
 
 ---
@@ -66,7 +69,7 @@ No other mobility system has this. Yoga has poses. Calisthenics has holds. IXNAH
 
 **Mastery test:** 2 minutes at thighs-parallel with correct alignment.
 
-**Combat transfer:** Base for absorbing throws and strikes, wide stable platform for clinch fighting, lateral movement foundation.
+**Combat transfer:** Base for absorbing throws, wide stable platform for clinch fighting, lateral movement foundation.
 
 ---
 
@@ -78,11 +81,11 @@ No other mobility system has this. Yoga has poses. Calisthenics has holds. IXNAH
 - Hip flexor length on the back leg (active stretch under load)
 - Single-leg strength in the front leg
 - Sagittal plane stability
-- Entry position for strikes and throws
+- Entry position for throws
 
 **Mastery test:** Hold 60 seconds each side, back knee straight, torso upright, without front knee caving inward.
 
-**Combat transfer:** The punching and throwing stance. Every forward strike, every Judo entry, every step-in comes from Gong Bu or a variation of it.
+**Combat transfer:** The throwing stance. Every Judo entry, every step-in comes from Gong Bu or a variation of it.
 
 ---
 
@@ -217,7 +220,7 @@ The shoulders are the most mobile and most injury-prone joints in the body. Mobi
 - Shoulder stability under load
 - Progression toward handstand pushup
 
-**Dual citizenship:** Pike pushups are also a STRENGTH exercise (vertical push progression). In the strength context, they're a step toward handstand pushups. In the mobility context, they're building pressing strength at shoulder end-range. Both are true.
+**Why it lives in Mobility, not Strength:** Pike pushups are bodyweight end-range shoulder work. They are never loaded beyond bodyweight. The 7 Compounds handle raw strength with loaded movements. Pike pushups handle shoulder RANGE with bodyweight. The limiting factor is shoulder flexion range, not raw pressing power.
 
 **Progressions:**
 1. Standard pike pushup (feet on ground)
@@ -255,7 +258,7 @@ This is what lets you: kick high and hold the kick there, lift your legs in a ha
 
 **Mastery test:** 10 strict toes-to-bar with no kip or swing.
 
-**Combat transfer:** Guard recovery in grappling (pulling legs back in), knee strikes from clinch, active hip flexion for high kicks.
+**Combat transfer:** Guard recovery in grappling (pulling legs back in), active hip flexion for kicking base, explosiveness from ground.
 
 ---
 
@@ -285,7 +288,7 @@ This is what lets you: kick high and hold the kick there, lift your legs in a ha
 
 ### 5. Balance & Proprioception — Single-Leg Stability
 
-Balance is the ability to maintain position on a reduced base of support. In combat, you spend significant time on one leg — kicking, pivoting, being pushed. A body with poor balance falls. A body with good balance adjusts.
+Balance is the ability to maintain position on a reduced base of support. In combat, you spend significant time on one leg — pivoting, being pushed, recovering from throws. A body with poor balance falls. A body with good balance adjusts.
 
 #### Tree Stance
 
@@ -305,7 +308,33 @@ Balance is the ability to maintain position on a reduced base of support. In com
 
 **Mastery test:** 60 seconds each leg, eyes closed, no wobble.
 
-**Combat transfer:** Kicking base stability (the standing leg during a kick), recovery from being pushed off-balance, single-leg takedown defense.
+**Combat transfer:** Recovery from being pushed off-balance, single-leg takedown defense, stability during throw execution.
+
+---
+
+#### Pistol Squat — Single-Leg Depth Mastery
+
+**The exercise:** Full single-leg squat to maximum depth, other leg extended forward. Standing back up without assistance.
+
+**What it builds:**
+- Full ankle dorsiflexion under load (MOVING portal connection)
+- Single-leg hip flexion at end range
+- Balance and proprioception (the standing leg is doing everything)
+- Core stability through full range
+- Direct transfer to: single-leg stability in grappling, takedown defense, low stance recovery
+
+**Why it's in Mobility, not Strength:**
+The limiting factor in a pistol squat is NOT quad strength — it's ankle mobility, hip range, and balance. A person who can squat 100 kg bilaterally may fail a bodyweight pistol because they lack the RANGE. This is a mobility test, not a strength test. The loaded squat (sandbag) handles the strength side in the 7 Compounds.
+
+**Progressions:**
+1. Assisted pistol (holding post or band)
+2. Box pistol (sitting to low box, standing on one leg)
+3. Full pistol squat (bodyweight, no assistance)
+4. Weighted pistol (KB goblet hold — for those who've mastered the range)
+
+**Mastery test:** 5 strict pistol squats each leg, no assistance, controlled descent.
+
+**IXNAH domain:** MOVING + INNER ANIMAL (single-leg balance + primal capability)
 
 ---
 
@@ -328,7 +357,7 @@ Animal flow is multi-plane ground movement that integrates strength, mobility, b
 
 #### Why It's in IXNAH
 
-- **Ground literacy:** The ability to move on the ground — transition from standing to ground and back — without thinking. This is what separates a fighter from a person who knows how to punch.
+- **Ground literacy:** The ability to move on the ground — transition from standing to ground and back — without thinking. This is what separates a fighter from a person who knows techniques.
 - **Multi-plane movement:** Every other exercise in IXNAH is (mostly) sagittal or frontal plane. Animal flow adds rotation, lateral movement, crawling, and spiraling. The body learns to move in three dimensions.
 - **Joint health:** Ground movement loads the wrists, shoulders, hips, and ankles through unusual angles. This builds resilience in positions that standard training doesn't reach.
 - **Creativity:** Animal flow has no reps, no sets, no prescribed pattern. It's freestyle movement. This trains the body to IMPROVISE — which is exactly what combat demands.
@@ -378,37 +407,40 @@ The Back Bridge is one of the 6 Master Flexibility Positions (passive goal). But
 
 ## The Complete Map
 
-| # | Exercise | Category | What It Builds | Dual Citizenship |
-|---|----------|----------|----------------|------------------|
-| 1 | Ma Bu | Stance | Rooting, quad endurance, pelvic alignment | Tendon Work (isometric) |
-| 2 | Gong Bu | Stance | Entry position, hip flexor length, sagittal stability | — |
-| 3 | Pu Bu | Stance | Deep lateral mobility, single-leg squat | Flexibility (middle split progression) |
-| 4 | Xie Bu | Stance | Rotational hip mobility, balance | — |
-| 5 | Deep Squat | Stance | Full ankle/hip depth, resting position | — |
-| 6 | Stance transitions | Flow | Dynamic control, weight shifting | Internal arts |
-| 7 | Weight circles overhead | Overhead | Rotator cuff, shoulder circumduction | — |
-| 8 | Pike hold | Overhead + Compression | Shoulder flexion, core | — |
-| 9 | Pike pushup | Overhead | Overhead pressing at end range | Strength (vertical push) |
-| 10 | Hanging leg raises | Compression | Active hip flexion, core, grip | — |
-| 11 | Loaded Jefferson Curl | Compression | Spinal articulation, hamstring strength | Flexibility |
-| 12 | Bridge push-ups | Active extension | Spinal extension strength, shoulder extension | Flexibility (back bridge) |
-| 13 | Tree stance | Balance | Single-leg proprioception, focus | — |
-| 14 | Animal flow | Ground movement | Multi-plane mobility, creativity, ground literacy | — |
-| 15 | Pistol squat | — | Full single-leg depth + balance | Strength (7 Compounds — primary home) |
+| # | Exercise | Category | What It Builds | Domain Connection |
+|---|----------|----------|----------------|-------------------|
+| 1 | Ma Bu | Stance | Rooting, quad endurance, pelvic alignment | MOVING + ENDURANCE (isometric tendon conditioning) |
+| 2 | Gong Bu | Stance | Entry position, hip flexor length, sagittal stability | MOVING + DEFENDING |
+| 3 | Pu Bu | Stance | Deep lateral mobility, single-leg squat | MOVING (middle split progression) |
+| 4 | Xie Bu | Stance | Rotational hip mobility, balance | MOVING |
+| 5 | Deep Squat | Stance | Full ankle/hip depth, resting position | MOVING |
+| 6 | Stance transitions | Flow | Dynamic control, weight shifting | MOVING + INNER ANIMAL |
+| 7 | Weight circles overhead | Overhead | Rotator cuff, shoulder circumduction | MOVING + LONGEVITY |
+| 8 | Pike hold | Overhead + Compression | Shoulder flexion, core | MOVING |
+| 9 | Pike pushup | Overhead | Overhead pressing at end range | MOVING (Mobility, not Strength) |
+| 10 | Hanging leg raises | Compression | Active hip flexion, core, grip | MOVING + STRENGTH |
+| 11 | Loaded Jefferson Curl | Compression | Spinal articulation, hamstring strength | MOVING + LONGEVITY |
+| 12 | Bridge push-ups | Active extension | Spinal extension strength, shoulder extension | MOVING (flexibility bridge) |
+| 13 | Tree stance | Balance | Single-leg proprioception, focus | MOVING |
+| 14 | Pistol squat | Balance + Depth | Full single-leg depth, ankle/hip range, balance | MOVING + INNER ANIMAL |
+| 15 | Animal flow | Ground movement | Multi-plane mobility, creativity, ground literacy | MOVING + INNER ANIMAL |
 
 ---
 
 ## How Mobility Maps to the Weekly Schedule
 
-| Day | Morning Session | Mobility Focus |
-|-----|-----------------|----------------|
-| Monday (Power) | Warm-up only | Stance transitions as warm-up before explosive work |
-| Tuesday (Pull) | After pull work | Hanging leg raises (between pullup sets), dead hang holds |
-| **Wednesday (Mobility)** | **Full mobility session** | **Stances + transitions + flow + overhead work + animal flow** |
-| Thursday (Legs + Hinge) | Integrated | Pu Bu transitions, deep squat holds, pistol squat |
-| **Friday (Mobility)** | **Full mobility session** | **Stances + compression + bridge work + balance + Jefferson curl** |
+| Day | Session | Mobility Focus |
+|-----|---------|----------------|
+| Monday AM (Power) | Warm-up only | Stance transitions as warm-up before explosive work |
+| Monday PM (Judo) | — | Combat application |
+| Tuesday AM (Pull) | After pull work | Hanging leg raises (between pullup sets), dead hang holds |
+| **Wednesday AM (Mobility)** | **Full mobility session** | **Stances + transitions + flow + overhead work + animal flow** |
+| Wednesday PM (Judo) | — | Combat application |
+| Thursday AM (Legs + Hinge) | Integrated | Pu Bu transitions, deep squat holds, pistol squat |
+| **Friday AM (Mobility)** | **Full mobility session** | **Stances + compression + bridge work + balance + Jefferson curl** |
+| Friday PM (Judo) | — | Combat application |
 | Saturday | Creative | — |
-| Sunday (Push) | After push work | Pike pushups (part of push progression), pike holds |
+| Sunday AM (Push) | After push work | Pike pushups (part of mobility progression), pike holds |
 
 **Wednesday and Friday mornings ARE mobility sessions.** This is where silk reeling, Qi Gong, stance transitions, Sacred Mobility Portals, Jefferson Curls, and animal flow all live. The full mobility practice happens here — not as a warm-up for something else, but as the MAIN work.
 
@@ -423,6 +455,7 @@ The Back Bridge is one of the 6 Master Flexibility Positions (passive goal). But
    - Overhead work (circles + pike)
    - Compression (hanging leg raises + Jefferson curl)
    - Bridge work (bridge hold + bridge push-ups)
+   - Pistol squat practice
    - Animal flow (freestyle)                (10-15 min)
 6. Balance work (tree stance)               (2-3 min)
 ```
@@ -456,6 +489,7 @@ When IXNAH mobility is developed:
 - **Overhead:** Full shoulder circumduction under load. Pike pushups at steep angle. Shoulders have no dead zones.
 - **Compression:** Toes to bar, strict. Jefferson curl 4+ inches past toes. The body folds powerfully.
 - **Balance:** 60 seconds single-leg, eyes closed. Stability is unconscious.
+- **Pistol Squat:** 5 strict each leg, no assistance. Full depth is OWNED, not visited.
 - **Ground:** Animal flow is natural movement. The ground is home, not foreign territory.
 
 A body with full IXNAH mobility can access any position and WORK from it. Every stance is available. Every transition is controlled. Every range of motion is owned, not just visited.
